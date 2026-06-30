@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./uploads:/app/uploads
+      - ./outputs:/app/outputs
+      - ./benchmark/results:/app/benchmark/results
+    environment:
+      - FLASK_ENV=development
+      - UPLOAD_FOLDER=/app/uploads
+      - OUTPUT_FOLDER=/app/outputs
+    restart: always

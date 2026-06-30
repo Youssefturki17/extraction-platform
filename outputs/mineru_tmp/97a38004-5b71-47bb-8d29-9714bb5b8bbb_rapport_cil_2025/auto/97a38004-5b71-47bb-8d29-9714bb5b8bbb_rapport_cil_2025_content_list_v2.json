@@ -1,0 +1,4515 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                435,
+                178,
+                852,
+                273
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/86961d52d7905acce1eb70bc99dedd8d5ee679a40ac69094c2348b24b0b2367a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                35,
+                545,
+                368,
+                982
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C1L Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                456,
+                657,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Compagnie Internationale de Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                458,
+                552,
+                757,
+                600
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d8451bbe105343db2efd851347788eb60f53dd2eba1bf0b0d5640ee840fbedc4.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOMMAIRE"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=4>1- ACTIVITÉ ET RÉSULTAT</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=4>A- PRÉSENTATION DE LA SOCIÉTÉ</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=4>B- LE SECTEUR DE LEASING EN TUNISIE</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=4>C- LA PRODUCTION DE LA CIL</td><td rowspan=1 colspan=1>4</td></tr><tr><td rowspan=1 colspan=4>D- LA CLASSIFICATION DES ENGAGEMENTS</td><td rowspan=3 colspan=1>556</td></tr><tr><td rowspan=1 colspan=1>E- LE REFINANCEMENT</td><td rowspan=2 colspan=3></td></tr><tr><td rowspan=1 colspan=1>F- LES RÉSULTATS</td></tr><tr><td rowspan=1 colspan=1>G- L’ÉVOLUTION DE LA SOCIÉTÉ ET DE SES PERFORMANCES AU COURS DES 5DERNIÈRES ANNÉES</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>7</td></tr><tr><td rowspan=1 colspan=1>H- LES ÉVÉNEMENTS IMPORTANTS SURVENUS ENTRE LA DATE DE CLÔTUREDE L’EXERCICE ET LA DATE À LAQUELLE LE RAPPORT A ÉTÉ ÉTABLI</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>8</td></tr><tr><td rowspan=1 colspan=1>1- PRÉVISIONS D’ACTIVITÉ ET PERFORMANCE DE LA SOCIÉTÉ DURANT LESTROIS ANS À VENIR</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>8</td></tr><tr><td rowspan=3 colspan=1>J- ETAT DE RÉALISATION DES PRÉVISIONS ANNONCÉES</td><td rowspan=3 colspan=2></td><td></td><td></td></tr><tr><td rowspan=2 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=1>9</td></tr><tr><td rowspan=1 colspan=1>K- L’ACTIVITÉ EN MATIÈRE DE RECHERCHE ET DÉVELOPPEMENT</td><td rowspan=1 colspan=2></td><td></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>L- CHANGEMENT DE MÉTHODE DE PRÉSENTATION</td><td rowspan=1 colspan=2></td><td></td><td rowspan=1 colspan=1>10</td></tr><tr><td rowspan=1 colspan=1>2- PARTICIPATION</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>10</td></tr><tr><td rowspan=1 colspan=1>A- L’ACTIVITÉ DES SOCIÉTÉS DONT LA SOCIÉTÉ ASSURE LE CONTRÔLE</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>B- LA PRISE DE PARTICIPATION ET LES ALIÉNATIONS</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3- ACTIONNARIAT</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>10</td></tr><tr><td rowspan=1 colspan=1>4- OPÉRATION DE RACHAT DES ACTIONS PROPRES</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>11</td></tr><tr><td rowspan=1 colspan=1>5-  ORGANES D’ADMINISTRATION ET DE DIRECTION</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>12</td></tr><tr><td rowspan=1 colspan=1>6- LE TITRE EN BOURSE</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>15</td></tr><tr><td rowspan=1 colspan=1>7-  L’AFFECTATION DES RÉSULTATS</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>15</td></tr><tr><td rowspan=1 colspan=1>8- TABLEAU D’ÉVOLUTION DES CAPITAUX PROPRES</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>9- CONTRÔLE DES COMPTES</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>17</td></tr><tr><td rowspan=1 colspan=1>10- GESTION DES RESSOURCES HUMAINES</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>17</td></tr><tr><td rowspan=1 colspan=1>A- LES RESSOURCES HUMAINES</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>17</td></tr><tr><td rowspan=1 colspan=1>B- LA POLITIQUE SOCIALE</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>11- LE CONTRÔLE INTERNE</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>18</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                119,
+                93,
+                884,
+                803
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CiL lenng"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                983,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                927,
+                940,
+                946,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1- ACTIVITÉ ET RÉSULTAT"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                117,
+                489,
+                142
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A- PRESENTATION DE LA SOCIÉTÉ"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                173,
+                168,
+                549,
+                189
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dénomination : Compagnie Internationale de Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                231,
+                209,
+                630,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Forme Juridique : Société Anonyme"
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                225,
+                514,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Nationalité : Tunisienne"
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                242,
+                431,
+                259
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Capital Social : 35.000.000 dinars divisé en 7.000.000 actions de 5 dinars de nominal"
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                259,
+                843,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Siège Social : 16, Avenue Jean Jaurès – 1001 – Tunis"
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                278,
+                638,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Téléphone : 71 33 66 55"
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                294,
+                438,
+                311
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fax : 71 33 70 09"
+                    }
+                ]
+            },
+            "bbox": [
+                235,
+                312,
+                391,
+                328
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E-Mail : DG@cil.fin.tn"
+                    }
+                ]
+            },
+            "bbox": [
+                235,
+                329,
+                435,
+                346
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Identifiant Unique : 381878S"
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                347,
+                462,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "La société a pour objet principal d’effectuer des opérations de leasing portant sur des biens à usage industriel ou professionnel."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                409,
+                882,
+                447
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L'’activité de la société est régie par la loi n° 2016-48 du 11 juillet 2016 relative aux banques et aux établissements financiers, ainsi que la loi n° 94-89 du 26 juillet 1994 relative au leasing, telle qu'elle a été modifiée et complétée par la loi n° 2006-85 du 25 décembre 2006."
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                461,
+                885,
+                518
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "B- LE SECTEUR DE LEASING EN TUNISIE"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                173,
+                567,
+                613,
+                586
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le secteur du leasing a poursuivi sa dynamique de croissance en 2025. En effet, les nouvelles mises en force ont enregistré une progression de 6,2 %, passant de 2 162,6 MD en 2024 à 2 386,4 MD en 2024, puis à 2 533,9 MD en 2025."
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                602,
+                882,
+                659
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dans ce contexte, la CIL occupe la troisième position en termes de nouvelles mises en force, avec une part de marché de 15 %, stable par rapport à 2024."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                677,
+                882,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L’encours financier des sociétés de leasing a également connu une hausse de 7,7 %, pour atteindre 4 464,6 MD à fin 2025, contre 4 145,4 MD à fin 2024 et 3 785 MD à fin 2024."
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                733,
+                882,
+                772
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dans ce cadre, la CIL se positionne également à la troisième place en termes d’encours financier, avec une part de marché de 14,2 %, stable par rapport à 2024."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                790,
+                884,
+                829
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                823,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CiL Lenng"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                983,
+                67
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                927,
+                940,
+                946,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "C- LA PRODUCTION DE LA CIL"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                173,
+                67,
+                499,
+                86
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les mises en force ont atteint 379,9 MD au cours de l’année 2025 contre 375,1 MD au cours de l’année 2024, soit une augmentation de 4,8 MD (1,3%)."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                99,
+                882,
+                137
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L'encours financier est passé de 598,4 MD à fin 2024 à 632,2 MD à fin 2025, soit une augmentation de 33,7 MD (5,6%)."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                155,
+                882,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "La répartition des mises en force et de l’encours par secteur est la suivante :"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                212,
+                680,
+                231
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/67374f3c5b33e0be2583da7b641a6ec76c17dc799b3a5db2428f8ac4c52dd9be.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                115,
+                248,
+                494,
+                489
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a7ac3e6425d8a6591dca48055f6b6cc292c8ba1dd5d4afd6a44fcf7e3ef7a39c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Secteurs</td><td rowspan=1 colspan=1>MEF</td><td rowspan=1 colspan=1>ENCOURS</td></tr><tr><td rowspan=1 colspan=1>Industrie</td><td rowspan=1 colspan=1>35,4</td><td rowspan=1 colspan=1>62,5</td></tr><tr><td rowspan=1 colspan=1>Agriculture</td><td rowspan=1 colspan=1>61,4</td><td rowspan=1 colspan=1>97,1</td></tr><tr><td rowspan=1 colspan=1>BTP</td><td rowspan=1 colspan=1>26,6</td><td rowspan=1 colspan=1>41,2</td></tr><tr><td rowspan=1 colspan=1>Transport</td><td rowspan=1 colspan=1>27,8</td><td rowspan=1 colspan=1>38,5</td></tr><tr><td rowspan=1 colspan=1>Tourisme</td><td rowspan=1 colspan=1>41,5</td><td rowspan=1 colspan=1>65,5</td></tr><tr><td rowspan=1 colspan=1>Location de Voitures</td><td rowspan=1 colspan=1>94,2</td><td rowspan=1 colspan=1>150,0</td></tr><tr><td rowspan=1 colspan=1>Commerce</td><td rowspan=1 colspan=1>55,7</td><td rowspan=1 colspan=1>97,2</td></tr><tr><td rowspan=1 colspan=1>Services Divers</td><td rowspan=1 colspan=1>37,2</td><td rowspan=1 colspan=1>80,2</td></tr><tr><td rowspan=1 colspan=1>TOTAL</td><td rowspan=1 colspan=1>379,9</td><td rowspan=1 colspan=1>632,2</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                576,
+                278,
+                931,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "La répartition par type de matériel est la suivante :"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                512,
+                489,
+                531
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/80b257090c7578240da0efb154bc481639f935e98169158815eda2cbc35db546.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                117,
+                550,
+                468,
+                868
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0bcdab876c977607a9beb3a2181675ebba9ae62b5dab5e3e494b1f67a67f6152.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Type d&#x27;immobilisation</td><td rowspan=1 colspan=1>M E F</td><td rowspan=1 colspan=1>ENCOURS</td></tr><tr><td rowspan=1 colspan=1>Véhicules utilitaires</td><td rowspan=1 colspan=1>96,2</td><td rowspan=1 colspan=1>146,9</td></tr><tr><td rowspan=1 colspan=1>Voitures individuelles</td><td rowspan=1 colspan=1>91,0</td><td rowspan=1 colspan=1>152</td></tr><tr><td rowspan=1 colspan=1>Voitures de location</td><td rowspan=1 colspan=1>90,4</td><td rowspan=1 colspan=1>144,7</td></tr><tr><td rowspan=1 colspan=1>Véhicules de transportdes personnes</td><td rowspan=1 colspan=1>25,5</td><td rowspan=1 colspan=1>51,6</td></tr><tr><td rowspan=1 colspan=1>Véhicules de transportlourd</td><td rowspan=1 colspan=1>23,9</td><td rowspan=1 colspan=1>39,6</td></tr><tr><td rowspan=1 colspan=1>Équipements de BTP</td><td rowspan=1 colspan=1>16,9</td><td rowspan=1 colspan=1>24,8</td></tr><tr><td rowspan=1 colspan=1>Autres Équipements</td><td rowspan=1 colspan=1>16,4</td><td rowspan=1 colspan=1>27,5</td></tr><tr><td rowspan=1 colspan=1>Immobiliers</td><td rowspan=1 colspan=1>19,7</td><td rowspan=1 colspan=1>45</td></tr><tr><td rowspan=1 colspan=1>TOTAL</td><td rowspan=1 colspan=1>379,9</td><td rowspan=1 colspan=1>632,2</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                605,
+                556,
+                959,
+                808
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                714,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CIL Lenng"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                981,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                927,
+                940,
+                946,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "D- LA CLASSIFICATION DES ENGAGEMENTS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                173,
+                79,
+                658,
+                98
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Au 31/12/2025, les engagements de la CIL auprès de la clientèle de leasing se présentent comme suit (en milliers de dinars) :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                117,
+                878,
+                155
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3a0def88c660ec75813f8e700cb36cd2716c33153ae075eda80b6361c588debb.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">Encours</td><td rowspan=\"2\">Contrat en instance de MEF</td><td rowspan=\"2\">Impayés</td><td rowspan=\"2\">Avances reçues</td><td rowspan=\"2\">TOTAL</td></tr><tr><td></td><td>financiers</td></tr><tr><td>Créances courantes</td><td>613 844</td><td>600</td><td>16 619</td><td>-6 194</td><td>624 869</td></tr><tr><td>Créances classées</td><td>22 540</td><td>0</td><td>35 890</td><td>-320</td><td>58 110</td></tr><tr><td>Engagements hors bilan</td><td>28 402</td><td>0</td><td>0</td><td>0</td><td>28 402</td></tr><tr><td>TOTAL</td><td>664 787</td><td>600</td><td>52 509</td><td>-6 514</td><td>711 382</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                115,
+                166,
+                875,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le total des engagements de la CIL (sans engagements hors bilan) est passé de 649,889 MD au 31/12/2024 à 682 980 MD au 31/12/2025, soit une augmentation de 5%."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                284,
+                882,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les créances classées ont augmenté de 3% passant de 56,386 MD en 2024 à 58,110 MD en 2025."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                332,
+                850,
+                353
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les créances radiées s’élèvent au 31/12/2025 à 4,885 MD contre un montant de 2,239 au 31/12/2024."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                363,
+                870,
+                384
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le ratio des créances accrochées par rapport au total des engagements est passé de 8,35% à fin 2024 à 8,17% à fin 2025."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                394,
+                882,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le ratio de couverture des créances accrochées par les provisions est passé de 63,27% à fin 2024 à 61,01% à fin 2025."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                444,
+                882,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Une dotation aux provisions collectives supplémentaire de 0,605 MD a été constatée au cours de l’exercice 2025 pour atteindre un montant de 9,984 MD et ce conformément à la nouvelle méthode de calcul prévue au niveau de la circulaire BCT 2025-01 du 29/01/2025."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                493,
+                884,
+                551
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "E- LE REFINANCEMENT"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                173,
+                562,
+                433,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pour couvrir ses besoins en ressources, la CIL a cherché à optimiser le coût de ses ressources en recourant essentiellement aux crédits auprès des banques locales."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                599,
+                882,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Au 31/12/2025, les emprunts et dettes rattachées se présentent comme suit (en milliers de dinars) :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                648,
+                850,
+                667
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1866dd245ab5280a8d6be26445176e6adcda6aff1d69178699ea73cb518688f9.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2024</td><td rowspan=1 colspan=1>Remb.</td><td rowspan=1 colspan=1>Utilisat.</td><td rowspan=1 colspan=1>2025</td><td rowspan=1 colspan=1>Evolution</td></tr><tr><td rowspan=1 colspan=1>Emprunts Obligataires</td><td rowspan=1 colspan=1>25 500</td><td rowspan=1 colspan=1>-7 500</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>18 000</td><td rowspan=1 colspan=1>-7 500</td></tr><tr><td rowspan=1 colspan=1>Emprunts Etrangers</td><td rowspan=1 colspan=1>78 678</td><td rowspan=1 colspan=1>-25 697</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>52 980</td><td rowspan=1 colspan=1>-25 697</td></tr><tr><td rowspan=1 colspan=1>Emprunts locaux (MT)</td><td rowspan=1 colspan=1>325 878</td><td rowspan=1 colspan=1>-104 428</td><td rowspan=1 colspan=1>165 000</td><td rowspan=1 colspan=1>386 450</td><td rowspan=1 colspan=1>60 572</td></tr><tr><td rowspan=1 colspan=1>Certificats de Leasing</td><td rowspan=1 colspan=1>58 333</td><td rowspan=1 colspan=1>-83 333</td><td rowspan=1 colspan=1>50 000</td><td rowspan=1 colspan=1>25 000</td><td rowspan=1 colspan=1>-33 333</td></tr><tr><td rowspan=1 colspan=1>Total des emprunts à moyen terme</td><td rowspan=1 colspan=1>488 388</td><td rowspan=1 colspan=1>-220 958</td><td rowspan=1 colspan=1>215 000</td><td rowspan=1 colspan=1>482 430</td><td rowspan=1 colspan=1>-5 958</td></tr><tr><td rowspan=1 colspan=1>Certificats de Dépôt</td><td rowspan=1 colspan=1>6 500</td><td rowspan=1 colspan=1>-175 000</td><td rowspan=1 colspan=1>199 000</td><td rowspan=1 colspan=1>30 500</td><td rowspan=1 colspan=1>24 000</td></tr><tr><td rowspan=1 colspan=1>Total des emprunts à court terme</td><td rowspan=1 colspan=1>6 500</td><td rowspan=1 colspan=1>-175 000</td><td rowspan=1 colspan=1>199 000</td><td rowspan=1 colspan=1>30 500</td><td rowspan=1 colspan=1>24 000</td></tr><tr><td rowspan=1 colspan=1>Total des emprunts</td><td rowspan=1 colspan=1>494 888</td><td rowspan=1 colspan=1>-395 958</td><td rowspan=1 colspan=1>414 000</td><td rowspan=1 colspan=1>512 930</td><td rowspan=1 colspan=1>18 042</td></tr><tr><td rowspan=1 colspan=1>Dettes rattachées</td><td rowspan=1 colspan=1>9 935</td><td rowspan=1 colspan=1>-9 935</td><td rowspan=1 colspan=1>10 027</td><td rowspan=1 colspan=1>10 027</td><td rowspan=1 colspan=1>92</td></tr><tr><td rowspan=1 colspan=1>Emprunts et dettes rattachés</td><td rowspan=1 colspan=1>504 823</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>522 958</td><td rowspan=1 colspan=1>18 134</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                115,
+                682,
+                880,
+                907
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "F- LES RÉSULTATS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                173,
+                67,
+                384,
+                86
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les intérêts et produits assimilés de leasing (avant variation des produits réservés) sont passés de 86,470 MD en 2024 à 92,156 MD en 2025, soit une évolution de 5,686 MD (6,6%). Ils se répartissent comme suit :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                102,
+                884,
+                158
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ad151f352ada5bc5c48db7b2f9f6273c1ad5ca85752a8db1b1f505170181b2f9.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=4>2025            2024</td></tr><tr><td rowspan=6 colspan=1>Intérêts et produits de leasingIntérêts de retardAutres produits de leasingTotalVariation des produits réservésTotal des intérêts et produits de leasing</td><td rowspan=1 colspan=1>87 173</td><td rowspan=1 colspan=1>81 640</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2731</td><td rowspan=1 colspan=1>2651</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2252</td><td rowspan=1 colspan=1>2179</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>92 156</td><td rowspan=1 colspan=1>86 470</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>-1 189</td><td rowspan=1 colspan=1>-1 800</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>90 968</td><td rowspan=1 colspan=2>84 671</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                189,
+                158,
+                811,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les intérêts et charges assimilées supportés au titre des ressources de financement sont passés de 47,351 MD en 2024 à 48,094 MD en 2025, soit une augmentation de 0,743 MD (1,6%)."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                335,
+                882,
+                376
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le produit net est passé de 45,013 MD en 2024 à 49,310 MD en 2025, soit une augmentation de 4,297 MD (9,5%). Il se détaille comme suit :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                392,
+                884,
+                430
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f6d45cda36b7e9e593e9b696fd2ddbaebd89b9d9d0bfa6e2ff93ca5a52a4084a.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>(en milliers de dinars)</td><td>2025</td><td>2024</td></tr><tr><td rowspan=\"3\">Intérêts et produits de leasing (avant var° des agios) Intérêts &amp; charges assimilés</td><td>92 156</td><td>86 470</td></tr><tr><td>-48 094</td><td>-47 351 7 532</td></tr><tr><td colspan=\"2\">6 265</td></tr><tr><td rowspan=\"4\">Autres Produits</td><td>170</td><td>161</td></tr><tr><td>PRODUIT NET</td><td>50 499 46 813</td></tr><tr><td>Variation des produits réservés</td><td>-1 189 -1 800</td></tr><tr><td>PRODUIT NET (après produits réservés) 49 310</td><td>45 013</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                163,
+                429,
+                836,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les charges d’exploitation sont passées de 13,537 MD au cours de l’année 2024 à 15,270 MD au cours de l’année 2025, soit une augmentation de 1,734 MD (13 %). Cette évolution s’explique principalement par la hausse des charges de personnel (+14 %), consécutive à l’application de la loi n° 9-2025 du 21 mai 2025 relative aux contrats de travail, ainsi qu'à l’augmentation corrélative des effectifs. Elle s’explique également par la progression des honoraires de gestion, liée à l’accroissement des montants placés dans les fonds gérés par CIL SICAR, dans le cadre de l’optimisation fiscale visant à bénéficier d’un dégrèvement financier."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                601,
+                885,
+                734
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le coefficient d’exploitation (charges d’exploitation / produit net après agios réservés) a enregistré une légère hausse, passant de 30,1 % à fin 2024 à 31 % à fin 2025."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                745,
+                882,
+                783
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/48ffb76c11ca99617f6d6a184686b1470f5fb57f44d5fae6ad757df0c9cb8188.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>(en milliers de dinars)</td><td>2025</td><td>2024</td></tr><tr><td>Charges du personnel</td><td>10 063</td><td>8 816</td></tr><tr><td>Amortissements</td><td>691</td><td>535</td></tr><tr><td>Autres charges d&#x27;exploitation</td><td>4 517</td><td>4 186</td></tr><tr><td>Total</td><td>15 270</td><td>13 537</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                223,
+                794,
+                778,
+                877
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les dotations nettes aux provisions liées à la clientèle sont passées de 2,844 MD en 2024 à 3,671 MD en 2025. Le détail de cette rubrique se présente comme suit :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                877,
+                882,
+                915
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                981,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                947,
+                939,
+                966,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d8fb99c7fdaa2fe1fe58e3dc6833514007bece4a2108295c5889b3d31314dedf.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">2025</td></tr><tr><td rowspan=\"2\">Dotations aux provisions pour risques sur la clientèle Reprises de provisions</td><td>2024 7 894 5 977</td></tr><tr><td>-4 418 -3 258</td></tr><tr><td rowspan=\"2\">Dotation aux provisions individuelles</td><td>3 476 2 719</td></tr><tr><td></td></tr><tr><td rowspan=\"2\">Dotation (Reprises) aux provisions collectives</td><td>605 530</td></tr><tr><td></td></tr><tr><td rowspan=\"2\">Encaissement sur créances radiées</td><td>-410 -405</td></tr><tr><td></td></tr><tr><td>Dotations nettes aux provisions</td><td>3 671 2 844</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                164,
+                66,
+                836,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le coût du risque global (Dotations aux provisions & Agios réservés) est passé de 4,644 MD à fin 2024 à 4,859 MD à fin 2025, soit une augmentation de 0,216 MD."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                261,
+                882,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les autres provisions sont passés de 0,725 MD à fin 2024 à 1,337 MD à fin 2025 et concerne essentiellement les provisions pour divers risques."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                306,
+                882,
+                342
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les autres gains ordinaires sont passés de 0,293 MD à fin 2024 à 1,454 MD à fin 2025. Cette évolution s’explique principalement par les plus-values réalisées sur la cession des immeubles hors exploitation de la CIL pour un montant de 0,788 MD, les plus-values issues de la cession de certaines voitures pour 0,192 MD, ainsi que les autres gains résultant de l’apurement des comptes clients et des prestataires d’assurances pour 0,474 MD."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                350,
+                884,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le résultat net avant impôt est passé de 28,200 MD au cours de l’année 2024 à 30,485 MD au cours de l’année 2025, soit une augmentation de 8,1%."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                444,
+                880,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le résultat net est passé de 19,863 MD au cours de l’année 2024 à 21,384 MD au cours de l’année 2025, soit une augmentation de 7,7%."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                489,
+                882,
+                525
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "G- L’ÉVOLUTION DE LA SOCIÉTÉ ET DE SES PERFORMANCES AU COURS DES 5 DERNIÈRES ANNÉES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                173,
+                552,
+                823,
+                593
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les principaux indicateurs de performance de la société se résument comme suit :"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                620,
+                724,
+                637
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1731fe2e3526fe0dd5f4cfe589a8e2d38a9424cd6c87e157795a65d78daa4488.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td></tr><tr><td>Les mises en forces</td><td>274</td><td>324,6</td><td>354,9</td><td>375,1</td><td>379,9</td></tr><tr><td>Encours sur la clientèle</td><td>490,3</td><td>514,1</td><td>554,8</td><td>598,4</td><td>632,2</td></tr><tr><td>Les revenus de leasing</td><td>68,5</td><td>76,5</td><td>80,8</td><td>86,5</td><td>92,2</td></tr><tr><td>Les créances accrochées</td><td>36</td><td>49,9</td><td>45,9</td><td>56,4</td><td>58,1</td></tr><tr><td>Les provisions (individuelle &amp; collective) et les produits réservés</td><td>35,1</td><td>39,3</td><td>42,2</td><td>45,1</td><td>45,4</td></tr><tr><td>Ratio Créances Accrochées</td><td>6,5%</td><td>8,7%</td><td>7,3%</td><td>8,4%</td><td>8,2%</td></tr><tr><td>Ratio de couverture des créances</td><td>82,3%</td><td>62,4%</td><td>72,8%</td><td>63,3%</td><td>61,0%</td></tr><tr><td>Les fonds propres</td><td>109,2</td><td>117,4</td><td>126,6</td><td>133,4</td><td>141,4</td></tr><tr><td>Les résultats nets</td><td>15,2</td><td>17,5</td><td>19,4</td><td>19,9</td><td>21,4</td></tr><tr><td>Créances Accrochées – Total provisions (A)</td><td>0,9</td><td>10,6</td><td>3,7</td><td>11,3</td><td>12,7</td></tr><tr><td>Risque Net (A) / Fonds propres</td><td>0,8%</td><td>9,1%</td><td>2,9%</td><td>8,5%</td><td>9%</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                117,
+                637,
+                922,
+                881
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                823,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                981,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                947,
+                938,
+                966,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "H- LES ÉVÉNEMENTS IMPORTANTS SURVENUS ENTRE LA DATE DE CLÔTURE DE L’EXERCICE ET LA DATE À LAQUELLE LE RAPPORT A ÉTÉ ÉTABLI"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                174,
+                83,
+                884,
+                142
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le présent rapport reflète tous les événements survenus entre la date de clôture de l’exercice et la date de son établissement. Par conséquent, il ne reflète pas les événements survenus postérieurs à cette date."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                173,
+                884,
+                229
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "I- PRÉVISION D’ACTIVITÉS ET PERFORMANCE DE LA SOCIÉTÉ DURANT LES TROIS ANS À VENIR"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                173,
+                241,
+                884,
+                280
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Au cours des prochaines années, la CIL vise à consolider sa part dans le marché de leasing en renforçant son équipe commerciale et en ouvrant de nouvelles agences."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                281,
+                884,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Elle veillera, par ailleurs, au maintien de la qualité du portefeuille et à accentuer l’effort au niveau de l’activité de recouvrement afin de baisser le coût du risque sur la clientèle."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                331,
+                882,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Enfin, elle continuera l’optimisation de son système d’information afin d’affiner davantage ses reportings."
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                380,
+                882,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L'évolution prévisible du résultat de la Compagnie durant les trois ans à venir se présente comme suit :"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                411,
+                875,
+                431
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/017af6ec8d58554e69a550151bbd3cd88e2f72524429df3107d44f05e359d581.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2025</td><td rowspan=1 colspan=1>2026 (*)</td><td rowspan=1 colspan=1>2027 (*)</td><td rowspan=1 colspan=1>2028 (*)</td></tr><tr><td rowspan=1 colspan=1>Intérêts et produits assimilés de leasing</td><td rowspan=1 colspan=1>90 968</td><td rowspan=1 colspan=1>95 515</td><td rowspan=1 colspan=1>98 926</td><td rowspan=1 colspan=1>101 615</td></tr><tr><td rowspan=1 colspan=1>Intérêts et charges assimilées</td><td rowspan=1 colspan=1>-48 094</td><td rowspan=1 colspan=1>-48 174</td><td rowspan=1 colspan=1>-49 540</td><td rowspan=1 colspan=1>-51 135</td></tr><tr><td rowspan=1 colspan=1>Produits des placements</td><td rowspan=1 colspan=1>6 265</td><td rowspan=1 colspan=1>6 000</td><td rowspan=1 colspan=1>6 200</td><td rowspan=1 colspan=1>6700</td></tr><tr><td rowspan=1 colspan=1>Autres produits d&#x27;exploitation</td><td rowspan=1 colspan=1>170</td><td rowspan=1 colspan=1>180</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>220</td></tr><tr><td rowspan=1 colspan=1>PRODUITS NETS</td><td rowspan=1 colspan=1>49 310</td><td rowspan=1 colspan=1>53 521</td><td rowspan=1 colspan=1>55 786</td><td rowspan=1 colspan=1>57 400</td></tr><tr><td rowspan=1 colspan=1>CHARGES D&#x27;EXPLOITATION</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Charges de personnel</td><td rowspan=1 colspan=1>10 063</td><td rowspan=1 colspan=1>11 300</td><td rowspan=1 colspan=1>11 500</td><td rowspan=1 colspan=1>12 420</td></tr><tr><td rowspan=1 colspan=1>Dotations aux amortissements</td><td rowspan=1 colspan=1>691</td><td rowspan=1 colspan=1>700</td><td rowspan=1 colspan=1>705</td><td rowspan=1 colspan=1>710</td></tr><tr><td rowspan=1 colspan=1>Autres charges d&#x27;exploitation</td><td rowspan=1 colspan=1>4517</td><td rowspan=1 colspan=1>5 400</td><td rowspan=1 colspan=1>5 750</td><td rowspan=1 colspan=1>6210</td></tr><tr><td rowspan=1 colspan=1>Total des charges d&#x27;exploitation</td><td rowspan=1 colspan=1>15 270</td><td rowspan=1 colspan=1>17 400</td><td rowspan=1 colspan=1>17 955</td><td rowspan=1 colspan=1>19 340</td></tr><tr><td rowspan=1 colspan=1>RESULTAT D&#x27;EXPLOITATION AVANTPROVISIONS</td><td rowspan=1 colspan=1>34 039</td><td rowspan=1 colspan=1>36 121</td><td rowspan=1 colspan=1>37 831</td><td rowspan=1 colspan=1>38 060</td></tr><tr><td rowspan=1 colspan=1>Dotations nettes aux provisions</td><td rowspan=1 colspan=1>3 671</td><td rowspan=1 colspan=1>4 022</td><td rowspan=1 colspan=1>4206</td><td rowspan=1 colspan=1>4354</td></tr><tr><td rowspan=1 colspan=1>Dotations nettes aux autres provisions</td><td rowspan=1 colspan=1>1337</td><td rowspan=1 colspan=1>1500</td><td rowspan=1 colspan=1>999</td><td rowspan=1 colspan=1>821</td></tr><tr><td rowspan=1 colspan=1>RESULTAT D&#x27;EXPLOITATION</td><td rowspan=1 colspan=1>29 032</td><td rowspan=1 colspan=1>30 599</td><td rowspan=1 colspan=1>32 626</td><td rowspan=1 colspan=1>32 885</td></tr><tr><td rowspan=1 colspan=1>Autres gains ordinaires</td><td rowspan=1 colspan=1>1454</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>150</td></tr><tr><td rowspan=1 colspan=1>Autres pertes ordinaires</td><td rowspan=1 colspan=1>-1</td><td rowspan=1 colspan=1>-10</td><td rowspan=1 colspan=1>-10</td><td rowspan=1 colspan=1>-10</td></tr><tr><td rowspan=1 colspan=1>RESULTAT AVANT IMPÔT</td><td rowspan=1 colspan=1>30 485</td><td rowspan=1 colspan=1>30 739</td><td rowspan=1 colspan=1>32 766</td><td rowspan=1 colspan=1>33 025</td></tr><tr><td rowspan=1 colspan=1>Impôt sur les bénéfices</td><td rowspan=1 colspan=1>-7 585</td><td rowspan=1 colspan=1>-8 060</td><td rowspan=1 colspan=1>-8 441</td><td rowspan=1 colspan=1>-8 461</td></tr><tr><td rowspan=1 colspan=1>Contribution sociale de solidarité</td><td rowspan=1 colspan=1>-758</td><td rowspan=1 colspan=1>-806</td><td rowspan=1 colspan=1>-844</td><td rowspan=1 colspan=1>-846</td></tr><tr><td rowspan=1 colspan=1>Contribution Conjoncturelle</td><td rowspan=1 colspan=1>-758</td><td rowspan=1 colspan=1>-806</td><td rowspan=1 colspan=1>-844</td><td rowspan=1 colspan=1>-846</td></tr><tr><td rowspan=1 colspan=1>RESULTAT NET DE LA PERIODE</td><td rowspan=1 colspan=1>21 384</td><td rowspan=1 colspan=1>21 067</td><td rowspan=1 colspan=1>22 636</td><td rowspan=1 colspan=1>22 871</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                117,
+                441,
+                882,
+                877
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(*) Chiffres prévisionnels"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                877,
+                305,
+                896
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "easing"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                983,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                947,
+                938,
+                966,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "J- ETAT DE RÉALISATION DES PRÉVISIONS ANNONCÉES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                173,
+                67,
+                783,
+                86
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "L’état de réalisation des prévisions annoncées de l’exercice 2025 se présente comme suit :"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                96,
+                788,
+                114
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/bfd45291aa350d641c59a2f7ce7e3e89c930d93da55ba7505ac8a0b6a3c3b81f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "2025 (R) : il s’agit des réalisations de l’exercice 2025 en (mDt) 2025 (P) : il s’agit des prévisions de l’exercice 2025 en (mDt)"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2025 (R)</td><td rowspan=1 colspan=1>2025 (P)</td><td rowspan=1 colspan=1>Ecart</td><td rowspan=1 colspan=1>Commentaire</td></tr><tr><td rowspan=1 colspan=1>Intérêts et produits assimilés deleasing</td><td rowspan=1 colspan=1>90 968</td><td rowspan=1 colspan=1>91 613</td><td rowspan=1 colspan=1>-645</td><td rowspan=1 colspan=1>Le taux de sortie moyen alégèrement baissé en suivant labaisse du TMM</td></tr><tr><td rowspan=1 colspan=1>Intérêts et charges assimilées</td><td rowspan=1 colspan=1>-48 094</td><td rowspan=1 colspan=1>-48 641</td><td rowspan=1 colspan=1>547</td><td rowspan=1 colspan=1>Baisse du TMM en 2025</td></tr><tr><td rowspan=1 colspan=1>Produits des placements</td><td rowspan=1 colspan=1>6 265</td><td rowspan=1 colspan=1>5 500</td><td rowspan=1 colspan=1>765</td><td rowspan=1 colspan=1>Plus-value réalisée surcertificat de dépôt et sur lesfonds gérés</td></tr><tr><td rowspan=1 colspan=1>Autres produits d&#x27;exploitation</td><td rowspan=1 colspan=1>170</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>-30</td><td rowspan=1 colspan=1>Ecart non significatif</td></tr><tr><td rowspan=1 colspan=1>PRODUITS NETS</td><td rowspan=1 colspan=1>49 310</td><td rowspan=1 colspan=1>48 672</td><td rowspan=1 colspan=1>638</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>CHARGES D&#x27;EXPLOITATION</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Charges de personnel</td><td rowspan=1 colspan=1>10 063</td><td rowspan=1 colspan=1>9 800</td><td rowspan=1 colspan=1>263</td><td rowspan=1 colspan=1>Augmentation consécutive enapplication de la loi n°9-2025</td></tr><tr><td rowspan=1 colspan=1>Dotations aux amortissements</td><td rowspan=1 colspan=1>691</td><td rowspan=1 colspan=1>600</td><td rowspan=1 colspan=1>91</td><td rowspan=1 colspan=1>Ecart non significatif</td></tr><tr><td rowspan=1 colspan=1>Autres charges d&#x27;exploitation</td><td rowspan=1 colspan=1>4 517</td><td rowspan=1 colspan=1>4 840</td><td rowspan=1 colspan=1>-323</td><td rowspan=1 colspan=1>Baisse des charges relatives àla sous-traitance</td></tr><tr><td rowspan=1 colspan=1>Total des charges d&#x27;exploitation</td><td rowspan=1 colspan=1>15 270</td><td rowspan=1 colspan=1>15 240</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>RESULTAT D&#x27;EXPLOITATIONAVANT PROVISIONS</td><td rowspan=1 colspan=1>34 039</td><td rowspan=1 colspan=1>33 432</td><td rowspan=1 colspan=1>607</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Dotations nettes aux prov etrésultat des créances radiées</td><td rowspan=1 colspan=1>3 671</td><td rowspan=1 colspan=1>3234</td><td rowspan=1 colspan=1>437</td><td rowspan=1 colspan=1>Sous-estimation des dotationssur provisions collectives.</td></tr><tr><td rowspan=1 colspan=1>Dotations nettes aux autresprovisions</td><td rowspan=1 colspan=1>1337</td><td rowspan=1 colspan=1>931</td><td rowspan=1 colspan=1>406</td><td rowspan=1 colspan=1>Constitution des provisionspour divers risques</td></tr><tr><td rowspan=1 colspan=1>RESULTAT D&#x27;EXPLOITATION</td><td rowspan=1 colspan=1>29 032</td><td rowspan=1 colspan=1>29 267</td><td rowspan=1 colspan=1>-235</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Autres gains ordinaires</td><td rowspan=1 colspan=1>1454</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>1 304</td><td rowspan=1 colspan=1>Plus-value sur cession decertains immeubles horsexploitation et apurement dedivers comptes</td></tr><tr><td rowspan=1 colspan=1>Autres pertes ordinaires</td><td rowspan=1 colspan=1>-1</td><td rowspan=1 colspan=1>-10</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Ecart non significatif</td></tr><tr><td rowspan=1 colspan=1>RESULTAT AVANT IMPÔT</td><td rowspan=1 colspan=1>30 485</td><td rowspan=1 colspan=1>29 407</td><td rowspan=1 colspan=1>1 078</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Impôt sur les bénéfices</td><td rowspan=1 colspan=1>-7 585</td><td rowspan=1 colspan=1>-7 585</td><td rowspan=1 colspan=1>0</td><td rowspan=3 colspan=1>Ecart non significatif</td></tr><tr><td rowspan=1 colspan=1>Contribution sociale de solidarité</td><td rowspan=1 colspan=1>-758</td><td rowspan=1 colspan=1>-867</td><td rowspan=1 colspan=1>108</td></tr><tr><td rowspan=1 colspan=1>Contribution Conjoncturelle</td><td rowspan=1 colspan=1>-758</td><td rowspan=1 colspan=1>-867</td><td rowspan=1 colspan=1>108</td></tr><tr><td rowspan=1 colspan=1>RESULTAT APRES IMPOT</td><td rowspan=1 colspan=1>21 384</td><td rowspan=1 colspan=1>20 089</td><td rowspan=1 colspan=1>1 186</td><td rowspan=1 colspan=1></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                115,
+                124,
+                929,
+                731
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "K- L’ACTIVITÉ EN MATIÈRE DE RECHERCHE ET DÉVELOPPEMENT"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                174,
+                782,
+                689,
+                821
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Il n’y a pas d’activité en matière de recherche et développement réalisée au cours de l’exercice 2025 d’une importance significative qu'on peut citer au niveau de ce rapport."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                838,
+                884,
+                873
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                714,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CiL Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                981,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                947,
+                938,
+                966,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "L- CHANGEMENT DE MÉTHODE DE PRÉSENTATION"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                173,
+                66,
+                724,
+                86
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Au 31 décembre 2025, il n’y a pas eu de changement de méthode de présentation."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                110,
+                727,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2- PARTICIPATION :"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                135,
+                401,
+                156
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A- L’ACTIVITÉ DES SOCIÉTÉS DONT LA SOCIÉTÉ ASSURE LE CONTRÔLE"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                180,
+                884,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les participations significatives restent celles souscrites au capital de la Compagnie Générale d'Investissement, intermédiaire en bourse et au capital de la CIL SICAR, société d’investissement à capital risque. En effet, la CIL détient en 2025, respectivement, 99,96% et 99,99% de leurs capitaux."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                235,
+                884,
+                292
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "B- LA PRISE DE PARTICIPATION ET LES ALIÉNATIONS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                305,
+                732,
+                324
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les participations significatives restent celles souscrites au capital de la Compagnie Générale d'Investissement, intermédiaire en bourse et au capital de la CIL SICAR, société d’investissement à capital risque. En effet, la CIL détient en 2025, respectivement, 99,96% et 99,99% de leurs capitaux."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                336,
+                884,
+                394
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le portefeuille d’investissement net de la CIL (hors Dépôts et cautionnements versés) est passé de 49,606 MD au 31 décembre 2024 à 57,168 MD au 31 décembre 2025, soit une augmentation de 7,562 MD."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                404,
+                884,
+                460
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "En effet, les acquisitions de participations, réalisées dans le cadre des dégrèvements fiscaux financiers, se sont élevées à 10,354 MD au cours de l’exercice 2025. Ces montants ont été investis avant juin 2025 dans un fonds géré par CIL-SICAR, afin de respecter les engagements liés au dégrèvement fiscal au titre de l’impôt sur les sociétés de l’exercice 2024."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                473,
+                884,
+                549
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Par ailleurs, les cessions de titres ainsi que les réductions des fonds gérés se sont élevées à 2,792 MD."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                560,
+                880,
+                580
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les mouvements enregistrés durant la période sur le poste « Titres de participations » et sur les « valeurs immobilisées » sont indiqués ci-après :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                590,
+                882,
+                626
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/19b45cd69cf17f200e946757722bb08b0182d20ccef022e28751e56253ee5886.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>Valeur Brute</td><td rowspan=1 colspan=4>Provision</td><td rowspan=2 colspan=1>ValeurNet</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2024</td><td rowspan=1 colspan=1>Diminution</td><td rowspan=1 colspan=1>Addition</td><td rowspan=1 colspan=1>2025</td><td rowspan=1 colspan=1>2024</td><td rowspan=1 colspan=1>Dotation</td><td rowspan=1 colspan=1>Reprise</td><td rowspan=1 colspan=1>2025</td></tr><tr><td rowspan=1 colspan=1>Filiales et participations</td><td rowspan=1 colspan=1>2 803</td><td rowspan=1 colspan=1>-498</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>2305</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>2 305</td></tr><tr><td rowspan=1 colspan=1>Titres en portage</td><td rowspan=1 colspan=1>2 306</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>2 306</td><td rowspan=1 colspan=1>2 306</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>2 306</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Fonds gérés</td><td rowspan=1 colspan=1>46 803</td><td rowspan=1 colspan=1>-2 295</td><td rowspan=1 colspan=1>10 354</td><td rowspan=1 colspan=1>54 862</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>54 862</td></tr><tr><td rowspan=1 colspan=1>Total Général</td><td rowspan=1 colspan=1>51 912</td><td rowspan=1 colspan=1>-2 792</td><td rowspan=1 colspan=1>10 354</td><td rowspan=1 colspan=1>59 474</td><td rowspan=1 colspan=1>2 306</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>2 306</td><td rowspan=1 colspan=1>57 168</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                115,
+                638,
+                964,
+                760
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3- ACTIONNARIAT :"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                778,
+                388,
+                801
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Au 31 décembre 2025, le capital social de la Société est composé ainsi :"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                821,
+                643,
+                840
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c0877ffd218ab0c1d629190af616230e644aa9deb43f98e6271d26f5136f383d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Nombre d&#x27;action</td><td>7 000 000</td></tr><tr><td>Nombre de droits de vote</td><td>6 814 927</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                289,
+                858,
+                709,
+                907
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                981,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                938,
+                974,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le nombre de droits de vote s’élève au 31 décembre 2025 à 6 814 927 droits vu que la société détient 184 922 actions propres et le nombre des droits d’attribution non convertis représente la contrepartie de 151 actions."
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                84,
+                884,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tout actionnaire détenant 10 actions ou plus peut assister à l’assemblée générale de la société ou se faire représenter en vertu d’une procuration."
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                147,
+                884,
+                183
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les principaux actionnaires détenant plus de 5% du capital, à fin décembre 2025, se présentent comme suit :"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                193,
+                884,
+                211
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7ecfb01fea4f1ff88093cb156cb3f3678f0d6ba256f7fe6dd4f5ed575e4ab3c9.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Actionnaires</td><td>Nombre d&#x27;actions</td><td>% du capital</td><td>% des droits de vote</td></tr><tr><td>Société Générale Financière</td><td>2 847 923</td><td>40,68%</td><td>41,79%</td></tr><tr><td>TTS Financière</td><td>810 180</td><td>11,57%</td><td>11,89%</td></tr><tr><td>Tunisian Travel Service</td><td>637 396</td><td>9,11%</td><td>9,35%</td></tr><tr><td>BOUAZIZ Salma</td><td>361 236</td><td>5,16%</td><td>5,30%</td></tr><tr><td>BOUAZIZ Hend</td><td>360 744</td><td>5,15%</td><td>5,29%</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                152,
+                222,
+                843,
+                354
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4- CONDITION ET DÉROULEMENT DES OPÉRATIONS DE RACHAT ET REVENTE DES ACTIONS PROPRES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                395,
+                875,
+                444
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "En application de l’article 19 de la loi 94-117 du 14 novembre 1994 tel que modifié par la loi 99-92 du 17 aout 1999, l’Assemblée Générale du 18 avril 2025 a autorisé expressément le Conseil d'Administration de la société à acheter et revendre ses propres actions en bourse en vue de régulariser leurs cours sur le marché."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                458,
+                885,
+                525
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les conditions de rachat se présentent comme suit :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                536,
+                504,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Durée de l’autorisation : 3 ans se terminant avec l’assemblée générale statuant sur l’exercice 2025."
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                563,
+                857,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Nombre maximum d’actions que la société peut obtenir : 10% du total des actions composant le capital en tenant compte des titres détenus actuellement par la société."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                592,
+                882,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Par ailleurs, la société doit disposer, au moment de la décision de l'assemblée générale de réserves autres que les réserves légales, d'un montant au moins égal à la valeur de l'ensemble des actions à acquérir."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                637,
+                884,
+                688
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les mouvements enregistrés sur cette rubrique se détaillent comme suit :"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                697,
+                658,
+                717
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/21f1dcddfe1af2cd746ef469b5b93f17119fad3ffcd1beb62f6fcfeda9d0efdd.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Nombre</td><td rowspan=1 colspan=1>Coût</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Solde au 31 décembre 2024</td><td rowspan=1 colspan=1>250 603</td><td rowspan=1 colspan=1>2 721 695</td></tr><tr><td rowspan=1 colspan=1>Cession de l&#x27;exercice</td><td rowspan=1 colspan=1>-65 681</td><td rowspan=1 colspan=1>-713 334</td></tr><tr><td rowspan=1 colspan=1>Solde au 31 décembre 2025</td><td rowspan=1 colspan=1>184 922</td><td rowspan=1 colspan=1>2 008 361</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                198,
+                726,
+                798,
+                821
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le rachat de la CIL de ses propres actions a eu pour effet la régularisation de son cours boursier."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                851,
+                831,
+                870
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                863,
+                2,
+                983,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                938,
+                973,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le rachat et la revente de la CIL de ses propres actions ont été fait en application de la résolution du Conseil d'administration du 07 Juillet 2020 qui prévoit l’achat si la valeur de l’action en bourse est inférieure à 10DT et la revente si la valeur de l'action est supérieure à 20 DT."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                67,
+                885,
+                124
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le nombre des actions détenues par la CIL représente, au 31 décembre 2025, 2,71% des actions en circulation."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                136,
+                884,
+                173
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5- ORGANES D’ADMINISTRATION & DE DIRECTION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                187,
+                816,
+                210
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A- RÈGLES APPLICABLES À LA NOMINATION ET AU REMPLACEMENT DES MEMBRES DU CONSEIL D’ADMINISTRATION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                221,
+                882,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "La société est administrée par un conseil d'administration composé de membres désignés par l'Assemblée Générale conformément à la loi et aux statuts."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                274,
+                884,
+                310
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "La durée des fonctions d’administrateurs est de trois années renouvelables pour la même période. Tout membre est rééligible."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                325,
+                884,
+                366
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "En cas de vacance d'un poste d’administrateur, suite à un décès, incapacité physique, une démission ou à la survenance d’une incapacité juridique, le Conseil peut, entre deux assemblées générales, procéder à des nominations à titre provisoire à charge de ratification par la prochaine assemblée générale. Lorsque le nombre des administrateurs devient inférieur au minimum légal, les autres membres doivent immédiatement convoquer l’assemblée générale ordinaire pour combler l’insuffisance."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                380,
+                885,
+                486
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "B- PRINCIPALES DÉLÉGATIONS EN COURS DE VALIDITÉ ACCORDÉES PAR L'ASSEMBLÉE GÉNÉRALE AUX ORGANES D'ADMINISTRATION ET DE DIRECTION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                497,
+                884,
+                560
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L'Assemblée Générale Ordinaire du 22 avril 2025 a autorisé l’émission par la société d’un ou plusieurs emprunts obligataires d’un montant de 150.000.000 D et ce, avant la date de la tenue de l’A.G.O. statuant sur l’exercice 2025 et a autorisé le Conseil d’administration pour en fixer les montants successifs, les modalités et les conditions l’émission."
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                575,
+                885,
+                658
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "C- COMPOSITION ET RÔLE DES ORGANES D’ADMINISTRATION ET DE DIRECTION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                671,
+                884,
+                712
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "La société est administrée par un conseil d’administration composé de membres désignés par l’Assemblée Générale conformément à la loi et aux statuts."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                727,
+                882,
+                766
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CONSEIL D'ADMINISTRATION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                149,
+                778,
+                339,
+                795
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "President"
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                807,
+                287,
+                822
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mr. Mohamed BRIGUI"
+                    }
+                ]
+            },
+            "bbox": [
+                210,
+                825,
+                376,
+                841
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Membres"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                174,
+                845,
+                284,
+                859
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mr. Raouf NEGRA, représentant de la société T.T.S."
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                863,
+                578,
+                879
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mme. Héla BRIGUI HAMIDA"
+                    }
+                ]
+            },
+            "bbox": [
+                210,
+                882,
+                420,
+                897
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mme. Salma BOUAZIZ"
+                    }
+                ]
+            },
+            "bbox": [
+                210,
+                901,
+                383,
+                916
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                981,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12"
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                938,
+                974,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mr.Sofiène HAJ TAIEB"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                66,
+                381,
+                83
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mr. Kilani ZIADI, administrateur représentant les intérêts des actionnaires minoritaires"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                86,
+                801,
+                103
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mr. Eymen ERRAIS, administrateur indépendant"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                104,
+                556,
+                121
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mr. Kamel LOUHAICHI, administrateur indépendant"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                123,
+                576,
+                140
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DIRECTION GENERALE"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                149,
+                152,
+                302,
+                170
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "La société est dirigée comme suit :"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                181,
+                391,
+                198
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "H Directeur Général"
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                211,
+                344,
+                227
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mr. Salah SOUKI"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                229,
+                342,
+                246
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "D- COMITÉS SPÉCIAUX ET RÔLE DE CHAQUE COMITÉ"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                269,
+                714,
+                290
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "① Comité d'audit"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                174,
+                303,
+                314,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Président"
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                338,
+                287,
+                354
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mr. Kamel LOUHAICHI"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                356,
+                381,
+                373
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Membres"
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                375,
+                284,
+                391
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mr. Raouf NEGRA"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                393,
+                352,
+                410
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mme. Héla BRIGUI HAMIDA"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                412,
+                420,
+                429
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ce comité veille à ce que les mécanismes appropriés de contrôle interne soient mis en place, assure le suivi des travaux de contrôle, etc."
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                447,
+                882,
+                481
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "② Comité des risques"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                176,
+                510,
+                346,
+                527
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Président"
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                544,
+                287,
+                560
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mr. Eymen ERRAIS"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                563,
+                359,
+                580
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Membres"
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                582,
+                284,
+                598
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mme. Salma BOUAZIZ"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                600,
+                381,
+                617
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Mr. Kilani ZIADI"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                619,
+                334,
+                636
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ce comité assure la surveillance de tous les risques auxquels la société est exposée ainsi que le suivi du respect de la réglementation et des politiques arrêtées en la matière."
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                652,
+                882,
+                688
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "③ Comité de Direction"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                176,
+                715,
+                349,
+                733
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Membres"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                174,
+                751,
+                284,
+                766
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Le président du conseil d’administration ;"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                770,
+                500,
+                787
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Le directeur général ;"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                789,
+                369,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Les directeurs régionaux ;"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                808,
+                401,
+                824
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Le directeur de trésorerie ;"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                826,
+                403,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Le directeur administratif et comptable."
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                845,
+                485,
+                860
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                981,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13"
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                938,
+                974,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ce comité examine, étudie et approuve les nouveaux dossiers de financements, suit les besoins de la société en refinancement, assure un suivi de l’activité et des plans de recouvrement, examine la situation financière et les performances de la société etc."
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                66,
+                885,
+                120
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "E- LES FONCTIONS ET LES ACTIVITÉS PRINCIPALES EXERCÉES PAR LES ADMINISTRATEURS DANS D’AUTRES SOCIÉTÉS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                149,
+                882,
+                192
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5a6d6661f14b88ae4a83dd2679e4328e81f4efc046494180b460c3fdf419cc00.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Nom / Raison social</td><td rowspan=1 colspan=1>Fonction</td><td rowspan=1 colspan=1>Représentépar</td><td rowspan=1 colspan=1>Mandat</td><td rowspan=1 colspan=1>Adresse</td><td rowspan=1 colspan=1>Activité</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>M. Mohamed BRIGUI</td><td rowspan=1 colspan=1>Président duConseild’Administration</td><td rowspan=1 colspan=1>Lui-même</td><td rowspan=1 colspan=1>2023-2025</td><td rowspan=1 colspan=1>Tunis</td><td rowspan=1 colspan=1>PDG Société TouristiqueOCEANAPDG Société GénéraleFinancière</td></tr><tr><td rowspan=1 colspan=1>Tunisian Travel Service</td><td rowspan=1 colspan=1>Administrateur</td><td rowspan=1 colspan=1>M. RaoufNEGRA</td><td rowspan=1 colspan=1>2023-2025</td><td rowspan=1 colspan=1>Tunis</td><td rowspan=1 colspan=1>Directeur Administratif etComptable du groupe TTS</td></tr><tr><td rowspan=1 colspan=1>Mme. Héla BRIGUIHAMIDA</td><td rowspan=1 colspan=1>Administrateur</td><td rowspan=1 colspan=1>Lui-même</td><td rowspan=1 colspan=1>2023-2025</td><td rowspan=1 colspan=1>Tunis</td><td rowspan=1 colspan=1>PDG Société « CILIMMOBILIERE »PDG Société « CIL SICAR »</td></tr><tr><td rowspan=1 colspan=1>Mme. Salma BOUAZIZ</td><td rowspan=1 colspan=1>Administrateur</td><td rowspan=1 colspan=1>Lui-même</td><td rowspan=1 colspan=1>2025</td><td rowspan=1 colspan=1>Tunis</td><td rowspan=1 colspan=1>Directeur Financier de lasociété immobilière Ezzamni</td></tr><tr><td rowspan=1 colspan=1>M. Sofiène HAJ TAIEB</td><td rowspan=1 colspan=1>Administrateur</td><td rowspan=1 colspan=1>Lui-même</td><td rowspan=1 colspan=1>2023-2025</td><td rowspan=1 colspan=1>Tunis</td><td rowspan=1 colspan=1>Directeur général de lasociété « La FrançaiseInvestment Solutions »</td></tr><tr><td rowspan=1 colspan=1>M. Kilani ZIADI</td><td rowspan=1 colspan=1>Administrateurreprésentant desactionnairesminoritaires</td><td rowspan=1 colspan=1>Lui-même</td><td rowspan=1 colspan=1>2023-2025</td><td rowspan=1 colspan=1>Tunis</td><td rowspan=1 colspan=1>Retraité</td></tr><tr><td rowspan=1 colspan=1>M. Eymen ERRAIS</td><td rowspan=1 colspan=1>AdministrateurIndépendant</td><td rowspan=1 colspan=1>Lui-même</td><td rowspan=1 colspan=1>2023-2025</td><td rowspan=1 colspan=1>Tunis</td><td rowspan=1 colspan=1>Enseignant universitaireConsultant en RiskManagement auprès desbailleurs de fonds étrangers</td></tr><tr><td rowspan=1 colspan=1>Mr. KamelLOUHAICHI</td><td rowspan=1 colspan=1>AdministrateurIndépendant</td><td rowspan=1 colspan=1>Lui-même</td><td rowspan=1 colspan=1>2024-2025</td><td rowspan=1 colspan=1>Tunis</td><td rowspan=1 colspan=1>PDG Cap ValeurAdministrateur chez « DéliceHolding »</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                55,
+                216,
+                969,
+                675
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "F- LES PARTICIPATIONS DES ADMINISTRATEURS DANS D’AUTRES SOCIÉTÉS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                693,
+                882,
+                734
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a88094fc81c6abeeb3e72083a4919fb5a0e0ba92525716e27cd0ff7be0913df2.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Membres</td><td rowspan=1 colspan=1>Participation dans d’autres sociétés</td></tr><tr><td rowspan=1 colspan=1>M Mohamed BRIGUI</td><td rowspan=1 colspan=1>Société Générale FinancièreSociété Touristique OCEANASociété « CIL IMMOBILIERE »</td></tr><tr><td rowspan=1 colspan=1>Mme Salma BOUAZIZ</td><td rowspan=1 colspan=1>UIB</td></tr><tr><td rowspan=1 colspan=1>Mr Sofiene HAJ TAIEB</td><td rowspan=1 colspan=1>La Française Investment Solutions</td></tr><tr><td rowspan=1 colspan=1>Mme. Héla BRIGUI HAMIDA</td><td rowspan=1 colspan=1>Société Générale Financière</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                117,
+                760,
+                880,
+                895
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                981,
+                65
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14"
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                938,
+                974,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6- LE TITRE EN BOURSE"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                70,
+                453,
+                91
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Lors de l'Assemblée Générale Extraordinaire du 18 avril 2023, il a été décidé d'augmenter le capital social de la société de dix millions (10 000 000D) de dinars, le portant à trente-cinq millions (35 000 000D) de dinars par incorporation de réserves et distribution de deux millions (2 000 000) d'actions gratuites (soit deux actions gratuites pour 5 actions anciennes), avec jouissance le 01/01/2023. Cette augmentation a conduit le nombre de titres en circulation à passer de 5 000 000 à 7 000 000 actions."
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                99,
+                885,
+                195
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le cours de clôture du titre CIL à la fin de décembre 2025 s'est établi à 28,25 DT contre un cours de 24,9 DT à la fin de décembre 2024. De plus, les quantités annuelles échangées sont passées de 207 621 titres pour une valeur de 4 253 mD au cours de l'année 2024 à 346 721 titres pour une valeur de 8 869 mD au cours de l'année 2025."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                200,
+                885,
+                277
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "En ce qui concerne la capitalisation boursière, celle-ci a progressé de manière significative, passant de 86,25 MD à la fin de 2021, à 97,5 MD à la fin de 2022, à 134,33 MD à la fin de 2023, à 174,3 MD à la fin de 2024, pour finalement atteindre 197,750 MD à la fin de 2025."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                284,
+                884,
+                341
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7- L’AFFECTATION DES RÉSULTATS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                374,
+                610,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le bénéfice distribuable est constitué du résultat comptable net majoré ou minoré des résultats reportés des exercices antérieurs, et ce, après déduction de ce qui suit :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                422,
+                882,
+                457
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "V Une fraction égale à 5% du bénéfice déterminé comme ci-dessus indiqué au titre de réserve légale. Ce prélèvement cesse d’être obligatoire lorsque cette réserve atteint le dixième du capital social."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                472,
+                884,
+                519
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " La réserve prévue par les textes législatifs spéciaux dans la limite des taux qui y sont fixés ;"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                520,
+                852,
+                538
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Y Toutes sommes que l’assemblée des actionnaires juge convenables pour la constitution de fonds de réserves."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                538,
+                884,
+                570
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Les bénéfices distribuables conformément aux statuts s’élèvent à 32 338 337 DT, déterminés comme suit :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                586,
+                884,
+                620
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ab0e311679724c1b819741e2764c700e86176f9e375d6a7c8ad2d88ea7c12060.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "(R/S) : Retenue à la source en application des dispositions de l’article 19 de la loi de finances pour la gestion de 1’année 2014."
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1>Résultat net 2025                                                                                    21 383 652,473</td></tr><tr><td rowspan=1 colspan=1>Report à nouveau (distribuables en franchise de R/S) :                207 020,776</td></tr><tr><td rowspan=1 colspan=1>Total Report à nouveau (distribuables en franchise de R/S) :                                207 020,776</td></tr><tr><td rowspan=1 colspan=1>Report à nouveau (soumis à la R/S)                                        16 188 075,626</td></tr><tr><td rowspan=1 colspan=1>Réserves de réinvestissements devenues libres (soumis à laR/S)                                                                               2 294 716,400</td></tr><tr><td rowspan=1 colspan=1>Total Report à nouveau (soumis à la R/S)                                         18 482 792,026</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Total                                                               40 073 465,275</td></tr><tr><td rowspan=1 colspan=1>Réserves pour Réinvestissements exonérés                                                     -11 377 200,000</td></tr><tr><td rowspan=1 colspan=1>Solde à affecter                                                         28 696 265,275</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                117,
+                634,
+                909,
+                847
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                863,
+                2,
+                983,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15"
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                936,
+                974,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "8- TABLEAU D’ÉVOLUTION DES CAPITAUX PROPRES AU COURS DES 3 DERNIERS EXERCICES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                305,
+                117,
+                711,
+                176
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/868c45c83e965d4b6bfb498957c08128fb086aeba28c57fd43c9e9b51e5495bb.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>Capital social</td><td>Réserve légale</td><td>Réserve pour réinvestissement</td><td>Réserves pour fonds social</td><td>Résultats reportés</td><td>Actions propres</td><td>Compléments d&#x27;apport</td><td>Résultat de l&#x27;exercice</td><td>Total</td></tr><tr><td>Solde au 31 décembre 2022 Affectations approuvées par l&#x27;A.G.O. du 18 avril 2023</td><td>25 000 000</td><td>2 500 000</td><td>42 805 710 11 080 500</td><td>4 053 747 800 000</td><td>28 978 138 5 653 024</td><td>(3 495 588)</td><td>7 397</td><td>17 533 524 (17 533 524)</td><td>117 382 927 0</td></tr><tr><td>Affectations approuvées par l&#x27;A.G.O. du 18 avril 2023</td><td>10 000 000</td><td></td><td>(9 153 480)</td><td></td><td>9 153 480</td><td></td><td></td><td></td><td>0</td></tr><tr><td>Augmentation du capital décidée par l&#x27;AGE du 18/04 2023</td><td></td><td></td><td></td><td></td><td>(10 000 000) (11 000 000)</td><td></td><td></td><td></td><td>0</td></tr><tr><td>Dividendes versés sur le bénéfice de 2022</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(11 000 000)</td></tr><tr><td>Encaissement dividendes sur actions propres</td><td></td><td></td><td></td><td></td><td>440 000</td><td></td><td></td><td></td><td>440 000</td></tr><tr><td>Cession d&#x27;actions propres</td><td></td><td></td><td></td><td></td><td></td><td>454 624</td><td>143 879</td><td></td><td>598 503</td></tr><tr><td>Prélèvements sur fonds social</td><td></td><td></td><td></td><td>(219 339)</td><td></td><td></td><td></td><td></td><td>(219 339)</td></tr><tr><td>Résultat net de l&#x27;exercice 2023</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>19 369 395</td><td>19 369 395</td></tr><tr><td>Solde au 31 décembre 2023</td><td>35 000 000</td><td>2 500 000</td><td>44 732 730</td><td>4 634 408</td><td>23 224 641</td><td>(3 040 964)</td><td>151 275</td><td>19 369 395</td><td>126 571 485</td></tr><tr><td>Affectations approuvées par l&#x27;A.G.O. du 16 avril 2024</td><td></td><td>1 000 000</td><td>9 802 000</td><td>900 000</td><td>7 667 395</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>(3 242 480)</td><td></td><td>3 242 480</td><td></td><td></td><td>(19 369 395)</td><td>0</td></tr><tr><td>Affectations approuvées par l&#x27;A.G.O. du 16 avril 2024</td><td></td><td></td><td></td><td></td><td>(14 000 000)</td><td></td><td></td><td></td><td>0 (14 000 000)</td></tr><tr><td>Dividendes versés sur le bénéfice de 2023 Encaissement dividendes sur actions propres</td><td></td><td></td><td></td><td></td><td>514 173</td><td></td><td></td><td></td><td>514 173</td></tr><tr><td>Cession d&#x27;actions propres</td><td></td><td></td><td></td><td></td><td></td><td>319 269</td><td>297 261</td><td></td><td>616 530</td></tr><tr><td>Prélèvements sur fonds social</td><td></td><td></td><td></td><td>(162 852)</td><td></td><td></td><td></td><td></td><td>(162 852)</td></tr><tr><td>Résultat net de l&#x27;exercice 2024</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>19 862 847</td><td>19 862 847</td></tr><tr><td>Solde au 31 décembre 2024</td><td>35 000 000</td><td>3 500 000</td><td>51 292 250</td><td>5 371 556</td><td>20 648 690</td><td>(2 721 695)</td><td>448 536</td><td></td><td>133 402 184</td></tr><tr><td>Affectations approuvées par l&#x27;A.G.O. du 22/04/2025</td><td></td><td></td><td>10 354 000</td><td>1 000 000</td><td>8 508 847</td><td></td><td></td><td>19 862 847</td><td></td></tr><tr><td>Affectations approuvées par l&#x27;A.G.O. du 22/04/2025</td><td></td><td></td><td>(2 180 800)</td><td></td><td>2 180 800</td><td></td><td></td><td>(19 862 847)</td><td>0</td></tr><tr><td>Dividendes versés sur le bénéfice de 2024</td><td></td><td></td><td></td><td></td><td>(15 400 000)</td><td></td><td></td><td></td><td>0</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>713 334</td><td>960 465</td><td></td><td>(15 400 000)</td></tr><tr><td>Cession d&#x27;actions propres</td><td></td><td></td><td></td><td></td><td>456 760</td><td></td><td></td><td></td><td>1 673 799</td></tr><tr><td>Encaissement dividendes sur actions propres</td><td></td><td></td><td></td><td>(128 258)</td><td></td><td></td><td></td><td></td><td>456 760</td></tr><tr><td>Prélèvements sur fonds social</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(128 258)</td></tr><tr><td>Résultat net de l&#x27;exercice 2025</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>21 383 652</td><td>21 383 652</td></tr><tr><td>Solde au 31 décembre 2025</td><td>35 000 000</td><td>3 500 000</td><td>59 465 450</td><td>6 243 298</td><td>16 395 096</td><td>(2 008 361)</td><td>1 409 000</td><td>21 383 652</td><td>141 388 136</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                64,
+                196,
+                950,
+                855
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                611,
+                5,
+                693,
+                95
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "nnuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                692,
+                57,
+                737,
+                73
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9- CONTRÔLE DES COMPTES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                68,
+                509,
+                91
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L'Assemblée Générale Ordinaire a désigné les deux commissaires aux comptes suivants, remplissant les conditions légales requises, qui ont mandat de vérifier, sous leur responsabilité, la régularité des états financiers de la société et leur sincérité conformément aux dispositions légales et réglementaires en vigueur :"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                104,
+                885,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Groupement de sociétés d'expertise comptables : Universal Auditing & « CNBA TUNISIA » membre du réseau international « UHY INTERNATIONAL » Résidence Raoudha - n°152 - Rue du Lac Windermere, Les Berges du Lac, 1053, Tunis, Tunisie"
+                    }
+                ]
+            },
+            "bbox": [
+                173,
+                189,
+                882,
+                241
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PROAUDIT"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                174,
+                259,
+                297,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rue Abou Hamed El Ghazali – Immeuble les Chalets 2ème Etage, Apt. 21 Mont-Plaisir, 1073, Tunis, Tunisie"
+                    }
+                ]
+            },
+            "bbox": [
+                208,
+                278,
+                884,
+                310
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "10- GESTION DES RESSOURCES HUMAINES"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                330,
+                721,
+                353
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A- LES RESSOURCES HUMAINES."
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                142,
+                378,
+                504,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le personnel de la CIL est composé de 121 personnes, réparti comme suit :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                412,
+                678,
+                431
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4e8607b31a050bde914ee8e6270735784429a0f4b1d5ff283dcaed3913a4c092.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>2024</td><td>Départ</td><td>Recrutement</td><td>2025</td></tr><tr><td>Cadres et encadrement</td><td>86</td><td>4</td><td>5</td><td>87</td></tr><tr><td>Agents d’exécution</td><td>8</td><td>0</td><td>1</td><td>9</td></tr><tr><td>Agents de service</td><td>4</td><td>0</td><td>21</td><td>25</td></tr><tr><td>TOTAL</td><td>98</td><td>4</td><td>27</td><td>121</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                124,
+                439,
+                872,
+                531
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L'effectif de la CIL s’établit à 121 employés à fin 2025, contre 98 à fin 2024, soit une augmentation de 23%. Cette évolution résulte principalement de l'intégration d'agents de services, conformément aux dispositions de la loi n° 2025-9 du 21 mai 2025 relative à la réglementation des contrats de travail et à l’interdiction de la sous-traitance de main-d’œuvre."
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                567,
+                885,
+                651
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "B- LA POLITIQUE SOCIALE"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                664,
+                433,
+                682
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le volet social bénéficie d'un intérêt particulier de la part de la Direction Générale de la société, notamment à travers :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                695,
+                882,
+                732
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1- La mise en place d’un programme de formation de nature à améliorer les compétences des employés et leur polyvalence."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                744,
+                882,
+                781
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2- La motivation et la fidélisation de l’ensemble du personnel à travers la mise en place d’un Fonds Social alimenté par les bénéfices de la société et qui permet d’octroyer un ensemble de prêts et d’alimenter les fonds de l’amicale de la CIL, créée pour subventionner les œuvres sociales réalisées au profit du personnel."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                782,
+                885,
+                856
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3- L'encouragement des employés de la CIL à travers des mécanismes d’incitation par rapport aux objectifs de réalisation en termes de mises en force et de recouvrement."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                857,
+                885,
+                895
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                981,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "17"
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                938,
+                974,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "11- LE CONTRÔLE INTERNE"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                115,
+                68,
+                507,
+                91
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "La CIL a mis en place un ensemble de procédures de contrôle interne de nature à minimiser les différents risques auxquels elle est exposée."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                124,
+                882,
+                156
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L'objectif de la Compagnie est ainsi, de disposer en premier lieu d'un système de contrôle interne efficace permettant de réviser périodiquement les procédures appliquées et d’apprécier leur efficacité par rapport à l’évolution de l’activité en contrôlant leur bonne application. Ce système vise principalement les objectifs suivants :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                156,
+                884,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S'assurer que les opérations réalisées par la Compagnie sont conformes aux dispositions législatives et réglementaires, et sont conduites de façon prudente et appropriée en accord avec la politique arrêtée par la Direction ;"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                222,
+                884,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Assurer la protection et la sauvegarde des actifs de la Compagnie contre les risques inhérents à l'organisation et à l'activité de leasing, notamment les risques liés aux irrégularités, erreurs et fraudes qui pourraient survenir ;"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                272,
+                884,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Garantir l'obtention d'une information financière complète, fiable, en accord avec les règles prévues, et dans les délais requis."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                321,
+                882,
+                354
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "La CIL ayant un seul produit « le leasing » peut être exposée essentiellement à un risque de défaillance de la clientèle, appelé risque de crédit. Elle peut être exposée, aussi, à d’autres types de risques tels que le risque de taux, le risque de liquidité et le risque opérationnel. Pour ces raisons, tous les organes de gouvernance de la Compagnie veillent à garantir la compatibilité des risques pris, avec les objectifs de performance et de rentabilité, ainsi que les règles prudentielles. Ils veillent ainsi à :"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                354,
+                884,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " S’assurer que tous les risques auxquels la Compagnie est confrontée sont bien identifiés et couverts ;"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                435,
+                884,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Identifier, recenser, quantifier et analyser les risques liés à l’activité de la Compagnie ;"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                468,
+                810,
+                485
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mesurer les résultats et les performances et définir la matrice risques-rentabilité."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                483,
+                769,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Afin de remédier au risque de crédit, la préoccupation majeure des activités de l’audit interne est de contrôler les dossiers commerciaux et les procédures d’octroi des crédits. Il s’agit donc de contrôler et de revoir les pouvoirs, les responsabilités et les compétences des différents responsables autorisés et impliqués dans la gestion du risque de crédit (approbation, engagement, désengagement).Ce risque est contrôlé, aussi, à travers l’amélioration et la réactivité du recouvrement, l’assurance d’un bon recours au contentieux, le suivi des créances accrochées et l’adéquation de leurs couvertures par les provisions et les agios réservés."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                500,
+                884,
+                615
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dans le cadre de l’amélioration du processus de décision d’octroi des crédits à la clientèle et pour une meilleure gestion du risque de contrepartie, la CIL a amélioré depuis 2017 son outil de Scoring en l’intégrant au niveau des habilitations et la définition des pouvoirs décisionnels. Cet outil servira, ainsi pour l’ensemble des parties prenantes de la CIL, comme étant un outil d’aide à la décision relative à l’octroi de crédit et permettra à la CIL l’optimisation de l’efficacité de prise de décision, l’automatisation des études des dossiers de crédit et l’accélération du processus d’octroi des crédits à la clientèle."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                615,
+                884,
+                714
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "La CIL est, en outre, exposée au risque de taux du fait qu’une partie de ses emprunts sont à taux variable, alors que ses emplois sont pour leur majorité à taux fixe. Dans ce cadre, la CIL a prévu au niveau de ses nouveaux contrats de leasing des clauses permettant de réviser le montant des intérêts facturés au client en fonction du changement du TMM, afin de limiter les risques d’une variation importante du TMM."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                713,
+                884,
+                781
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Par ailleurs, la compagnie gère ce type de risque corrélativement avec le risque de liquidité mentionné ci-dessous tout en maintenant une politique prudente en terme d’octroi des crédits avec la consolidation des efforts en matière d’évaluation du risque client"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                780,
+                882,
+                828
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Le risque de liquidité s’entend comme étant le risque pour l’établissement de ne pas pouvoir s’acquitter, dans des conditions normales, de ses engagements à leurs échéances. La maîtrise de ce risque consiste à contrôler la duration moyenne, aussi bien, des emplois que des ressources, et ce, en s’assurant que le remboursement des crédits est plus court que le remboursement des emprunts."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                828,
+                884,
+                896
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Leasing"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                2,
+                983,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "18"
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                938,
+                976,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pour la gestion du risque opérationnel, le conseil d’administration de la CIL a procédé, au cours de l’exercice 2012, à la constitution d’un comité ad hoc appelé « Comité des Risques » afin d’analyser et de surveiller l’exposition de la Compagnie à tous les risques qui lui sont inhérents, y compris les risques opérationnels."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                67,
+                884,
+                134
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ce comité assure, ainsi, la conception et la mise à jour de la stratégie de gestion des risques au sein de la CIL, et ce, en collaboration avec le responsable de l’organisation chargé de la surveillance et du suivi des risques."
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                134,
+                882,
+                183
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Par ailleurs, pour la maitrise des risques opérationnels, des contrôles préventifs ont été inclus dans les applications informatiques, notamment le logiciel qui traite les opérations de leasing au sein de la Compagnie. Ces contrôles sont bloquants quand le risque maximum toléré est atteint et l’opérateur ne peut passer à l’opération suivante que si toutes les conditions requises sont satisfaites"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                183,
+                882,
+                249
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "La cohérence et l’efficacité de l’ensemble de ces moyens sont contrôlées par la Direction Générale et sont suivis via un système d’autocontrôle, réalisé préalablement ou en cours d’exécution des opérations, et exercé par chaque responsable dans le cadre des actes qu’il exécute dans sa fonction."
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                248,
+                882,
+                298
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Notons, enfin, que tous ces contrôles instaurés sont consignés dans les textes des procédures (Manuel de procédures, Structures organisationnelles et Fiches de fonction) et/ou intégrés dans les logiciels informatiques."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                297,
+                882,
+                348
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "G*飞"
+                    }
+                ]
+            },
+            "bbox": [
+                467,
+                369,
+                531,
+                385
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Rapport Annuel 2025"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                40,
+                821,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CiL easing"
+                    }
+                ]
+            },
+            "bbox": [
+                865,
+                2,
+                981,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19"
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                938,
+                974,
+                957
+            ]
+        }
+    ]
+]

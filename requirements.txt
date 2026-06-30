@@ -1,0 +1,9 @@
+flask
+flask-cors
+werkzeug
+gunicorn
+# Dependances pour l'extraction (a installer selon l'environnement)
+# docling
+# paddlepaddle
+# paddleocr
+# mineru

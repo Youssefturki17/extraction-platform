@@ -1,0 +1,398 @@
+# La détermination de la population de référence des communes
+
+Version du 3 décembre 2024
+
+## 1. LES ASPECTS JURIDIQUES
+
+La détermination des chiffres de population de référence (population municipale, population comptée à part et population totale, dont les définitions sont rappelées au §1.2) est le premier objectif du recensement, y compris dans sa version rénovée. La loi n° 2002-276 relative à la démocratie de proximité comporte dans son article 156, au paragraphe VII, les dispositions suivantes :
+
+VII. - Pour établir les chiffres de la population, l'Institut national de la statistique et des études économiques utilise les informations collectées dans chaque commune au moyen d'enquêtes de recensement exhaustives ou par sondage, les données démographiques non nominatives issues des fichiers administratifs, notamment sociaux et fiscaux, que l'institut est habilité à collecter à des fins exclusivement statistiques, ainsi que les résultats de toutes autres enquêtes statistiques réalisées en application de l'article 2 de la loi n° 51-711 du 7 juin 1951 précitée.
+
+Par ailleurs, il est rappelé que les communes de moins de 10 000 habitants sont recensées exhaustivement tous les cinq ans par roulement, et que les communes de 10 000 habitants ou plus font l’objet d’une enquête par sondage tous les ans, 40 % de leur population étant recensée au bout de cinq ans.
+
+Le texte du titre V de la loi n° 2002-276 du 27 février 2002 figure en annexe
+
+## 1.1 La périodicité de publication
+
+L’article 156 de la loi prévoit, au paragraphe VIII, les dispositions suivantes :
+
+VIII. - Un décret authentifie chaque année les chiffres des populations de métropole, des départements d'outre-mer et de Saint-Pierre-et-Miquelon, des circonscriptions administratives et des collectivités territoriales.
+
+Le principe est donc de publier tous les ans les chiffres des populations de toutes les circonscriptions administratives. Pour les établir, l’Insee dispose des informations collectées à l’occasion des enquêtes de recensement et de données non nominatives issues de sources administratives. Ces sources administratives sont utilisées pour actualiser les chiffres de population des communes de moins de 10 000 habitants entre deux enquêtes de recensement.
+
+La détermination de la population de référence suppose qu’on ait exploité les données collectées en début d’année, c’est-à-dire qu’elles aient été saisies et contrôlées. Le décret est donc publié avant la fin de l’année pour prendre effet le 1<sup>er</sup> janvier de l’année suivante.
+
+En Nouvelle-Calédonie, en Polynésie française, dans les Îles Wallis et Futuna et à Mayotte, la population des circonscriptions administratives sera établie à l’issue des recensements généraux de la population, une fois tous les cinq ans.
+
+Les communes de Saint-Barthélemy et de Saint-Martin (Guadeloupe) sont devenues en 2007 des collectivités d'outre-mer ; leurs populations de référence sont calculées selon la méthode appliquée pour les communes de taille correspondante des départements d'outre-mer et publiées tous les ans.
+
+## 1.2 Les catégories de population
+
+Le décret n° 2003-485 du 5 juin 2003 (cf. annexe 2) fixe les catégories de population et leur composition.
+
+La population municipale comprend les personnes ayant leur résidence habituelle sur le territoire de la commune, dans un logement ou une communauté, les personnes détenues dans les établissements pénitentiaires de la commune, les personnes sans abri recensées sur le territoire de la commune et les personnes résidant habituellement dans des habitations mobiles, recensées sur le territoire de la commune. L’enquête de recensement sur le territoire de la commune permet de déterminer cette population.
+
+La population comptée à part comprend certaines personnes dont la résidence habituelle est dans une autre commune mais qui ont une résidence sur le territoire de la commune :
+
+\- personnes mineures dont la résidence familiale est dans une autre commune mais qui résident du fait de leurs études dans la commune :
+
+si elles résident dans un logement de la commune, elles sont déclarées dans la liste D de la feuille de logement ;
+
+si elles résident dans un internat de la commune, elles sont repérées à partir de la déclaration - dans leur bulletin individuel recueilli dans l’internat - d’une adresse de résidence familiale et de leur date de naissance.
+
+\- personnes résidant dans une communauté de catégorie 1, 2 ou 3 (établissements sanitaires et sociaux de moyen ou long séjour, maisons de retraite, foyers ou résidences sociales, communautés religieuses, casernes ou établissements militaires) d’une autre commune mais ayant une résidence familiale sur le territoire de la commune : elles précisent l’adresse de leur résidence personnelle dans le bulletin individuel recueilli dans leur communauté. En conséquence :
+
+le nombre de personnes résidant dans une communauté de la commune B et ayant une résidence personnelle dans la commune A sera mis à jour tous les cinq ans, dans la population comptée à part de la commune A, lors du recensement des communautés de la commune B ;
+
+la population comptée à part d'une commune est mise à jour chaque fois que sont recensées les communautés, situées dans d'autres communes, accueillant des personnes ayant une résidence personnelle dans la commune. Ces mises à jour peuvent donc intervenir chaque année.
+
+\- personnes majeures âgées de moins de 25 ans ayant leur résidence familiale sur le territoire de la commune et qui résident dans une autre commune pour leurs études : elles sont déclarées dans la liste C de la feuille de logement de leur résidence familiale.
+
+Jusqu’aux populations millésimées 2016, la population comptée à part comprenait également les personnes sans domicile fixe rattachées à la commune, au sens de la loi du 3 janvier 1969, et non recensées dans la commune. Cette catégorie est supprimée de la population comptée à part (PCAP) par le décret n° 2019-1302 du 5 décembre 2019 modifiant le décret n°2003-485 du 5 juin 2003 relatif au recensement de la population. Elle n'est plus comptabilisée dans la population comptée à part depuis les populations millésimées 2017. Ces personnes restent comptabilisées dans la population municipale de la commune où elles sont recensées.
+
+La population totale est la somme de la population municipale et de la population comptée à part.
+
+Un graphique récapitulatif présente en annexe 3 de manière visuelle la composition des populations de référence.
+
+## 2. UNE MÊME DATE POUR LES RÉSULTATS
+
+La méthode retenue consiste à produire chaque année, pour chaque commune, une population prenant effet juridique le 1<sup>er</sup> janvier suivant mais calculée en se référant à l’année du milieu des cinq années écoulées.
+
+Sur le plan technique, cette référence à l’année du milieu des cinq années écoulées tient au fait que les communes de moins de 10 000 habitants sont recensées exhaustivement par roulement tous les cinq ans, et que les communes de 10 000 habitants ou plus sont enquêtées par sondage à raison de 40 % de leur population en cinq ans, l’ensemble de leur territoire étant pris en compte au bout de ces cinq années. L’ensemble du territoire national (métropole, départements d’outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon) est ainsi couvert en cinq ans.
+
+Cette option assure l’égalité de traitement des communes. En effet, il ne serait pas envisageable de publier des populations des communes qui ne seraient pas relatives à une même date, notamment pour les années de consultation électorale.
+
+Par ailleurs, elle permet de produire des estimations plus fiables car, pour les communes de moins de 10 000 habitants, ces dernières ne s'écartent pas de plus de deux ans de la population effectivement recensée. Et, pour les communes de 10 000 habitants ou plus, la situation du milieu de période est celle qui est le mieux reflétée par le cumul de cinq enquêtes annuelles. Dans les deux cas, les dénombrements y gagnent en robustesse et le système en lisibilité. Cette option assure aussi une plus grande équité dans la répartition des concours de l’État, puisqu'elle confère aux dénombrements de population, qui sont le critère essentiel de cette répartition, le maximum de fiabilité. Les événements affectant, positivement ou négativement, la démographie d’une commune seront pris en compte avec un décalage de deux ans dans les communes de moins de 10 000 habitants et le seront par cinquièmes annuels successifs à partir de l’année suivant celle de leur déclenchement dans les communes de 10 000 habitants ou plus. Rappelons que de tels événements n’étaient pas pris en compte avant huit ou neuf ans quand ils se produisaient juste après un recensement général de la population.
+
+Bien entendu, il sera possible de faire évoluer le système dans le temps, une fois qu’il aura été rodé et que des progrès significatifs auront été réalisés en matière de fichiers administratifs, tant en ce qui concerne leur couverture que leur date de disponibilité. À condition que les calculs ne perdent pas en sûreté, une première étape consisterait à ramener toutes les estimations à l’avant-dernière année de la période de cinq ans prise en compte, l’étape ultime de progrès visant l’année de l’enquête de recensement la plus récente. C’est un objectif à dix ans environ.
+
+L’Insee ne travaillera pas isolément sur ces évolutions. Il est prévu que le Conseil national de l’information statistique (CNIS), notamment à travers la Commission nationale d'évaluation du recensement, sera chargé de donner, tous les cinq ans, un avis quant au mode de détermination de la population de référence des communes. Cet avis s’appuiera sur une évaluation des conditions de production des populations, sur une large concertation visant à recueillir le point de vue des utilisateurs de ces populations (administrations et collectivités locales) ainsi que sur un état des lieux des différentes sources administratives, de façon à apprécier les possibilités de progrès apportées par ces données.
+
+## 3.LA MÉTHODE DE CALCUL
+
+## 3.1 La méthode pour les communes de 10 000 habitants ou plus
+
+## 3.1.1 population des ménages
+
+Les adresses des communes de 10 000 habitants ou plus sont réparties en cinq groupes. Chaque année, on enquête environ 40 % des logements d’un groupe, ce qui représente 8 % des logements de la commune.
+
+En multipliant l’effectif de la population ainsi enquêtée par le poids de sondage, soit environ 2,5, on obtient une estimation de la population du groupe d’adresses.
+
+En fin d’année N, les résultats des collectes effectuées en N-4, N-3, N-2, N-1 et N sont disponibles. On additionne les résultats ainsi obtenus au cours des cinq dernières années pour obtenir une estimation de la population moyenne de la commune au cours de ces mêmes cinq dernières années. Cette moyenne est représentative de la situation du milieu de la période considérée, soit de l’année N-2.
+
+Pour estimer la population l’année N-2, on « cale » ce résultat sur le nombre de logements du répertoire d’immeubles localisé (RIL) au début de l’année N-2. (Un exemple chiffré est donné à l’annexe 4). Concrètement, cela revient à calculer un nombre moyen de personnes par logement sur l’ensemble de la période et à le multiplier ensuite par le nombre de logements tiré du RIL de l’année N-2.
+
+## Un répertoire d'adresses localisées : le RIL
+
+Le RIL (répertoire d'immeubles localisés) est un répertoire d'adresses localisées par des coordonnées géographiques. Il comprend les adresses des immeubles d'habitation, celles des communautés et celles des établissements du répertoire des entreprises et de leurs établissements (SIRENE). Il est constitué pour les communes de métropole qui avaient 10 000 habitants ou plus en 1999. Dans les départements d'outre- mer, l'adressage, qu'il soit insuffisant ou inexistant, a conduit à différer la constitution d'un tel répertoire ; la méthodologie y est adaptée en conséquence.
+
+Le RIL est associée à une base de données géographiques qui contient notamment les voies, numéros de voie, adresses aux carrefours et limites d'IRIS (1). Chaque adresse du RIL est géocodée à l'aide de ce référentiel géographique ; elle est qualifiée, en particulier, par sa catégorie (habitation, communauté, activité) et le nombre de logements qui y sont situés.
+
+Le RIL a été initialisé à partir du recensement général de la population de 1999 ; il est mis à jour, chaque année, par l'Insee avec l'appui des communes, à l'aide d'informations d'origine administrative (permis de construire et de démolir, fichier de La Poste, fichier des données fiscales) ; il est expertisé chaque année par les communes. Le cas échéant, il est corrigé à partir de la situation constatée sur le terrain lors de l'enquête de recensement, notamment en ce qui concerne le nombre de logements à l'adresse.
+
+D'une part, le RIL est utilisé comme base de sondage des adresses dans les communes de 10 000 habitants ou plus, et d'autre part, il fournit exhaustivement le nombre total de logements de chaque IRIS et de chaque commune permettant le calcul des populations.
+
+(1)L'IRIS est une partie de commune correspondant, le plus souvent, à un quartier d'environ 2 000 habitants. Toutes les communes de 10 000 habitants ou plus ainsi que la plupart des communes de 5 000 à 10 000 habitants ont fait l'objet d'un découpage en IRIS à l'occasion de la diffusion des résultats du recensement de la population de 1999. En 2008, une centaine d'IRIS ont fait l'objet d'un « toilettage » tenant compte des évolutions importantes de l'habitat et de la population ou de la voirie.
+
+## Remarques :
+
+\- afin de tenir compte de la spécificité du parc de certaines communes, le plan de sondage a été conçu de façon à traiter exhaustivement les « adresses de grande taille », c’est-à-dire celles qui, ensemble, représentent au plus 10 % des logements de la commune et comptent chacune au moins 60 logements; ces deux conditions font que le seuil au-delà duquel une adresse est considérée de « grande taille » peut varier d'une commune à l'autre en fonction de la structure de l'habitat. D'autre part, les adresses nouvelles des communes de 10 000 habitants ou plus sont toutes enquêtées dans les cinq années suivant leur apparition ;
+
+\- en pratique, en fin d'année N, le « calage » sur le RIL du milieu de période est effectué non pas au niveau de la commune mais au niveau infra-communal, le plus souvent à l'IRIS, ce qui améliore la qualité des résultats.
+
+## 3.1.2 population des communautés
+
+La population des communautés est recensée exhaustivement (par l’Insee) une fois tous les cinq ans dans les communes de 10 000 habitants ou plus. Celles-ci ont été réparties en cinq groupes de manière à répartir la charge sur le cycle de cinq ans. Une exception est faite pour les communes comportant un nombre très élevé de communautés : pour alléger la charge de la collecte dans ces communes, le recensement des communautés y est réparti sur plusieurs années.
+
+L’Insee construit une autre source d’information sur les communautés : le répertoire des communautés.
+
+## Le répertoire des communautés
+
+Une communauté est un ensemble de locaux d'habitation relevant d'une même autorité gestionnaire et dont les habitants partagent à titre habituel un mode de vie commun. La population de la communauté comprend les personnes qui résident dans la communauté, à l'exception de celles résidant dans des logements de fonction.
+
+Le répertoire des communautés, constitué par l’Insee, est mis à jour tous les ans à partir de sources administratives comme le fichier FINESS des établissements sanitaires et sociaux, le fichier des établissements scolaires avec internat, le fichier des établissements pénitentiaires, etc. Ces sources de mises à jour couvrent environ 80 % des communautés et la totalité des plus grandes. Elles permettent de suivre les créations et suppressions de communautés. La liste des communautés de chaque commune est soumise à celle-ci, pour expertise, une fois tous les cinq ans, juste avant le recensement exhaustif des communautés de la commune.
+
+En fin d’année N, pour une commune donnée, il s’agit d’estimer la population de ses communautés au 01/01/N-2, soit à la même date que la population des ménages.
+
+Si les communautés de la commune ont été recensées en N-2, on retient le chiffre issu de la collecte.
+
+Si elles ont été recensées avant, en N-3 ou N-4, l'actualisation de la population des communautés consiste, en s'appuyant sur le répertoire des communautés, à ajouter la capacité d'accueil des nouvelles communautés et à ne pas prendre en compte la population recensée dans les communautés disparues.
+
+Si elles ont été recensées après, en N-1 ou N, on actualise la population des communautés par interpolation c’est-à-dire en répartissant, à parts égales sur chaque année, l'écart entre le dernier chiffre publié et celui fourni par le recensement des communautés.
+
+NB : pour les communes dans lesquelles le recensement des communautés est réparti sur plusieurs années, la population de chaque sous-ensemble est estimée séparément, selon la méthode exposée ci-dessus, en fonction de l’année de collecte de chacun des sous-ensembles.
+
+## 3.1.3 population des habitations mobiles et des personnes sans abri
+
+La collecte auprès de ces populations a lieu une fois tous les cinq ans, simultanément sur l’ensemble du territoire de chaque commune de 10 000 habitants ou plus, la première collecte de cette nature étant intervenue en janvier 2006. Ces populations sont recensées exhaustivement les deux premiers jours de la collecte faite auprès des ménages , la situation enregistrée étant celle existant sur le terrain le premier jour de la collecte à zéro heure. Les effectifs ainsi dénombrés seront maintenus constants pendant cinq ans et mis à jour après chaque nouvelle enquête exhaustive de cette nature. Il en sera de même pour les mariniers, qui sont recensés par l’Insee.
+
+## 3.1.4 population comptée à part
+
+Elle est mise à jour tous les ans au fur et à mesure des enquêtes. Par exemple, les effectifs de personnes résidant en communauté dans d’autres communes et ayant une résidence personnelle dans la commune sont actualisés au fur et à mesure du recensement de ces communes.
+
+## 3.2 La méthode pour les communes de moins de 10 000 habitants
+
+Ces communes sont recensées exhaustivement, par roulement, tous les cinq ans, à raison d’une commune sur cinq chaque année.
+
+## 3.2.1 population des ménages
+
+Plaçons-nous en fin d’année N.
+
+Sachant que la population publiée pour les communes de 10 000 habitants ou plus sera celle relative à l’année médiane de la période de cinq ans qui précède, soit N-2, c’est la population au 01/01/N-2 qu’il s’agit d’estimer pour chacune des communes de moins de 10 000 habitants.
+
+Pour les communes recensées en N-2, on retient le résultat de l’enquête de recensement. Pour les autres, il s’agit d’actualiser la population publiée l’année précédente pour la commune.
+
+Pour celles qui ont été recensées en N-1 ou N, on procède à cette actualisation par interpolation avec le chiffre issu de l‘enquête de recensement de N-1 ou N. Cela consiste à calculer l’écart entre le dernier chiffre publié (au 01/01/N-3) et celui de l’enquête de recensement, et à le répartir à parts égales sur les deux ou trois années.
+
+Pour celles qui ont été recensées en N-3, on actualise le chiffre tiré de l’enquête de recensement N-3 en s’aidant d’une information supplémentaire sur l’évolution du parc de logements : cette information est tirée du fichier des données fiscales.
+
+Il faut ensuite relier l’évolution du parc de logements et celle du nombre d’habitants et tenir compte du fait que, souvent, la population et le nombre de ménages ne croissent pas exactement au même rythme. En moyenne, et dans la plupart des communes, la taille des ménages diminuant, le nombre de ménages augmente plus vite que celui des habitants.
+
+Pour passer d’une évolution du parc de logements à une évolution du nombre d’habitants, on estime, à l’aide des dernières enquêtes de recensement disponibles, un coefficient égal au rapport du rythme d'évolution de la population des ménages à celui du nombre de résidences principales. On applique ensuite ce coefficient au taux d'évolution du parc calculé sur le fichier des données fiscales pour avoir une estimation du taux de progression de la population.
+
+Remarque : on suppose que la proportion de résidences principales dans le parc de logements est constante sur la période car son évolution est en général lente et irrégulière.
+
+Par exemple :   
+pour la commune Z, si entre les deux derniers recensements, le taux annuel d’évolution a été de 1,5 %   
+pour les résidences principales et de 1,3 % pour les personnes, on retiendra que le nombre d'habitants croît   
+moins vite que celui des résidences principales dans le rapport de : 101,3 / 101,5 soit : 0,99803.   
+Si le fichier des données fiscales fait apparaître, pour la commune de Z et pour l’année considérée, une   
+augmentation du parc de logements de 1,6 %, l’estimation de l’évolution de la population pour Z sera égale à :   
+(101,6 × 0,99803) = 101,4 soit : +1,4 %.
+
+Pour les communes recensées en N-4, on procède de la même façon, en partant du dernier chiffre de population publié, c’est à dire celui du 01/01/N-3. Cela correspond à une extrapolation sur deux ans du résultat de l’enquête de recensement.
+
+Au cours du cycle quinquennal, chaque commune passe donc par les cinq « états » suivants : interpolation sur deux ans, interpolation sur un an, résultat de l’enquête de recensement, extrapolation sur un an, extrapolation sur deux ans. Le chiffre de population est toujours calculé sur la base d’une enquête de recensement distante d’au plus deux ans.
+
+Exemple chiffré (Voir aussi, annexe 5, le schéma d’organisation dans le temps) :   
+Considérons la commune de Z., recensée en 2006 et 2011.   
+Le recensement de 1999 donnait 1 600 habitants et 600 résidences principales.   
+L’enquête de recensement de 2006 donne 2 000 habitants et 800 résidences principales   
+Le fichier des données fiscales donne 900 logements en 2006, 930 en 2007, 950 en 2008, 970 en 2009.   
+Fin 2008, la population retenue sera celle de l’enquête de recensement 2006, soit 2 000 habitants.   
+Fin 2009, il s’agit de calculer une population au 01/01/07.   
+L’évolution du parc de logements entre le 01/01/06 et le 01/01/07 est estimée à : 930/900 = 1,03333 (soit :   
+3,3 %). Entre les deux derniers recensements connus (en l’occurrence 1999 et 2006) le nombre de résidences   
+principales n’a pas crû au même rythme que le nombre d‘habitants. Pour le nombre de résidences principales, ce   
+rythme est égal à : (800/600)<sup>(1/7)</sup> = 1,04195 (soit : 4,2 % par an) ; pour le nombre d’habitants le rythme est égal à   
+(2000/1600)<sup>(1/7)</sup> = 1,03239 (soit : 3,2 % par an).   
+Le différentiel de rythme d'évolution est donc de : (1,03239 / 1,04195) soit : 0,99082. En appliquant ce   
+différentiel on estime la progression du nombre d'habitants à : 1,03333 \* 0,99082 = 1,02384 (soit : 2,4 %).   
+La population estimée au 01/01/07 sera donc de 2 000 \* 1,02384 soit 2 048 habitants.   
+Fin 2010, il s’agit d’actualiser la population au 01/01/08.   
+Entre le 01/01/07 et le 01/01/08 l’évolution du parc de logements est estimée à : 950/930 = 1,02151 (soit :   
+2,2 %). Le différentiel est toujours de 0,99082. Cela correspond à une évolution du nombre d’habitants de :   
+1,02151 \* 0,99082 = 1,01213 (soit : 1,2 %).   
+La population au 01/01/08 est donc estimée à : 2 048 \* 0,1213 soit : 2 073 habitants.   
+Fin 2011, il s’agit d’actualiser la population au 01/01/09.   
+On dispose du résultat de l’enquête de recensement de 2011, qui donne une population de 2 200   
+habitants. Cela représente une progression de 127 habitants par rapport à 2008. L’interpolation consiste à   
+répartir cette progression à parts égales sur chaque année du 01/01/08 au 01/01/11, soit : 1 fois 43 et 2 fois   
+42 habitants. La population au 01/01/09 est donc estimée à : 2 073 + 43 soit : 2 116 habitants.   
+Fin 2012, il s’agit d’actualiser la population au 01/01/10.   
+On poursuit l’interpolation, en ajoutant 42 habitants.   
+La population estimée au 01/01/10 est donc estimée à : 2 116 + 42 soit : 2 158 habitants.   
+Fin 2013, il s’agit d’actualiser la population au 01/01/11.   
+On retient alors le chiffre du recensement de 2011, soit 2 200 habitants.
+
+## 3.2.2 population des communautés
+
+Le principe est identique à celui retenu pour la population des ménages, à savoir extrapolation et interpolation.
+
+Il est rappelé que le recensement des communautés est opéré (par l’Insee) de manière exhaustive et en une seule fois tous les cinq ans sur le territoire de la commune, quelle que soit sa taille. Cela se fait à l’occasion de l’enquête de recensement, mais en mars. Pour des raisons liées au climat, ce calendrier a dû être inversé à La Réunion : collecte dans les communautés en janvier et collecte auprès des ménages en février et mars.
+
+La méthode d'actualisation de la population des communautés est identique à celle mise en œuvre pour les communes de 10 000 habitants ou plus (cf. paragraphe 3.1.2).
+
+## 3.2.3 population des habitations mobiles et des personnes sans abri
+
+Ces populations sont recensées exhaustivement les deux premiers jours de la collecte, la situation enregistrée étant celle existant sur le terrain le premier jour de la collecte à zéro heure. Comme elles sont par nature non stables, la prolongation de tendances n’aurait pas de sens. Les effectifs recensés sont donc maintenus constants pendant cinq ans et mis à jour après chaque nouvelle enquête de recensement. Il en est de même pour les mariniers, recensés par l’Insee.
+
+## 3.2.4 population comptée à part
+
+Elle sera mise à jour tous les ans au fur et à mesure des enquêtes. Par exemple, les effectifs de personnes résidant en communauté dans d’autres communes et ayant une résidence personnelle dans la commune sont actualisés au fur et à mesure du recensement de ces communes.
+
+La méthode d'actualisation de la population comptée à part est identique à celle mise en œuvre pour les communes de 10 000 habitants ou plus (cf. paragraphe 3.1.4).
+
+## 3.3 La population des fractions cantonales et des communes associées
+
+Dans les communes de 10 000 habitants ou plus, la population des logements de chaque IRIS est affectée entre communes associées ou entre cantons au prorata du nombre de logements dans le Répertoire des Immeubles Localisés (RIL) de chacune de ces zones infra-communales. La population des communautés, elle, est affectée à la portion de territoire dans laquelle est située la communauté.
+
+Dans les communes de moins de 10 000 habitants, les zones de collecte respectent les limites des cantons et des communes associées. Le recensement permet de produire directement la population de ces zones infracommunales. Entre deux années de recensement, on répartit la population actualisée de la commune au prorata de la population de chaque zone infra-communale au dernier recensement.
+
+# ANNEXE 1
+
+# Texte du titre V (articles 156 à 158) de la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité
+
+# TITRE V DES OPÉRATIONS DE RECENSEMENT
+
+## Article 156
+
+I. - Le recensement de la population est effectué sous la responsabilité et le contrôle de l’État.
+
+II.- Le recensement a pour objet :
+
+1° Le dénombrement de la population de la France ;
+
+2° La description des caractéristiques démographiques et sociales de la population ; 3°
+
+Le dénombrement et la description des caractéristiques des logements.
+
+Les données recueillies sont régies par les dispositions de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques et de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+III.- La collecte des informations est organisée et contrôlée par l'Institut national de la statistique et des études économiques.
+
+Les enquêtes de recensement sont préparées et réalisées par les communes ou les établissements publics de coopération intercommunale, qui reçoivent à ce titre une dotation forfaitaire de l'Etat.
+
+IV.- L'article L. 2122-21 du code général des collectivités territoriales est complété par un 10° ainsi rédigé :
+
+« 10° De procéder aux enquêtes de recensement. »
+
+V. - Lorsque l'établissement public de coopération intercommunale a reçu des communes qui le constituent compétence pour préparer et réaliser les enquêtes de recensement, l'organe délibérant de l'établissement peut, par délibération, charger le président de l'établissement de procéder à ces enquêtes.
+
+Dans le cas où une commune ou un établissement public de coopération intercommunale refuserait ou négligerait d'accomplir cette mission, le représentant de l'Etat dans le département peut, après l'en avoir requis, y pourvoir d'office.
+
+Les enquêtes de recensement sont effectuées par des agents recenseurs, agents de la commune ou de l'établissement public de coopération intercommunale affectés à cette tâche ou recrutés par eux à cette fin. Lorsque l'activité exercée par un agent recenseur présente un caractère accessoire, elle est exclue de l'interdiction prévue à l'article L. 324-1 du code du travail. L'inéligibilité prévue au douzième alinéa de l'article L. 231 du code électoral s'applique à tous les agents recenseurs, quel que soit le nombre d'habitants de la commune.
+
+VI.- Les dates des enquêtes de recensement peuvent être différentes selon les communes.
+
+Pour les communes dont la population est inférieure à 10 000 habitants, les enquêtes sont exhaustives et ont lieu chaque année par roulement au cours d'une période de cinq ans. Pour les autres communes, une enquête par sondage est effectuée chaque année ; la totalité du territoire de ces communes est prise en compte au terme de la même période de cinq ans.
+
+Chaque année, un décret établit la liste des communes concernées par les enquêtes de recensement au titre de l'année suivante.
+
+VII. - Pour établir les chiffres de la population, l'Institut national de la statistique et des études économiques utilise les informations collectées dans chaque commune au moyen d'enquêtes de recensement exhaustives ou par sondage, les données démographiques non nominatives issues des fichiers administratifs, notamment sociaux et fiscaux, que l'institut est habilité à collecter à des fins exclusivement statistiques, ainsi que les résultats de toutes autres enquêtes statistiques réalisées en application de l'article 2 de la loi n° 51-711 du 7 juin 1951 précitée.
+
+À cette fin, les autorités gestionnaires des fichiers des organismes servant les prestations de base des régimes obligatoires d'assurance maladie transmettent à l'Institut national de la statistique et des études économiques les informations non nominatives qu'il appartient à l'institut d'agréger cinq ans après leur réception, à un niveau géographique de nature à éviter toute identification de personnes.
+
+VIII. - Un décret authentifie chaque année les chiffres des populations de métropole, des départements d'outre-mer et de Saint-Pierre-et-Miquelon, des circonscriptions administratives et des collectivités territoriales.
+
+IX.- Les informations relatives à la localisation des immeubles, nécessaires à la préparation et à la réalisation des enquêtes de recensement, sont librement échangées entre l'Institut national de la statistique et des études économiques, les communes et les établissements publics de coopération intercommunale intéressés.
+
+X. - Le premier décret authentifiant les chiffres de population en application du VIII sera publié à la fin de la première période de cinq ans mentionnée au VI.
+
+## Article 157
+
+I. - Jusqu'à la publication du décret mentionné au X de l'article 156, la population des collectivités territoriales et des circonscriptions administratives est celle qui a été authentifiée par décret à l'issue du dernier recensement général de la population effectué en métropole, dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, modifiée, le cas échéant, par des recensements complémentaires.
+
+À compter de la publication du même décret, les références au recensement général de la population et au recensement complémentaire sont remplacées par des références au recensement de la population dans toutes les dispositions législatives alors en vigueur.
+
+II. - Par dérogation aux dispositions de l'article 156 et du I du présent article, il est procédé, tous les cinq ans, à des recensements généraux de la population en Nouvelle-Calédonie, en Polynésie française, à Mayotte et dans les îles Wallis et Futuna. Les opérations de recensement y sont, le cas échéant, organisées avec l'institut de statistiques compétent. Après chacun de ces recensements généraux, un décret authentifie les chiffres des populations de ces territoires, de leurs circonscriptions administratives et de leurs collectivités territoriales.
+
+Ces dispositions s'appliquent en Nouvelle-Calédonie et en Polynésie française dans le respect des compétences définies par les lois organiques fixant leur statut.
+
+Dans les îles Wallis et Futuna, les enquêtes de recensement sont préparées et réalisées par les services de l'administrateur supérieur, qui perçoivent à ce titre une dotation forfaitaire de l’État.
+
+En Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et à Mayotte, lorsque l'activité exercée par un agent recenseur présente un caractère accessoire, les interdictions relatives au cumul d'emplois public et privé prévues par la réglementation du travail en vigueur ne sont pas applicables.
+
+Les dispositions de la dernière phrase du dernier alinéa du V de l'article 156 s'appliquent en Nouvelle-Calédonie, en Polynésie française et à Mayotte.
+
+## Article 158
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent titre après avis, pour la détermination des modalités de réalisation des enquêtes par sondage, d'une commission spéciale constituée au sein du Conseil national de l'information statistique. Cette commission comprend des statisticiens, des représentants des collectivités locales et des représentants de l'Etat.
+
+# ANNEXE 2 Extraits du décret n° 2003-485 du 5 juin 2003 relatif au recensement de la population. Version consolidée au 16 décembre 2019.
+
+II - Les catégories de population sont :
+
+1. La population municipale ;
+
+2. La population comptée à part ;
+
+3. La population totale, qui est la somme des deux précédentes.
+
+III- La population municipale d’une commune, mentionnée au 1 du II du présent article, comprend :
+
+1. Les personnes ayant leur résidence habituelle sur le territoire de la commune. La résidence habituelle, au sens du présent décret, d’une personne ayant plusieurs résidences en France métropolitaine, dans les départements d’outre-mer ou à Saint-Pierre-et-Miquelon est :
+
+a. pour une personne mineure résidant ailleurs du fait de ses études, la résidence de sa famille ;
+
+b. pour une personne résidant dans une communauté appartenant aux catégories 1 à 3 définies au VI du présent article, la communauté ;
+
+c. pour une personne majeure résidant dans une communauté appartenant à la catégorie 4 définie au VI du présent article, la communauté ;
+
+d. pour une personne majeure résidant du fait de ses études hors de la résidence familiale et hors communauté, son logement ;
+
+e. pour un conjoint, concubin ou personne liée par un pacte civil de solidarité résidant pour des raisons professionnelles hors de la résidence familiale et hors communauté, sa résidence familiale ;
+
+f. pour une personne qui ne se trouve dans aucune des situations décrites ci-dessus, la résidence dans laquelle elle réside le plus longtemps.
+
+2. Les personnes détenues dans les établissements pénitentiaires dont le siège est situé sur le territoire de la commune ;
+
+3. Les personnes sans abri recensées sur le territoire de la commune ;
+
+4. Les personnes résidant habituellement dans des habitations mobiles, recensées sur le territoire de la commune.
+
+IV- La population comptée à part, mentionnée au 2 du II du présent article, d’une commune comprend :
+
+1. Les personnes se trouvant dans la situation décrite au a du 1 du III qui résident du fait de leurs études sur le territoire de la commune et qui ont leur résidence habituelle située dans une autre commune ;
+
+2. Les personnes se trouvant dans la situation décrite au b du 1 du III dont la résidence familiale est située sur le territoire de la commune et qui ont leur résidence habituelle située dans une autre commune ;
+
+3. Les personnes majeures âgées de moins de 25 ans qui se trouvent dans la situation décrite au c du 1 du III, dont la résidence familiale se trouve sur le territoire de la commune et qui ont leur résidence habituelle située dans une autre commune ;
+
+4. Les personnes majeures âgées de moins de 25 ans qui se trouvent dans la situation décrite au d du 1 du III, dont la résidence de la famille se trouve sur le territoire de la commune et qui ont leur résidence habituelle située dans une autre commune.
+
+V - Une communauté est un ensemble de locaux d’habitation relevant d’une même autorité gestionnaire et dont les habitants partagent à titre habituel un mode de vie commun. La population de la communauté comprend les personnes qui résident dans la communauté, à l’exception de celles résidant dans des logements de fonction.
+
+## VI- Les catégories de communautés sont :
+
+1. Les services de moyen ou de long séjour des établissements publics ou privés de santé, les établissements sociaux de moyen et long séjour, les maisons de retraite, les foyers et résidences sociales ou assimilés ;
+
+2. Les communautés religieuses ;
+
+3. Les casernes, quartiers, bases ou camps militaires ou assimilés ;
+
+4. Les établissements hébergeant des élèves ou des étudiants, y compris les établissements militaires d’enseignement ;
+
+5. Les établissements pénitentiaires ;
+
+6. Les établissements sociaux de court séjour ;
+
+7. Les autres communautés.
+
+## 3. ANNEXE 3
+
+![](images/93157e75dda6871fe8b94965858a6c0b3c38669f601da39170d5769107d47256.jpg)  
+(1) La résidence habituelle pour les conjoints éloignès et les élèves et étudiants mineurs est la résidence familiale  
+(2) Établissements d’enseignement hébergeant des élèves et des étudiants (y compris les établissements d’enseignement militaire) et les établissements pénitentiaires
+
+NB : sur ce schéma les surfaces représentant les différentes populations et leurs composantes ne sont pas proportionnelles aux effectifs correspondants. La population comptée à part représente, en général, une part relativement faible de la population totale. Les personnes résidant dans les logements représentent, en général, une part importante de la population municipale.
+
+## ANNEXE 4
+
+## Calcul de la population de référence dans une commune de 10 000 habitants ou plus Exemple de calcul pour la population des ménages
+
+<table><tr><td rowspan=1 colspan=1>Année depublication dela population</td><td rowspan=1 colspan=1>2015</td><td rowspan=1 colspan=1>2016</td><td rowspan=1 colspan=1>2017</td><td rowspan=1 colspan=1>2018</td><td rowspan=1 colspan=1>2019</td><td rowspan=1 colspan=1>2020</td></tr><tr><td rowspan=1 colspan=1>Année d&#x27;estimationde la population desménages</td><td rowspan=1 colspan=1>2013</td><td rowspan=1 colspan=1>2014</td><td rowspan=1 colspan=1>2015</td><td rowspan=1 colspan=1>2016</td><td rowspan=1 colspan=1>2017</td><td rowspan=1 colspan=1>2018</td></tr><tr><td rowspan=1 colspan=1>Nombre total delogements (L) dansle répertoired’immeubleslocalisés (RIL) de lacommune l’annéed’estimation</td><td rowspan=1 colspan=1>6 000</td><td rowspan=1 colspan=1>6 100</td><td rowspan=1 colspan=1>6 150</td><td rowspan=1 colspan=1>6 200</td><td rowspan=1 colspan=1>6 230</td><td rowspan=1 colspan=1>6 300</td></tr><tr><td rowspan=1 colspan=1>Nombre delogements dugroupe de rotationd’adresses del’année d&#x27;estimation</td><td rowspan=1 colspan=1>1 200</td><td rowspan=1 colspan=1>1250</td><td rowspan=1 colspan=1>1 300</td><td rowspan=1 colspan=1>1 180</td><td rowspan=1 colspan=1>1 200</td><td rowspan=1 colspan=1>1 260</td></tr><tr><td rowspan=1 colspan=1>Population estiméedu grouped&#x27;adresses</td><td rowspan=1 colspan=1>2 400</td><td rowspan=1 colspan=1>2 500</td><td rowspan=1 colspan=1>2 600</td><td rowspan=1 colspan=1>2 360</td><td rowspan=1 colspan=1>2 400</td><td rowspan=1 colspan=1>2 520</td></tr><tr><td rowspan=1 colspan=1>Somme despopulations des 5groupes d’adresses(p)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>12 260</td><td rowspan=1 colspan=1>12 380</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Somme deslogements des 5groupes d’adresses(1)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>6 130</td><td rowspan=1 colspan=1>6 190</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Coefficient correctif(L/I)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>6 1506 130</td><td rowspan=1 colspan=1>6 2006 190</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>POPULATION (p*L/I)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>12 300</td><td rowspan=1 colspan=1>12 400</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>
+
+NB : En pratique, le calcul ci-dessus est effectué non pas au niveau de la commune mais au niveau infracommunal (sauf exception, à l'IRIS).
+
+Calcul de la population de référence dans les communes de moins de 10 000 habitants Organisation des calculs dans le temps pour la population des ménages  
+ANNEXE 5
+<table><tr><td rowspan=1 colspan=1>Années decollecte de lacommune</td><td rowspan=1 colspan=7>Année de référence des populations publiées</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2006</td><td rowspan=1 colspan=1>2007</td><td rowspan=1 colspan=1>2008</td><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>2011</td><td rowspan=1 colspan=1>2012...</td></tr><tr><td rowspan=1 colspan=1>20042009…</td><td rowspan=1 colspan=1>Extra-polation2004-2006</td><td rowspan=1 colspan=1>Inter-polation2006-2009</td><td rowspan=1 colspan=1>Inter-polation2007-2009</td><td rowspan=1 colspan=1>Collecte2009</td><td rowspan=1 colspan=1>Extra-polation2009-2010</td><td rowspan=1 colspan=1>Extra-polation2009-2011</td><td rowspan=1 colspan=1>Inter-polation2011-2014</td></tr><tr><td rowspan=1 colspan=1>20052010…</td><td rowspan=1 colspan=1>Extra-polation2005-2006</td><td rowspan=1 colspan=1>Extra-polation2005-2007</td><td rowspan=1 colspan=1>Inter-polation2007-2010</td><td rowspan=1 colspan=1>Inter-polation2008-2010</td><td rowspan=1 colspan=1>Collecte2010</td><td rowspan=1 colspan=1>Extra-polation2010-2011</td><td rowspan=1 colspan=1>Extra-polation2010-2012</td></tr><tr><td rowspan=1 colspan=1>20062011</td><td rowspan=1 colspan=1>Collecte2006</td><td rowspan=1 colspan=1>Extra-polation2006-2007</td><td rowspan=1 colspan=1>Extra-polation2006-2008</td><td rowspan=1 colspan=1>Inter-polation2008-2011</td><td rowspan=1 colspan=1>Inter-polation2009-2011</td><td rowspan=1 colspan=1>Collecte2011</td><td rowspan=1 colspan=1>Extra-polation2011-2012</td></tr><tr><td rowspan=1 colspan=1>20072012…</td><td rowspan=1 colspan=1>Inter-polation1999-2007</td><td rowspan=1 colspan=1>Collecte2007</td><td rowspan=1 colspan=1>Extra-polation2007-2008</td><td rowspan=1 colspan=1>Extra-polation2007-2009</td><td rowspan=1 colspan=1>Inter-polation2009-2012</td><td rowspan=1 colspan=1>Inter-polation2010-2012</td><td rowspan=1 colspan=1>Collecte2012</td></tr><tr><td rowspan=1 colspan=1>20082013</td><td rowspan=1 colspan=1>Inter-polation1999-2008</td><td rowspan=1 colspan=1>Inter-polation2006-2008</td><td rowspan=1 colspan=1>Collecte2008</td><td rowspan=1 colspan=1>Extra-polation2008-2009</td><td rowspan=1 colspan=1>Extra-polation2008-2010</td><td rowspan=1 colspan=1>Inter-polation2010-2013</td><td rowspan=1 colspan=1>Inter-polation2011-2013</td></tr></table>
+
+Guide de lecture : pour les communes de moins de 10 000 habitants, l’année de la première enquête dans le cadre du nouveau recensement se situe entre 2004 et 2008, selon le groupe auquel appartient la commune. Ces communes sont ensuite recensées régulièrement tous les cinq ans. À partir de 2008, toutes les communes auront été recensées. On peut donc calculer la population de chaque commune. Cette population doit être relative à la même date de référence quelle que soit l’année où la commune a été recensée. Cette date de référence est celle du milieu de la période de cinq ans considérée : en 2008, la date de référence est le 1<sup>er</sup> janvier 2006, milieu de la période 2004-2008 ; en 2009 c’est le 1<sup>er</sup> janvier 2007, milieu de la période 2005-2009, etc.
+
+Le tableau ci-dessus présente le type de traitement effectué pour calculer, chaque année, la population des communes selon les années où elles sont enquêtées.
+
+Pour une commune enquêtée en 2004 :
+
+• la population 2006 (publiée fin 2008) est obtenue en extrapolant sur deux ans la population recensée en 2004 ; cette extrapolation consiste à faire évoluer la population recensée en s‘appuyant sur l’évolution du nombre de logements dans le fichier des données fiscales, évolution corrigée du « différentiel » entre le rythme d’évolution de la population et le rythme d’évolution du nombre de résidences principales. Elle est notée : extrapolation 2004-2006, avec en gras l’année du recensement pris en compte.
+
+• la population 2007 (publiée fin 2009) est obtenue en interpolant la population recensée en 2009 ; cette interpolation consiste à répartir de façon égale sur les trois années de 2006 à 2008 l’écart entre la dernière population publiée (celle de 2006, publiée l’année précédente) et la population recensée lors de l’enquête la plus récente disponible (celle de 2009). Elle est notée : interpolation 2006-2009.
+
+• la population 2008 (calculée fin 2010) est obtenue en interpolant la population recensée en 2009 entre 2007 et 2009. Elle est notée : interpolation 2007-2009.
+
+• la population 2009 (publiée fin 2011) est directement issue de la collecte de l’enquête réalisée en 2009. Elle est notée : collecte 2009.
+
+• la population 2010 (publiée fin 2012) est obtenue en extrapolant sur un an la population recensée en 2009. Elle est notée :extrapolation 2009-2010.
+
+Les extrapolations seront donc construites en recourant aux informations auxiliaires contenues dans les fichiers des données fiscales. En 2008, on dispose en effet des données fiscales des années 2007 et précédentes. Or, une analyse approfondie de cette source a montré qu’elle permettait d’estimer les taux d’évolution du nombre de résidences principales avec, dans la plupart des communes, une bonne précision, meilleure que celle donnée par la simple prolongation de la tendance passée.
+
+Les deux années d’interpolation ne présentent guère de risque de s’écarter de la réalité puisqu’on s’appuie alors sur une enquête de recensement exhaustive toute récente. Le recours aux fichiers administratifs est ici superflu.
+
+Pour raccorder les extrapolations et les interpolations entre deux enquêtes de recensement et ainsi lisser les évolutions, on fera l’interpolation entre la dernière extrapolation et la nouvelle enquête de recensement. Ainsi, en 2009, pour une commune recensée en 2004 et 2009, la population référencée 2007 sera obtenue en interpolant non pas entre les résultats des deux enquêtes de recensement mais entre le résultat de l'enquête de recensement de 2009 et le chiffre 2006 publié en 2008.
+
+Le tableau met en évidence que :
+
+\- pour une commune donnée, la population publiée s'appuie toujours sur le résultat d'un recensement éloigné d'au plus deux ans ;
+
+\- pour chaque commune la population est obtenue successivement par deux interpolations, le résultat de l'enquête de recensement et deux extrapolations.

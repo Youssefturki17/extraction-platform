@@ -1,0 +1,4613 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.6991,
+                "bbox": [
+                    823,
+                    200,
+                    1511,
+                    357
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9848,
+                "bbox": [
+                    186,
+                    446,
+                    1510,
+                    646
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9837,
+                "bbox": [
+                    187,
+                    693,
+                    1509,
+                    860
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9544,
+                "bbox": [
+                    239,
+                    948,
+                    1163,
+                    989
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9718,
+                "bbox": [
+                    187,
+                    1016,
+                    1508,
+                    1085
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9491,
+                "bbox": [
+                    268,
+                    1096,
+                    1288,
+                    1134
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.979,
+                "bbox": [
+                    268,
+                    1146,
+                    1508,
+                    1248
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9834,
+                "bbox": [
+                    187,
+                    1259,
+                    1509,
+                    1423
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6859,
+                "bbox": [
+                    191,
+                    1433,
+                    572,
+                    1471
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.988,
+                "bbox": [
+                    178,
+                    1481,
+                    1518,
+                    1826
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>Population</td><td rowspan=1 colspan=1>Communes de moins de10 000 habitants</td><td rowspan=1 colspan=1>Communes de 10 000 habitantset plus</td></tr><tr><td rowspan=1 colspan=1>Ménages</td><td rowspan=1 colspan=1>20 % (*)</td><td rowspan=1 colspan=1>100 % des ménages enquêtés,soit environ 40 % du total desménages</td></tr><tr><td rowspan=1 colspan=1>Individus des communautés</td><td rowspan=1 colspan=2>20 % (*)</td></tr><tr><td rowspan=1 colspan=1>Habitations mobiles et terrestreset personnes sans abri</td><td rowspan=1 colspan=1>20 % (*)</td><td rowspan=1 colspan=1>100 %</td></tr><tr><td rowspan=1 colspan=1>Habitations  mobiles  fluviales(mariniers)</td><td rowspan=1 colspan=2>100 %</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9242,
+                "bbox": [
+                    191,
+                    1828,
+                    1266,
+                    1864
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8548,
+                "bbox": [
+                    189,
+                    1901,
+                    1435,
+                    1937
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8626,
+                "bbox": [
+                    190,
+                    1936,
+                    1308,
+                    1972
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8469,
+                "bbox": [
+                    189,
+                    1970,
+                    1450,
+                    2006
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    825,
+                    200,
+                    1503,
+                    254
+                ],
+                "score": 1.0,
+                "text": "Recensement de la population"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1004,
+                    264,
+                    1503,
+                    304
+                ],
+                "score": 0.987,
+                "text": "La précision des résultats du"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1274,
+                    315,
+                    1506,
+                    353
+                ],
+                "score": 1.0,
+                "text": "recensement"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    449,
+                    1501,
+                    476
+                ],
+                "score": 0.997,
+                "text": "La qualité des résultats statistiques d’un recensement dépend de multiples facteurs et en premier lieu de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    477,
+                    1504,
+                    510
+                ],
+                "score": 0.994,
+                "text": "la qualité de la collecte. Elle dépend aussi de la fiabilité des fichiers et répertoires utilisés ainsi que de la"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    513,
+                    1505,
+                    540
+                ],
+                "score": 0.992,
+                "text": "qualité des différents traitements mis en œuvre : saisie, contrôles, redressement des anomalies et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    543,
+                    1504,
+                    576
+                ],
+                "score": 0.991,
+                "text": "codification des variables. Enfin, la fraîcheur des données et la comparabilité avec celles d’autres pays"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    577,
+                    1502,
+                    604
+                ],
+                "score": 0.993,
+                "text": "sont aussi des critères de qualité1. Cette fiche s’attache plus particulièrement à un des aspects de la"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    608,
+                    1082,
+                    635
+                ],
+                "score": 0.993,
+                "text": "qualité : la précision des résultats statistiques issus des sondages"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    696,
+                    1501,
+                    724
+                ],
+                "score": 0.988,
+                "text": "Dans les standards internationaux, on considère qu'un recensement est de très bonne qualité dès lors"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    726,
+                    1504,
+                    758
+                ],
+                "score": 0.982,
+                "text": "qu’il atteint une précision de l’ordre de 1 % pour le chiffre de l’ensemble de la population d’un pays. La"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    761,
+                    1503,
+                    789
+                ],
+                "score": 0.996,
+                "text": "méthode française de recensement est de nature à assurer ce niveau de qualité, grâce en particulier à la"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    793,
+                    1501,
+                    821
+                ],
+                "score": 0.991,
+                "text": "professionnalisation des acteurs, à la répartition de la charge de collecte dans le temps et à la mise à jour"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    824,
+                    1020,
+                    852
+                ],
+                "score": 0.99,
+                "text": "annuelle d’un répertoire d’immeubles dans les grandes communes."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    248,
+                    951,
+                    1159,
+                    984
+                ],
+                "score": 0.999,
+                "text": "1. Le plan de sondage et les échantillons du recensement"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1021,
+                    1502,
+                    1048
+                ],
+                "score": 0.997,
+                "text": "Le recensement est basé sur un plan de sondage qui est décrit en détail dans le document « Comprendre"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1053,
+                    639,
+                    1080
+                ],
+                "score": 0.991,
+                "text": "le recensement de la population »² :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    279,
+                    1102,
+                    1281,
+                    1128
+                ],
+                "score": 0.998,
+                "text": "les communes de moins de 10 000 habitants sont enquêtées exhaustivement;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    1146,
+                    1504,
+                    1180
+                ],
+                "score": 0.998,
+                "text": "dans les communes de 10 000 habitants ou plus, le recensement des ménages est réalisé par"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    313,
+                    1181,
+                    1502,
+                    1208
+                ],
+                "score": 0.983,
+                "text": "sondage sur un échantillon d’environ 40 % des logements sur cing ans. Les communautés, les"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    313,
+                    1213,
+                    1106,
+                    1240
+                ],
+                "score": 0.999,
+                "text": "habitations mobiles et sans abris sont enquêtés exhaustivement."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1263,
+                    1503,
+                    1290
+                ],
+                "score": 0.98,
+                "text": "Comme lors des recensements généraux traditionnels, le recensement fait l’objet d'une exploitation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1293,
+                    1504,
+                    1325
+                ],
+                "score": 0.985,
+                "text": "principale et d'une exploitation complémentaire³. L'exploitation principale porte sur l’ensemble des"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1326,
+                    1503,
+                    1353
+                ],
+                "score": 0.992,
+                "text": "bulletins collectés. L'exploitation complémentaire produit des variables concernant la structure familiale du"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1357,
+                    1500,
+                    1385
+                ],
+                "score": 0.991,
+                "text": "ménage, l’activité économique et les professions, et porte sur un échantillon pour des raisons de coût de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1392,
+                    337,
+                    1415
+                ],
+                "score": 0.999,
+                "text": "traitement :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1436,
+                    567,
+                    1469
+                ],
+                "score": 1.0,
+                "text": "Échantillon complémentaire"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1830,
+                    1261,
+                    1859
+                ],
+                "score": 0.976,
+                "text": "(*) Jusqu'à l’enquête annuelle de recensement de 2013, ce taux de sondage était de 25 %."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1905,
+                    206,
+                    1920
+                ],
+                "score": 1.0,
+                "text": "1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    303,
+                    1909,
+                    1429,
+                    1933
+                ],
+                "score": 0.986,
+                "text": "La qualité des estimations de population dans le recensement Insee Méthodes n°136 - octobre 2020"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1938,
+                    206,
+                    1955
+                ],
+                "score": 1.0,
+                "text": "2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    305,
+                    1944,
+                    1298,
+                    1968
+                ],
+                "score": 0.992,
+                "text": "Pour comprendre le recensement de la population, Insee Méthodes hors série - mai 2005"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1972,
+                    206,
+                    1988
+                ],
+                "score": 1.0,
+                "text": "3"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    301,
+                    1972,
+                    1445,
+                    2004
+                ],
+                "score": 0.989,
+                "text": "Pour plus de détails, se référer à la fiche thématique « Les exploitations principale et complémentaire »"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9526,
+                "bbox": [
+                    237,
+                    197,
+                    912,
+                    237
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874,
+                "bbox": [
+                    186,
+                    268,
+                    1510,
+                    464
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6666,
+                "bbox": [
+                    363,
+                    477,
+                    1333,
+                    513
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9805,
+                "bbox": [
+                    186,
+                    524,
+                    1507,
+                    626
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9723,
+                "bbox": [
+                    186,
+                    636,
+                    1507,
+                    707
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.949,
+                "bbox": [
+                    238,
+                    784,
+                    1003,
+                    822
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9733,
+                "bbox": [
+                    186,
+                    853,
+                    1508,
+                    923
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9824,
+                "bbox": [
+                    186,
+                    934,
+                    1509,
+                    1047
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8352,
+                "bbox": [
+                    842,
+                    968,
+                    885,
+                    1008
+                ],
+                "index": 9,
+                "latex": "T _ { c }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9692,
+                "bbox": [
+                    186,
+                    1059,
+                    1505,
+                    1187
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9194,
+                "bbox": [
+                    713,
+                    1100,
+                    778,
+                    1181
+                ],
+                "index": 11,
+                "latex": "\\sqrt { \\frac { a } { T _ { c } } }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9292,
+                "bbox": [
+                    1166,
+                    1102,
+                    1256,
+                    1183
+                ],
+                "index": 12,
+                "latex": "\\frac { 1 } { \\sqrt { T _ { c } a } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9701,
+                "bbox": [
+                    187,
+                    1220,
+                    1121,
+                    1327
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.962,
+                "bbox": [
+                    791,
+                    1221,
+                    1112,
+                    1326
+                ],
+                "index": 14,
+                "latex": "\\left[ a - 2 { \\sqrt { \\frac { a } { T _ { c } } } } ; a + 2 { \\sqrt { \\frac { a } { T _ { c } } } } \\right]"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    186,
+                    1328,
+                    1509,
+                    1434
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9496,
+                "bbox": [
+                    237,
+                    1509,
+                    975,
+                    1548
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9857,
+                "bbox": [
+                    186,
+                    1578,
+                    1509,
+                    1742
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9776,
+                "bbox": [
+                    186,
+                    1755,
+                    1508,
+                    1855
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9661,
+                "bbox": [
+                    187,
+                    1942,
+                    1507,
+                    2007
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8747,
+                "bbox": [
+                    190,
+                    2033,
+                    545,
+                    2100
+                ],
+                "index": 20
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    245,
+                    199,
+                    905,
+                    232
+                ],
+                "score": 0.999,
+                "text": "2. La mesure de la précision des résultats"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    267,
+                    1502,
+                    300
+                ],
+                "score": 0.982,
+                "text": "Pour toutes les variables, qu'elles soient issues de l’exploitation principale ou complémentaire, le sondage"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    304,
+                    1502,
+                    331
+                ],
+                "score": 0.989,
+                "text": "pratiqué entraîne une marge d’incertitude sur les résultats. Cette marge est mesurée, pour une variable"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    332,
+                    1504,
+                    364
+                ],
+                "score": 0.985,
+                "text": "donnée, par le coefficient de variation, noté CV. Il renseigne sur l'écart moyen entre la valeur estimée"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    368,
+                    1502,
+                    394
+                ],
+                "score": 0.989,
+                "text": "par le recensement et la « vraie » valeur. En termes statistiques il correspond au rapport de l’écart-type à"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    400,
+                    1502,
+                    426
+                ],
+                "score": 0.997,
+                "text": "la moyenne. Ce coefficient de variation permet de construire un intervalle de confiance de l’estimation. La"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    431,
+                    1309,
+                    457
+                ],
+                "score": 0.983,
+                "text": "vraie valeur est comprise dans 95 % des cas dans la plage de valeurs possibles suivante :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    371,
+                    481,
+                    1326,
+                    510
+                ],
+                "score": 0.987,
+                "text": "[ valeur au recensement x (1 - 2CV) ; valeur au recensement x (1 + 2CV) ]"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    529,
+                    1501,
+                    556
+                ],
+                "score": 0.986,
+                "text": "Cette imprécision varie d'une commune à l’autre en fonction du taux de sondage. Elle dépend donc du"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    558,
+                    1502,
+                    591
+                ],
+                "score": 0.991,
+                "text": "type de la commune (moins de 10 000 habitants / 10 000 habitants ou plus) et de l’exploitation (principale"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    592,
+                    589,
+                    619
+                ],
+                "score": 0.992,
+                "text": "ou complémentaire) considérés"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    637,
+                    1502,
+                    670
+                ],
+                "score": 0.975,
+                "text": "Elle varie aussi selon l’effectif de la variable d’intérêt (plus l’effectif obtenu est réduit, plus l’imprécision"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    672,
+                    1205,
+                    702
+                ],
+                "score": 0.988,
+                "text": "risque d’être grande car l’estimation de cet effectif repose sur peu d’observations)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    245,
+                    786,
+                    997,
+                    818
+                ],
+                "score": 0.999,
+                "text": "3. Les communes de moins de 10 000 habitants"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    859,
+                    1502,
+                    881
+                ],
+                "score": 0.987,
+                "text": "Le recensement est exhaustif dans les communes de moins de 10 000 habitants : les variables issues de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    889,
+                    1060,
+                    916
+                ],
+                "score": 0.988,
+                "text": "l’exploitation principale ne souffrent pas d’imprécision liée au sondage."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    937,
+                    1503,
+                    966
+                ],
+                "score": 0.988,
+                "text": "En revanche, hormis pour les mariniers, les variables issues de l’exploitation complémentaire présentent"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    972,
+                    841,
+                    1000
+                ],
+                "score": 0.984,
+                "text": "une marge d’incertitude liée au taux de sondage"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    886,
+                    972,
+                    1501,
+                    1000
+                ],
+                "score": 0.989,
+                "text": "qui vaut 25 % lors des enquêtes annuelles de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1014,
+                    1108,
+                    1042
+                ],
+                "score": 0.995,
+                "text": "recensement antérieures à 2014, et 20 % à partir de 2014 (cf. tableau §1)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1060,
+                    1499,
+                    1092
+                ],
+                "score": 0.982,
+                "text": "Ainsi, pour un effectif estimé « a » d'une variable issue de l’exploitation complémentaire, l’écart-type,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1124,
+                    708,
+                    1153
+                ],
+                "score": 0.994,
+                "text": "déterminé de façon empirique, est égal à"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    791,
+                    1126,
+                    1154,
+                    1150
+                ],
+                "score": 0.982,
+                "text": "et le coefficient de variation à"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1262,
+                    781,
+                    1292
+                ],
+                "score": 0.974,
+                "text": "L’intervalle de confiance à 95 % est donné par :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1331,
+                    1503,
+                    1358
+                ],
+                "score": 0.99,
+                "text": "Ainsi pour un effectif de 4 900 établi au recensement de la population 2018, basé sur les enquêtes"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1363,
+                    1503,
+                    1391
+                ],
+                "score": 0.99,
+                "text": "annuelles de 2016 à 2020, l’écart-type vaut 140, le coefficient de variation 3 % et l’intervalle de confiance"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1399,
+                    545,
+                    1431
+                ],
+                "score": 0.958,
+                "text": "à 95 % est [ 4 620 ; 5 180 ]."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    243,
+                    1509,
+                    970,
+                    1545
+                ],
+                "score": 0.99,
+                "text": "4. Les communes de 10 000 habitants ou plus"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1582,
+                    1503,
+                    1609
+                ],
+                "score": 0.992,
+                "text": "Dans les communes de 10 000 habitants ou plus, l’échantillon des ménages enquêté représente environ"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1613,
+                    1501,
+                    1641
+                ],
+                "score": 0.992,
+                "text": "40 % des logements et des habitants de la commune. En France métropolitaine, le taux de sondage varie"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1645,
+                    1503,
+                    1672
+                ],
+                "score": 0.987,
+                "text": "d’une commune à l’autre car il dépend de la structure de l’habitat : seules les petites adresses connues"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1678,
+                    1501,
+                    1705
+                ],
+                "score": 0.988,
+                "text": "sont enquêtées par sondage, les adresses de grande taille et les adresses nouvelles étant enquêtées"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1711,
+                    406,
+                    1734
+                ],
+                "score": 0.998,
+                "text": "exhaustivement⁴."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1760,
+                    1502,
+                    1786
+                ],
+                "score": 0.978,
+                "text": "Hormis pour les communautés (cf. tableau §1), l'échantillon de l’exploitation complémentaire est le même"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1789,
+                    1503,
+                    1819
+                ],
+                "score": 0.99,
+                "text": "que pour l’exploitation principale ; la marge d’imprécision est donc la même pour les variables issues des"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1825,
+                    422,
+                    1847
+                ],
+                "score": 1.0,
+                "text": "deux exploitations"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1945,
+                    207,
+                    1962
+                ],
+                "score": 1.0,
+                "text": "4"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    291,
+                    1945,
+                    1502,
+                    1976
+                ],
+                "score": 0.995,
+                "text": "Les petites adresses sont les adresses dont le nombre de logements est inférieur à un seuil propre à chaque"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1975,
+                    1317,
+                    2002
+                ],
+                "score": 0.987,
+                "text": "commune. Pour plus de détails sur le plan de sondage, voir : Insee Méthodes - Hors série - mai 2005"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    2035,
+                    539,
+                    2065
+                ],
+                "score": 0.997,
+                "text": "Version de septembre 2023"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    2072,
+                    287,
+                    2098
+                ],
+                "score": 0.975,
+                "text": "©Insee"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9743,
+                "bbox": [
+                    187,
+                    196,
+                    1508,
+                    266
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.959,
+                "bbox": [
+                    289,
+                    310,
+                    947,
+                    348
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9825,
+                "bbox": [
+                    186,
+                    378,
+                    1509,
+                    478
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9823,
+                "bbox": [
+                    187,
+                    489,
+                    1509,
+                    592
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9696,
+                "bbox": [
+                    187,
+                    601,
+                    1507,
+                    672
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9634,
+                "bbox": [
+                    363,
+                    715,
+                    1335,
+                    784
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9899,
+                "bbox": [
+                    308,
+                    806,
+                    1380,
+                    1305
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Région</td><td rowspan=1 colspan=1>Département</td><td rowspan=1 colspan=1>Commune</td></tr><tr><td rowspan=1 colspan=1>Maximum</td><td rowspan=1 colspan=1>0,16</td><td rowspan=1 colspan=1>0,32</td><td rowspan=1 colspan=1>3,03</td></tr><tr><td rowspan=1 colspan=1>99 %</td><td rowspan=1 colspan=1>0,16</td><td rowspan=1 colspan=1>0,29</td><td rowspan=1 colspan=1>2,13</td></tr><tr><td rowspan=1 colspan=1>95 %</td><td rowspan=1 colspan=1>0,06</td><td rowspan=1 colspan=1>0,17</td><td rowspan=1 colspan=1>1,54</td></tr><tr><td rowspan=1 colspan=1>90 %</td><td rowspan=1 colspan=1>0,06</td><td rowspan=1 colspan=1>0,15</td><td rowspan=1 colspan=1>1,35</td></tr><tr><td rowspan=1 colspan=1>75 % Q3</td><td rowspan=1 colspan=1>0,05</td><td rowspan=1 colspan=1>0,13</td><td rowspan=1 colspan=1>1,17</td></tr><tr><td rowspan=1 colspan=1>50 % Mediane</td><td rowspan=1 colspan=1>0,04</td><td rowspan=1 colspan=1>0,11</td><td rowspan=1 colspan=1>0,98</td></tr><tr><td rowspan=1 colspan=1>25 % Q1</td><td rowspan=1 colspan=1>0,04</td><td rowspan=1 colspan=1>0,09</td><td rowspan=1 colspan=1>0,79</td></tr><tr><td rowspan=1 colspan=1>10 %</td><td rowspan=1 colspan=1>0,03</td><td rowspan=1 colspan=1>0,08</td><td rowspan=1 colspan=1>0,62</td></tr><tr><td rowspan=1 colspan=1>5 %</td><td rowspan=1 colspan=1>0,03</td><td rowspan=1 colspan=1>0,07</td><td rowspan=1 colspan=1>0,51</td></tr><tr><td rowspan=1 colspan=1>1%</td><td rowspan=1 colspan=1>0,03</td><td rowspan=1 colspan=1>0,05</td><td rowspan=1 colspan=1>0,36</td></tr><tr><td rowspan=1 colspan=1>Minimum</td><td rowspan=1 colspan=1>0,03</td><td rowspan=1 colspan=1>0,05</td><td rowspan=1 colspan=1>0,25</td></tr><tr><td rowspan=1 colspan=1>Moyenne</td><td rowspan=1 colspan=1>0,05</td><td rowspan=1 colspan=1>0,12</td><td rowspan=1 colspan=1>1,00</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.6686,
+                "bbox": [
+                    188,
+                    1341,
+                    1511,
+                    1429
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.6976,
+                "bbox": [
+                    190,
+                    1428,
+                    1010,
+                    1460
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.698,
+                "bbox": [
+                    191,
+                    1458,
+                    735,
+                    1490
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9456,
+                "bbox": [
+                    190,
+                    1532,
+                    506,
+                    1568
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9691,
+                "bbox": [
+                    187,
+                    1580,
+                    1507,
+                    1647
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9741,
+                "bbox": [
+                    187,
+                    1661,
+                    1507,
+                    1730
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9819,
+                "bbox": [
+                    187,
+                    1742,
+                    1507,
+                    1844
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9183,
+                "bbox": [
+                    188,
+                    1896,
+                    1130,
+                    1933
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9146,
+                "bbox": [
+                    187,
+                    1936,
+                    1508,
+                    2007
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8699,
+                "bbox": [
+                    190,
+                    2034,
+                    545,
+                    2101
+                ],
+                "index": 17
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    200,
+                    1502,
+                    227
+                ],
+                "score": 0.99,
+                "text": "Pour les communautés, la précision des variables issues de l’exploitation complémentaire est obtenue par"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    232,
+                    1184,
+                    259
+                ],
+                "score": 0.996,
+                "text": "la même formule que dans les communes de moins de 10 000 habitants (cf. §3)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    294,
+                    312,
+                    940,
+                    346
+                ],
+                "score": 1.0,
+                "text": "4.1 Résultats sur la population des ménages"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    381,
+                    1503,
+                    408
+                ],
+                "score": 0.992,
+                "text": "La précision de la population des ménages en grandes communes de métropole est calculée en tenant"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    408,
+                    1504,
+                    442
+                ],
+                "score": 0.987,
+                "text": "compte du plan de sondage et du calage réalisé à l'Iris⁵. En revanche, elle sous-estime la variance pour"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    442,
+                    1019,
+                    473
+                ],
+                "score": 0.994,
+                "text": "plusieurs raisons détaillées dans l’article Brilhault et Caron (2016)⁶."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    493,
+                    1501,
+                    520
+                ],
+                "score": 0.991,
+                "text": "Au niveau national, l’erreur aléatoire introduite par le sondage dans les grandes communes conduit à un"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    525,
+                    1503,
+                    552
+                ],
+                "score": 0.995,
+                "text": "coefficient de variation de 0,01 %, soit une imprécision de + ou – 17 500 personnes. Ce chiffre illustre le"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    556,
+                    1223,
+                    583
+                ],
+                "score": 0.991,
+                "text": "fait que, au niveau national, l’impact du sondage sur le résultat final est négligeable."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    606,
+                    1501,
+                    632
+                ],
+                "score": 0.997,
+                "text": "Le tableau suivant, calculé à partir du RP 2018, indique la distribution du coefficient de variation associé à"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    638,
+                    1066,
+                    665
+                ],
+                "score": 0.995,
+                "text": "la variable population au niveau régional, départemental, et communal."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    368,
+                    717,
+                    1329,
+                    747
+                ],
+                "score": 0.998,
+                "text": "Distribution des coefficients de variation (en %) de la variable population"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    381,
+                    749,
+                    1316,
+                    779
+                ],
+                "score": 0.999,
+                "text": "aux niveaux régional (nouvelles régions), départemental, et communal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1344,
+                    1506,
+                    1369
+                ],
+                "score": 0.994,
+                "text": "Lecture : au niveau régional, le CV de la variable population varie entre 0,03 % et 0,16 % selon les régions. Pour"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1372,
+                    1505,
+                    1397
+                ],
+                "score": 0.981,
+                "text": "95 % des régions, le CV de la variable population est inférieur à 0,06 % ; pour la moitié d’entre elles, ce CV est"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1401,
+                    841,
+                    1426
+                ],
+                "score": 0.999,
+                "text": "inférieur à 0,04 %, etc. En moyenne, ce CV est de 0,05 %."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1433,
+                    1002,
+                    1457
+                ],
+                "score": 0.987,
+                "text": "Champ : France métropolitaine ; communes de 10 000 habitants ou plus."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1462,
+                    726,
+                    1486
+                ],
+                "score": 0.999,
+                "text": "Source : recensement de la population de 2018."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    1536,
+                    499,
+                    1565
+                ],
+                "score": 1.0,
+                "text": "Région et département"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1583,
+                    1502,
+                    1614
+                ],
+                "score": 0.988,
+                "text": "Pour la moitié des régions le CV est inférieur à 0,04 %. Seul un quart des régions ont un CV supérieur à"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1614,
+                    294,
+                    1646
+                ],
+                "score": 0.93,
+                "text": "0,05 %."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1665,
+                    1501,
+                    1692
+                ],
+                "score": 0.995,
+                "text": "Pour la moitié des départements le CV est inférieur à 0,11 %. Pour un quart d’entre eux, il est même"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1697,
+                    1203,
+                    1723
+                ],
+                "score": 0.993,
+                "text": "inférieur à 0,09 %. Seul un quart des départements ont un CV supérieur à 0,13 %."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1746,
+                    1501,
+                    1772
+                ],
+                "score": 0.991,
+                "text": "L’erreur aléatoire introduite par le sondage dans les grandes communes sur la variable population diffère"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1777,
+                    1501,
+                    1804
+                ],
+                "score": 0.995,
+                "text": "selon les régions et selon les départements, celle-ci dépendant en particulier du nombre et de la taille des"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1810,
+                    1063,
+                    1837
+                ],
+                "score": 0.998,
+                "text": "grandes communes composant la région ou le département considéré."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1901,
+                    205,
+                    1914
+                ],
+                "score": 1.0,
+                "text": "5"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    302,
+                    1903,
+                    1122,
+                    1929
+                ],
+                "score": 0.999,
+                "text": "Pour plus de détails, se référer à la fiche thématique « Les pondérations »"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1938,
+                    207,
+                    1954
+                ],
+                "score": 1.0,
+                "text": "6"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    306,
+                    1939,
+                    1503,
+                    1969
+                ],
+                "score": 0.985,
+                "text": "Brilhault et Caron (2016), « Le passage à une enquête par sondage : quel impact sur la précision du"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1976,
+                    981,
+                    2002
+                ],
+                "score": 0.994,
+                "text": "recensement ? » in Économie et Statistique n°483-484-485, avril 2016."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    2035,
+                    539,
+                    2065
+                ],
+                "score": 0.997,
+                "text": "Version de septembre 2023"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    2068,
+                    289,
+                    2100
+                ],
+                "score": 0.974,
+                "text": "©Insee"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9826,
+                "bbox": [
+                    186,
+                    197,
+                    1492,
+                    309
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9276,
+                "bbox": [
+                    187,
+                    332,
+                    1237,
+                    371
+                ],
+                "index": 2,
+                "latex": "3 0 0 ~ 0 0 0 + \\mathrm { o u } - [ 2 \\times ( 3 0 0 ~ 0 0 0 \\times 0 , 1 1 ~ \\% ) ] = 3 0 0 ~ 0 0 0 + \\mathrm { o u } - 6 6 0 = [ 2 9 9 ~ 3 4 0 ~ ; 3 0 0 ~ 6 6 0 ]"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9397,
+                "bbox": [
+                    191,
+                    442,
+                    340,
+                    477
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9748,
+                "bbox": [
+                    187,
+                    491,
+                    1510,
+                    560
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9853,
+                "bbox": [
+                    186,
+                    571,
+                    1510,
+                    737
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9713,
+                "bbox": [
+                    186,
+                    802,
+                    1506,
+                    871
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9411,
+                "bbox": [
+                    227,
+                    931,
+                    1470,
+                    966
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9845,
+                "bbox": [
+                    191,
+                    973,
+                    1496,
+                    1130
+                ],
+                "index": 8,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>10 000 – 19 999 habitants(402 communes)</td><td rowspan=1 colspan=1>20 000 – 49 999 habitants(320 communes)</td><td rowspan=1 colspan=1>50 000 –99 999 habitants A(85 communes)</td><td rowspan=1 colspan=1>u moins 100 000 habitants(44 communes)</td></tr><tr><td rowspan=1 colspan=1>75 % Q3</td><td rowspan=1 colspan=1>1,29</td><td rowspan=1 colspan=1>0,96</td><td rowspan=1 colspan=1>0,71</td><td rowspan=1 colspan=1>0,50</td></tr><tr><td rowspan=1 colspan=1>50 % Mediane</td><td rowspan=1 colspan=1>1,16</td><td rowspan=1 colspan=1>0,86</td><td rowspan=1 colspan=1>0,62</td><td rowspan=1 colspan=1>0,45</td></tr><tr><td rowspan=1 colspan=1>25 % Q1</td><td rowspan=1 colspan=1>1,05</td><td rowspan=1 colspan=1>0,77</td><td rowspan=1 colspan=1>0,55</td><td rowspan=1 colspan=1>0,38</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.7732,
+                "bbox": [
+                    190,
+                    1162,
+                    1029,
+                    1193
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.7767,
+                "bbox": [
+                    191,
+                    1192,
+                    735,
+                    1224
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858,
+                "bbox": [
+                    187,
+                    1271,
+                    1509,
+                    1422
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9722,
+                "bbox": [
+                    187,
+                    1442,
+                    1506,
+                    1513
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9504,
+                "bbox": [
+                    288,
+                    1622,
+                    950,
+                    1656
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9744,
+                "bbox": [
+                    187,
+                    1687,
+                    1507,
+                    1754
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9844,
+                "bbox": [
+                    187,
+                    1767,
+                    1510,
+                    1901
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9421,
+                "bbox": [
+                    189,
+                    1969,
+                    1212,
+                    2005
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7026,
+                "bbox": [
+                    190,
+                    2033,
+                    545,
+                    2101
+                ],
+                "index": 17
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    200,
+                    1486,
+                    228
+                ],
+                "score": 0.991,
+                "text": "En l’absence de connaissance sur les spécificités de la région ou du département, il convient d’estimer la"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    236,
+                    1420,
+                    265
+                ],
+                "score": 0.992,
+                "text": "précision de sa population en prenant la valeur médiane. Par exemple, pour un département dont la"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    273,
+                    1391,
+                    301
+                ],
+                "score": 0.991,
+                "text": "population est estimée à 300 000 habitants au recensement, la plage de valeurs possible est de :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    447,
+                    335,
+                    480
+                ],
+                "score": 1.0,
+                "text": "Commune"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    495,
+                    1504,
+                    522
+                ],
+                "score": 0.984,
+                "text": "Pour la moitié des grandes communes, le CV est inférieur à 0,98 %. Pour un quart d’entre elles, il est"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    524,
+                    1363,
+                    556
+                ],
+                "score": 0.992,
+                "text": "même inférieur à 0,79 %. Seul un quart des grandes communes ont un CV supérieur à 1,17 %."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    575,
+                    1501,
+                    603
+                ],
+                "score": 0.988,
+                "text": "L’imprécision introduite par le sondage sur la variable population diffère selon la commune considérée."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    607,
+                    1505,
+                    635
+                ],
+                "score": 0.986,
+                "text": "D'une part, les grandes adresses et les adresses nouvelles étant enquêtées exhaustivement7, leur part"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    639,
+                    1504,
+                    666
+                ],
+                "score": 0.981,
+                "text": "dans l’ensemble des adresses est susceptible d’influer sur la précision . D’autre part, elle varie avec la"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    671,
+                    1501,
+                    698
+                ],
+                "score": 0.993,
+                "text": "taille de la commune : exprimée en pourcentage de la population, elle est plus faible dans les plus"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    707,
+                    446,
+                    730
+                ],
+                "score": 0.999,
+                "text": "grandes communes."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    802,
+                    1503,
+                    835
+                ],
+                "score": 0.997,
+                "text": "Le tableau suivant fournit des éléments indicatifs sur la précision de la variable population au niveau"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    838,
+                    834,
+                    864
+                ],
+                "score": 0.999,
+                "text": "communal selon la tranche de taille de la commune."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    233,
+                    933,
+                    1464,
+                    964
+                ],
+                "score": 0.99,
+                "text": "Distribution des coefficients de variation (en %) de la variable population par tranche de taille"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    1167,
+                    1023,
+                    1192
+                ],
+                "score": 0.991,
+                "text": "Champ : communes de 10 000 habitants ou plus de France métropolitaine."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1196,
+                    728,
+                    1220
+                ],
+                "score": 0.999,
+                "text": "Source : recensement de la population de 2018."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1274,
+                    1503,
+                    1301
+                ],
+                "score": 0.99,
+                "text": "Pour la moitié des communes de 10 000 à 19 999 habitants, le coefficient de variation est inférieur à"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1314,
+                    1498,
+                    1340
+                ],
+                "score": 0.984,
+                "text": "1,16 %. Pour l’autre moitié, il est supérieur à cette valeur. Pour un quart d'entre elles, il est même"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1351,
+                    1503,
+                    1378
+                ],
+                "score": 0.994,
+                "text": "supérieur à 1,29 %, alors que pour le quart des communes où ce coefficient est le plus faible, il est"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1390,
+                    421,
+                    1417
+                ],
+                "score": 0.996,
+                "text": "inférieur à 1,05 %."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1447,
+                    1500,
+                    1473
+                ],
+                "score": 0.981,
+                "text": "En l’absence de connaissance sur les spécificités de la commune, il convient d’estimer la précision de sa"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1479,
+                    1145,
+                    1506
+                ],
+                "score": 0.993,
+                "text": "population en prenant la valeur médiane correspondant à sa tranche de taille"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    295,
+                    1623,
+                    944,
+                    1654
+                ],
+                "score": 0.999,
+                "text": "4.2 Résultats sur les autres variables statistiques"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1690,
+                    1502,
+                    1717
+                ],
+                "score": 0.992,
+                "text": "Le tableau suivant fournit quelques indications sur la précision des résultats dans les communes de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1721,
+                    945,
+                    1751
+                ],
+                "score": 0.993,
+                "text": "10 000 habitants ou plus pour différentes tranches d’effectifs."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1767,
+                    1505,
+                    1799
+                ],
+                "score": 0.989,
+                "text": "Ce tableau a été établi pour le chiffre de l’ensemble de la population d'une commune et permet"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1802,
+                    1505,
+                    1831
+                ],
+                "score": 0.999,
+                "text": "également de juger de la précision des résultats pour des populations ciblées si celles-ci se répartissent"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1834,
+                    1504,
+                    1863
+                ],
+                "score": 0.992,
+                "text": "de façon homogène sur l’ensemble de la commune. Dans les faits, ce tableau diffère selon les communes"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1866,
+                    1278,
+                    1895
+                ],
+                "score": 0.993,
+                "text": "puisque la part des adresses enquêtées exhaustivement varie d’une commune à l’autre."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1972,
+                    1207,
+                    2002
+                ],
+                "score": 0.997,
+                "text": "7 Pour plus de détails sur le plan de sondage, voir : Insee Méthodes - Hors série - mai 2005"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    2037,
+                    539,
+                    2065
+                ],
+                "score": 0.983,
+                "text": "Version de septembre 2023"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    2068,
+                    289,
+                    2100
+                ],
+                "score": 0.974,
+                "text": "©Insee"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7783,
+                "bbox": [
+                    351,
+                    195,
+                    1345,
+                    265
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9882,
+                "bbox": [
+                    466,
+                    289,
+                    1184,
+                    726
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1>Tranches d’effectif</td><td rowspan=1 colspan=1>Coefficient de variation</td></tr><tr><td rowspan=1 colspan=1>Moins de 250</td><td rowspan=1 colspan=1>&gt; 8,0 %</td></tr><tr><td rowspan=1 colspan=1>250 - 499</td><td rowspan=1 colspan=1>8,0 %</td></tr><tr><td rowspan=1 colspan=1>500 - 999</td><td rowspan=1 colspan=1>5,5 %</td></tr><tr><td rowspan=1 colspan=1>1 000 - 1 999</td><td rowspan=1 colspan=1>4,0 %</td></tr><tr><td rowspan=1 colspan=1>2 000 - 2 999</td><td rowspan=1 colspan=1>3,0 %</td></tr><tr><td rowspan=1 colspan=1>3 000 - 5 999</td><td rowspan=1 colspan=1>2,5 %</td></tr><tr><td rowspan=1 colspan=1>6 000 - 9 999</td><td rowspan=1 colspan=1>1,5 %</td></tr><tr><td rowspan=1 colspan=1>10 000 - 19 999</td><td rowspan=1 colspan=1>1,5 %</td></tr><tr><td rowspan=1 colspan=1>20 000 - 49 999</td><td rowspan=1 colspan=1>1,0 %</td></tr><tr><td rowspan=1 colspan=1>50 000 ou plus</td><td rowspan=1 colspan=1>&lt; 1,0 %</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.915,
+                "bbox": [
+                    189,
+                    741,
+                    1508,
+                    801
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9294,
+                "bbox": [
+                    191,
+                    800,
+                    1030,
+                    832
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8994,
+                "bbox": [
+                    192,
+                    829,
+                    735,
+                    861
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9853,
+                "bbox": [
+                    187,
+                    873,
+                    1509,
+                    1038
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9799,
+                "bbox": [
+                    187,
+                    1049,
+                    1508,
+                    1150
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9533,
+                "bbox": [
+                    239,
+                    1196,
+                    856,
+                    1237
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9496,
+                "bbox": [
+                    289,
+                    1267,
+                    834,
+                    1304
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9691,
+                "bbox": [
+                    187,
+                    1335,
+                    1508,
+                    1437
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9887,
+                "bbox": [
+                    252,
+                    1446,
+                    1418,
+                    1783
+                ],
+                "index": 11,
+                "html": "<table><tr><td rowspan=1 colspan=1>Tranches d&#x27;âge</td><td rowspan=1 colspan=1>Population aurecensement</td><td rowspan=1 colspan=1>Coefficient devariation (tableau §4.2)</td><td rowspan=1 colspan=1>Plage de valeurspossibles</td></tr><tr><td rowspan=1 colspan=1>Moins de 20 ans</td><td rowspan=1 colspan=1>4 000</td><td rowspan=1 colspan=1>2,5 %</td><td rowspan=1 colspan=1>4 000 + ou - 200</td></tr><tr><td rowspan=1 colspan=1>De 20 à 39 ans</td><td rowspan=1 colspan=1>6 000</td><td rowspan=1 colspan=1>1,5 %</td><td rowspan=1 colspan=1>6 000 + ou - 180</td></tr><tr><td rowspan=1 colspan=1>De 40 à 59 ans</td><td rowspan=1 colspan=1>6 000</td><td rowspan=1 colspan=1>1,5 %</td><td rowspan=1 colspan=1>6 000 + ou - 180</td></tr><tr><td rowspan=1 colspan=1>60 ans ou plus</td><td rowspan=1 colspan=1>4 000</td><td rowspan=1 colspan=1>2,5 %</td><td rowspan=1 colspan=1>4 000 + ou - 200</td></tr><tr><td rowspan=1 colspan=1>Ensemble</td><td rowspan=1 colspan=1>20 000</td><td rowspan=1 colspan=1>1,0 %</td><td rowspan=1 colspan=1>20 000 + ou - 400</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.7201,
+                "bbox": [
+                    188,
+                    1800,
+                    1506,
+                    1869
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5307,
+                "bbox": [
+                    188,
+                    1881,
+                    975,
+                    1919
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9106,
+                "bbox": [
+                    187,
+                    1929,
+                    1510,
+                    1997
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7089,
+                "bbox": [
+                    190,
+                    2033,
+                    544,
+                    2102
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    359,
+                    201,
+                    1339,
+                    227
+                ],
+                "score": 0.996,
+                "text": "La précision des résultats pour les communes de 10 000 habitants ou plus"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    682,
+                    231,
+                    1016,
+                    261
+                ],
+                "score": 0.988,
+                "text": "de France métropolitaine"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    746,
+                    1505,
+                    769
+                ],
+                "score": 0.991,
+                "text": "Lecture : pour une population estimée à 2 700 enfants de moins de 5 ans dans une commune donnée, le coefficient"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    774,
+                    939,
+                    798
+                ],
+                "score": 0.999,
+                "text": "de variation mesurant la précision de cette estimation est de 3,0 %."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    805,
+                    1023,
+                    829
+                ],
+                "score": 0.985,
+                "text": "Champ : communes de 10 000 habitants ou plus de France métropolitaine."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    834,
+                    727,
+                    857
+                ],
+                "score": 0.998,
+                "text": "Source : recensement de la population de 2018."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    878,
+                    1503,
+                    906
+                ],
+                "score": 0.993,
+                "text": "Des résultats sur la précision des variables statistiques ont également été calculés au niveau Iris à partir"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    909,
+                    1500,
+                    936
+                ],
+                "score": 0.984,
+                "text": "du recensement de la population de 2018. L'Iris constitue la plus petite maille géographique diffusée dans"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    942,
+                    1500,
+                    969
+                ],
+                "score": 0.997,
+                "text": "une commune. Elle comporte en moyenne 2 000 habitants, taille minimale pour l’analyse infracommunale"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    975,
+                    1503,
+                    1002
+                ],
+                "score": 0.986,
+                "text": "de variables du recensement. Ce découpage permet notamment d’analyser les disparités au sein d’une"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1009,
+                    327,
+                    1033
+                ],
+                "score": 1.0,
+                "text": "commune."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1054,
+                    1502,
+                    1081
+                ],
+                "score": 0.987,
+                "text": "Des coefficients de variation « résumés » sont disponibles pour chaque variable et selon la taille de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1085,
+                    1502,
+                    1112
+                ],
+                "score": 0.987,
+                "text": "l’effectif estimé dans l’Iris. Ils sont fournis dans les fichiers de données infra-communales mis à disposition"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1120,
+                    420,
+                    1142
+                ],
+                "score": 0.997,
+                "text": "sur le site insee.fr."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    244,
+                    1197,
+                    852,
+                    1235
+                ],
+                "score": 0.999,
+                "text": "5. Calculs de précision : cas pratiques"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    295,
+                    1269,
+                    829,
+                    1301
+                ],
+                "score": 0.991,
+                "text": "5.1 Précision des données en niveau"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1337,
+                    1502,
+                    1364
+                ],
+                "score": 0.981,
+                "text": "Soit un tableau donnant la répartition par âge de la population d'une commune de plus de 10 000"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1370,
+                    1502,
+                    1397
+                ],
+                "score": 0.996,
+                "text": "habitants, obtenue par le recensement. Pour chaque effectif on peut déterminer la précision de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1403,
+                    1290,
+                    1430
+                ],
+                "score": 0.991,
+                "text": "l’estimation fournie par le recensement, qui se traduit par une plage de valeurs possibles."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1803,
+                    1503,
+                    1833
+                ],
+                "score": 0.992,
+                "text": "Calcul : pour un effectif donné, la précision mesurée par le coefficient de variation est directement tirée"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1834,
+                    1215,
+                    1865
+                ],
+                "score": 0.983,
+                "text": "du tableau du § 4.2. La plage de valeurs possible se calcule alors avec la formule :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1886,
+                    968,
+                    1915
+                ],
+                "score": 0.97,
+                "text": "population estimée + ou – [ 2 x (population estimée x CV) ]"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1934,
+                    1505,
+                    1960
+                ],
+                "score": 0.994,
+                "text": "Interprétation : le nombre d’habitants de moins de 20 ans se situe, dans 95 % des cas, entre 3 800 et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    190,
+                    1963,
+                    278,
+                    1996
+                ],
+                "score": 0.982,
+                "text": "4 200."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    2036,
+                    539,
+                    2065
+                ],
+                "score": 1.0,
+                "text": "Version de septembre 2023"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    2072,
+                    287,
+                    2098
+                ],
+                "score": 0.975,
+                "text": "©Insee"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9511,
+                "bbox": [
+                    289,
+                    198,
+                    869,
+                    234
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9763,
+                "bbox": [
+                    188,
+                    264,
+                    1506,
+                    334
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9836,
+                "bbox": [
+                    186,
+                    346,
+                    1507,
+                    446
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9621,
+                "bbox": [
+                    529,
+                    458,
+                    1170,
+                    509
+                ],
+                "index": 4,
+                "latex": "C V _ { \\it p o w c e r t a g e } = \\sqrt { \\left( C V _ { \\it n w n i e r a t e u r } \\right) ^ { 2 } + \\left( C V _ { \\it d e n o m i n a t e w } \\right) ^ { 2 } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8199,
+                "bbox": [
+                    187,
+                    527,
+                    1509,
+                    595
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9878,
+                "bbox": [
+                    251,
+                    660,
+                    1415,
+                    979
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>Tranches d’âge</td><td rowspan=1 colspan=1>Population aurecensement</td><td rowspan=1 colspan=1>Coefficient devariation (tableau §4.2)</td><td rowspan=1 colspan=1>Plage de valeurspossibles</td></tr><tr><td rowspan=1 colspan=1>Moins de 20 ans</td><td rowspan=1 colspan=1>20 %</td><td rowspan=1 colspan=1>2,7 %</td><td rowspan=1 colspan=1><eq>( 2 0 + \\mathsf { o u } - 1 , 1 )</eq>%</td></tr><tr><td rowspan=1 colspan=1>De 20 à 39 ans</td><td rowspan=1 colspan=1>30 %</td><td rowspan=1 colspan=1>2,9 %</td><td rowspan=1 colspan=1><eq>( 3 0 + \\mathsf { o u } - 1 , 3 ) \\%</eq></td></tr><tr><td rowspan=1 colspan=1>De 40 à 59 ans</td><td rowspan=1 colspan=1>30 %</td><td rowspan=1 colspan=1>2,9 %</td><td rowspan=1 colspan=1><eq>( 3 0 + \\mathsf { o u } - 1 , 3 ) \\%</eq></td></tr><tr><td rowspan=1 colspan=1>60 ans ou plus</td><td rowspan=1 colspan=1>20 %</td><td rowspan=1 colspan=1>2,7 %</td><td rowspan=1 colspan=1><eq>( 2 0 + \\mathsf { o u } - 1 , 1 ) \\%</eq></td></tr><tr><td rowspan=1 colspan=1>Ensemble</td><td rowspan=1 colspan=1>100 %</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>100 %</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.867,
+                "bbox": [
+                    187,
+                    1013,
+                    1508,
+                    1168
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9414,
+                "bbox": [
+                    895,
+                    1082,
+                    1339,
+                    1126
+                ],
+                "index": 12,
+                "latex": "\\surd ( 0 , 0 2 5 ) ^ { 2 } + ( 0 , 0 1 ) ^ { 2 } = 0 , 0 2 7 = 2 , 7 \\%"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.465,
+                "bbox": [
+                    402,
+                    1131,
+                    709,
+                    1164
+                ],
+                "index": 13,
+                "latex": "0 , 2 0 \\times 0 , 0 2 7 \\times 2 = 1 , 1 \\%"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9551,
+                "bbox": [
+                    186,
+                    1182,
+                    1508,
+                    1282
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4782,
+                "bbox": [
+                    638,
+                    1244,
+                    876,
+                    1279
+                ],
+                "index": 15,
+                "latex": "( 2 0 + 1 , 1 = 2 1 , \\dot { 1 } \\ \\% )"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.4637,
+                "bbox": [
+                    1073,
+                    1213,
+                    1317,
+                    1247
+                ],
+                "index": 16,
+                "latex": "( 3 0 - 1 , 3 \\ = 2 8 , 7 \\ \\% )"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9446,
+                "bbox": [
+                    290,
+                    1333,
+                    635,
+                    1368
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9563,
+                "bbox": [
+                    188,
+                    1401,
+                    1243,
+                    1436
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846,
+                "bbox": [
+                    187,
+                    1449,
+                    1509,
+                    1580
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9585,
+                "bbox": [
+                    187,
+                    1594,
+                    1300,
+                    1628
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.963,
+                "bbox": [
+                    567,
+                    1643,
+                    1130,
+                    1699
+                ],
+                "index": 21,
+                "latex": "C V _ { \\ t a x \\ d \\varepsilon \\mathrm { c h } \\hat { o } m \\ o g \\varepsilon } = \\sqrt { \\left( C V _ { \\ c h \\hat { o } m \\varepsilon u r \\hat { s } } \\right) ^ { 2 } + \\left( C V _ { \\ c a \\dot { c } \\dot { s } } \\right) ^ { 2 } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.978,
+                "bbox": [
+                    187,
+                    1716,
+                    1509,
+                    1783
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9439,
+                "bbox": [
+                    199,
+                    1833,
+                    648,
+                    1875
+                ],
+                "index": 23,
+                "latex": "\\surd ( 0 , 0 4 ) ^ { 2 } + ( 0 , 0 1 5 ) ^ { 2 } = 0 , 0 4 3 = 4 , 3 \\%"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809,
+                "bbox": [
+                    188,
+                    1797,
+                    1508,
+                    1913
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8547,
+                "bbox": [
+                    1089,
+                    1841,
+                    1446,
+                    1874
+                ],
+                "index": 25,
+                "latex": "\\mathbf { : } ~ 0 , 1 0 ~ \\times ~ 0 , 0 4 3 ~ \\times ~ 2 ~ = ~ 0 , 0 0 9"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7489,
+                "bbox": [
+                    190,
+                    2034,
+                    544,
+                    2100
+                ],
+                "index": 26
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    294,
+                    198,
+                    864,
+                    232
+                ],
+                "score": 1.0,
+                "text": "5.2 Précision des données en structure"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    268,
+                    1501,
+                    295
+                ],
+                "score": 0.995,
+                "text": "Dans la même commune de 20 000 habitants, il s’agit désormais de mesurer la précision de la répartition"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    300,
+                    710,
+                    327
+                ],
+                "score": 0.98,
+                "text": "(en %) de la population par tranche d’âge."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    349,
+                    1502,
+                    376
+                ],
+                "score": 0.984,
+                "text": "La précision d’un pourcentage dépend à la fois de la précision de son numérateur et de celle de son"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    380,
+                    1501,
+                    407
+                ],
+                "score": 0.994,
+                "text": "dénominateur. Le coefficient de variation du pourcentage s’obtient à partir des coefficients de variation du"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    413,
+                    1048,
+                    440
+                ],
+                "score": 0.978,
+                "text": "numérateur et du dénominateur se calcule avec la formule suivante :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    528,
+                    1506,
+                    560
+                ],
+                "score": 0.99,
+                "text": "NB: ce calcul ne tient pas compte de la corrélation entre le numérateur et le dénominateur; si on en"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    564,
+                    842,
+                    590
+                ],
+                "score": 0.992,
+                "text": "tenait compte, la précision serait en réalité meilleure."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1014,
+                    1505,
+                    1046
+                ],
+                "score": 0.977,
+                "text": "Calcul : pour les moins de 20 ans, 20 % correspond à un effectif de 4 000 (CV de 2,5 % d’après le"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1049,
+                    1503,
+                    1076
+                ],
+                "score": 0.986,
+                "text": "tableau du § 4.2) sur une population de référence de 20 000 (CV de 1,0 % d'après le même tableau). La"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1095,
+                    885,
+                    1122
+                ],
+                "score": 0.971,
+                "text": "précision de la part des moins de 20 ans est donc de :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1357,
+                    1092,
+                    1503,
+                    1124
+                ],
+                "score": 0.999,
+                "text": "et la marge"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1135,
+                    401,
+                    1162
+                ],
+                "score": 0.998,
+                "text": "d’incertitude de :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1182,
+                    1502,
+                    1215
+                ],
+                "score": 0.992,
+                "text": "Interprétation : la proportion de personnes de 20 à 39 ans est donc assurément plus élevée que celle"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1215,
+                    1066,
+                    1245
+                ],
+                "score": 0.982,
+                "text": "des moins de 20 ans, car la valeur minimale de la première proportion"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1324,
+                    1218,
+                    1503,
+                    1244
+                ],
+                "score": 1.0,
+                "text": "est supérieure"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1249,
+                    631,
+                    1276
+                ],
+                "score": 0.986,
+                "text": "à la valeur maximale de la seconde"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    294,
+                    1332,
+                    630,
+                    1367
+                ],
+                "score": 0.981,
+                "text": "5.3 Précision d'un taux"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1406,
+                    1238,
+                    1431
+                ],
+                "score": 1.0,
+                "text": "Pour analyser un taux, la démarche est la même que pour des données en structure."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1451,
+                    1504,
+                    1480
+                ],
+                "score": 0.992,
+                "text": "Dans la même commune, pour analyser par exemple la précision d’un taux de chômage de 10 % sur une"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1484,
+                    1501,
+                    1513
+                ],
+                "score": 0.992,
+                "text": "population de 10 000 actifs, on doit tenir compte de l’imprécision sur le nombre de chômeurs (effectif de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1515,
+                    1503,
+                    1543
+                ],
+                "score": 0.988,
+                "text": "1 000, donc CV de 4,0 % d’après le tableau du § 4.2) et de l’imprécision sur la population des actifs (CV"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1545,
+                    633,
+                    1577
+                ],
+                "score": 0.977,
+                "text": "de 1,5 % d'après le même tableau)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1594,
+                    1293,
+                    1626
+                ],
+                "score": 0.993,
+                "text": "La formule de calcul du CV du taux de chômage de cette commune est donc la suivante :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    1716,
+                    1506,
+                    1748
+                ],
+                "score": 0.99,
+                "text": "NB: ce calcul ne tient pas compte de la corrélation entre le numérateur et le dénominateur; si on en"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1750,
+                    842,
+                    1778
+                ],
+                "score": 0.999,
+                "text": "tenait compte, la précision serait en réalité meilleure."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1798,
+                    1506,
+                    1829
+                ],
+                "score": 0.98,
+                "text": "Calcul: la précision du taux de chômage, mesurée par le CV, est donc de :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    654,
+                    1843,
+                    1085,
+                    1874
+                ],
+                "score": 0.993,
+                "text": ", et la marge d’incertitude est de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1452,
+                    1843,
+                    1506,
+                    1875
+                ],
+                "score": 1.0,
+                "text": "soit"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1878,
+                    605,
+                    1909
+                ],
+                "score": 0.998,
+                "text": "0,9 point sur le taux de chômage."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    2037,
+                    539,
+                    2065
+                ],
+                "score": 0.983,
+                "text": "Version de septembre 2023"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    2068,
+                    288,
+                    2099
+                ],
+                "score": 0.967,
+                "text": "©Insee"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9389,
+                "bbox": [
+                    288,
+                    198,
+                    1370,
+                    235
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9794,
+                "bbox": [
+                    187,
+                    265,
+                    1507,
+                    362
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9748,
+                "bbox": [
+                    521,
+                    378,
+                    1168,
+                    526
+                ],
+                "index": 3,
+                "latex": "C V _ { Z o n e } = \\frac { \\displaystyle \\sqrt { \\sum _ { c } \\left( C V _ { c o m m a n e ( c ) } \\times E f f e c t i f _ { c o m m a n e ( c ) } \\right)}  ^ { 2 } } { \\displaystyle \\sum _ { c } E f f e c t i f _ { c o m m a n e ( c ) } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9499,
+                "bbox": [
+                    188,
+                    546,
+                    752,
+                    580
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9503,
+                "bbox": [
+                    235,
+                    595,
+                    1110,
+                    628
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9383,
+                "bbox": [
+                    237,
+                    628,
+                    1076,
+                    660
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9444,
+                "bbox": [
+                    235,
+                    661,
+                    826,
+                    693
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.976,
+                "bbox": [
+                    186,
+                    745,
+                    1506,
+                    814
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9713,
+                "bbox": [
+                    266,
+                    826,
+                    1508,
+                    894
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9723,
+                "bbox": [
+                    267,
+                    906,
+                    1509,
+                    973
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9533,
+                "bbox": [
+                    187,
+                    986,
+                    1185,
+                    1022
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9713,
+                "bbox": [
+                    494,
+                    1034,
+                    1189,
+                    1116
+                ],
+                "index": 12,
+                "latex": "C V _ { \\ Z o n \\varepsilon } = \\frac { C V _ { \\ c o m m \\varepsilon n \\varepsilon } \\ c \\times 5 0 0 0 } { 2 0 0 0 + 1 0 0 0 + 5 0 0 0 } = \\frac { 0 . 0 2 5 \\times 5 0 0 0 } { 8 0 0 0 } = 1 . 6 \\%"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9702,
+                "bbox": [
+                    186,
+                    1138,
+                    1507,
+                    1206
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9735,
+                "bbox": [
+                    186,
+                    1257,
+                    1506,
+                    1325
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9465,
+                "bbox": [
+                    187,
+                    1338,
+                    1056,
+                    1372
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9707,
+                "bbox": [
+                    300,
+                    1387,
+                    1388,
+                    1479
+                ],
+                "index": 16,
+                "latex": "C V _ { Z o n e } = \\frac { \\sqrt { \\left( C V _ { \\mathsf { \\mathsf { \\mathsf { C o m m a n E } } } ~ A } \\times 2 0 0 0 \\right) ^ { 2 } + \\left( C V _ { \\mathsf { \\mathsf { \\mathsf { C o m m a n E } } } ~ B } \\times 1 0 0 0 \\right) ^ { 2 } + \\left( C V _ { \\mathsf { \\mathsf { \\mathsf { C o m m a n E } } } } \\times 5 0 0 0 \\right) ^ { 2 } } } { 2 0 0 0 + 1 0 0 0 + 5 0 0 0 }"
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.8901,
+                "bbox": [
+                    271,
+                    1501,
+                    607,
+                    1547
+                ],
+                "index": 17,
+                "latex": "C V _ { \\ C o m m u n e \\ B } { = } \\sqrt { 5 } / \\sqrt { 1 0 0 0 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9393,
+                "bbox": [
+                    187,
+                    1500,
+                    1067,
+                    1548
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 15,
+                "label": "inline_formula",
+                "score": 0.9337,
+                "bbox": [
+                    658,
+                    1504,
+                    975,
+                    1547
+                ],
+                "index": 19,
+                "latex": "C V _ { \\ C o m m u n e \\ A } { = } 2 / \\sqrt { 2 0 0 0 }"
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9712,
+                "bbox": [
+                    453,
+                    1567,
+                    1225,
+                    1652
+                ],
+                "index": 20,
+                "latex": "C V _ { _ { Z o n g } } = \\frac { \\sqrt { 8 0 0 0 + 5 0 0 0 + ( 0 , 0 2 5 \\times 5 0 0 0 ) ^ { 2 } } } { 2 0 0 0 + 1 0 0 0 + 5 0 0 0 } = \\frac { \\sqrt { 2 8 6 2 5 } } { 8 0 0 0 } = 2 , 1 \\%"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9712,
+                "bbox": [
+                    186,
+                    1673,
+                    1506,
+                    1740
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8953,
+                "bbox": [
+                    190,
+                    2034,
+                    544,
+                    2100
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    295,
+                    198,
+                    1365,
+                    237
+                ],
+                "score": 0.995,
+                "text": "5.4 Précision des données d’une zone composée de plusieurs communes"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    266,
+                    1502,
+                    298
+                ],
+                "score": 0.987,
+                "text": "Pour analyser une zone constituée de plusieurs communes, il est possible de calculer la marge"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    300,
+                    1499,
+                    326
+                ],
+                "score": 0.992,
+                "text": "d’imprécision pour l’ensemble de la zone. Le coefficient de variation pour la zone est donné par la formule"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    332,
+                    317,
+                    358
+                ],
+                "score": 0.998,
+                "text": "suivante :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    549,
+                    746,
+                    578
+                ],
+                "score": 0.997,
+                "text": "Prenons, par exemple, une zone formée de :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    246,
+                    598,
+                    1104,
+                    626
+                ],
+                "score": 0.992,
+                "text": "- une commune A de moins de 10 000 habitants recensée avant 2014"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    247,
+                    632,
+                    1067,
+                    656
+                ],
+                "score": 0.993,
+                "text": "- une commune B de moins de 10 000 habitants recensée en 2014"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    241,
+                    660,
+                    819,
+                    690
+                ],
+                "score": 0.985,
+                "text": "- une commune C de 10 000 habitants ou plus."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    748,
+                    1500,
+                    774
+                ],
+                "score": 0.989,
+                "text": "Dans le cas d’une variable tirée de l’exploitation principale dont les effectifs sont respectivement de"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    781,
+                    1299,
+                    807
+                ],
+                "score": 0.995,
+                "text": "2 000 pour la commune A, de 1 000 pour la commune B et de 5 000 pour la commune C :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    308,
+                    828,
+                    1505,
+                    859
+                ],
+                "score": 0.988,
+                "text": "pour les deux communes de moins de 10 000 habitants A et B, il n’y a pas d’imprécision du fait"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    314,
+                    863,
+                    613,
+                    889
+                ],
+                "score": 0.98,
+                "text": "du sondage (voir le § 3)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    279,
+                    909,
+                    1504,
+                    940
+                ],
+                "score": 0.989,
+                "text": "pour la commune C de 10 000 habitants ou plus, la précision sur un effectif de 5 000 est de 3 %"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    312,
+                    942,
+                    481,
+                    970
+                ],
+                "score": 0.966,
+                "text": "(voir le § 4.2)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    989,
+                    1181,
+                    1019
+                ],
+                "score": 0.996,
+                "text": "Ainsi, le coefficient de variation pour l’ensemble des trois communes est égal à :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1140,
+                    1505,
+                    1171
+                ],
+                "score": 0.984,
+                "text": "La marge d’imprécision associée est de + ou - 3,2 %. L’effectif dans la zone multi-communale est donc"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    1175,
+                    725,
+                    1201
+                ],
+                "score": 0.97,
+                "text": "compris dans l’intervalle : 8 000 + ou - 256."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1257,
+                    1503,
+                    1290
+                ],
+                "score": 0.996,
+                "text": "Si la variable était tirée de l’exploitation complémentaire, les effectifs des deux communes de moins"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1292,
+                    1102,
+                    1323
+                ],
+                "score": 0.991,
+                "text": "de 10 000 habitants seraient aussi affectés d’une imprécision (voir le § 3)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1339,
+                    1047,
+                    1369
+                ],
+                "score": 0.988,
+                "text": "Pour les mêmes effectifs, le coefficient de variation deviendrait donc :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1508,
+                    262,
+                    1542
+                ],
+                "score": 1.0,
+                "text": "Avec"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    620,
+                    1509,
+                    653,
+                    1545
+                ],
+                "score": 1.0,
+                "text": "et"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    982,
+                    1509,
+                    1063,
+                    1542
+                ],
+                "score": 0.955,
+                "text": ", soit :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1676,
+                    1503,
+                    1703
+                ],
+                "score": 0.983,
+                "text": "La marge d’imprécision est alors de + ou – 4,2 %. L'effectif dans la zone multi-communale est donc"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1708,
+                    725,
+                    1734
+                ],
+                "score": 0.992,
+                "text": "compris dans l’intervalle : 8 000 + ou - 336."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    2037,
+                    539,
+                    2065
+                ],
+                "score": 0.983,
+                "text": "Version de septembre 2023"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    2068,
+                    288,
+                    2099
+                ],
+                "score": 0.967,
+                "text": "©Insee"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9051,
+                "bbox": [
+                    238,
+                    197,
+                    1070,
+                    238
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9409,
+                "bbox": [
+                    190,
+                    268,
+                    471,
+                    304
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9835,
+                "bbox": [
+                    186,
+                    316,
+                    1507,
+                    419
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9803,
+                "bbox": [
+                    187,
+                    429,
+                    1509,
+                    530
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9334,
+                "bbox": [
+                    762,
+                    574,
+                    939,
+                    607
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9874,
+                "bbox": [
+                    251,
+                    618,
+                    1417,
+                    940
+                ],
+                "index": 6,
+                "html": "<table><tr><td>Tranches d’âge</td><td>Population au recensement</td><td>Coefficient de variation (tableau §4.2)</td><td>Plage de valeurs possibles</td></tr><tr><td>Moins de 20 ans</td><td>4 000</td><td>2,5 %</td><td>4 000 + ou - 200</td></tr><tr><td>De 20 à 39 ans</td><td>6 000</td><td>1,5 %</td><td>6 000 + ou - 180</td></tr><tr><td>De 40 à 59 ans</td><td>6 000</td><td>1,5 %</td><td>6 000 + ou - 180</td></tr><tr><td>60 ans ou plus</td><td>4 000</td><td>2,5 %</td><td>4 000 + ou − 200</td></tr><tr><td>Ensemble</td><td>20 000</td><td>1,0 %</td><td>20 000 + ou - 400</td></tr></table>"
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.92,
+                "bbox": [
+                    762,
+                    988,
+                    937,
+                    1021
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9873,
+                "bbox": [
+                    250,
+                    1033,
+                    1417,
+                    1353
+                ],
+                "index": 8,
+                "html": "<table><tr><td rowspan=1 colspan=1>Tranches d’âge</td><td rowspan=1 colspan=1>Population aurecensement</td><td rowspan=1 colspan=1>Coefficient devariation (tableau §4.2)</td><td rowspan=1 colspan=1>Plage de valeurspossibles</td></tr><tr><td rowspan=1 colspan=1>Moins de 20 ans</td><td rowspan=1 colspan=1>7 000</td><td rowspan=1 colspan=1>1,5 %</td><td rowspan=1 colspan=1>7 000 + ou − 210</td></tr><tr><td rowspan=1 colspan=1>De 20 à 39 ans</td><td rowspan=1 colspan=1>13 000</td><td rowspan=1 colspan=1>1,5 %</td><td rowspan=1 colspan=1>13 000 + ou - 390</td></tr><tr><td rowspan=1 colspan=1>De 40 à 59 ans</td><td rowspan=1 colspan=1>13 000</td><td rowspan=1 colspan=1>1,5 %</td><td rowspan=1 colspan=1>13 000 + ou - 390</td></tr><tr><td rowspan=1 colspan=1>60 ans ou plus</td><td rowspan=1 colspan=1>7000</td><td rowspan=1 colspan=1>1,5 %</td><td rowspan=1 colspan=1>7 000 + ou − 210</td></tr><tr><td rowspan=1 colspan=1>Ensemble</td><td rowspan=1 colspan=1>40 000</td><td rowspan=1 colspan=1>1,0%</td><td rowspan=1 colspan=1>40 000 + ou - 800</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9686,
+                "bbox": [
+                    186,
+                    1392,
+                    1508,
+                    1495
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9471,
+                "bbox": [
+                    190,
+                    1561,
+                    483,
+                    1598
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9834,
+                "bbox": [
+                    187,
+                    1609,
+                    1506,
+                    1711
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.973,
+                "bbox": [
+                    571,
+                    1723,
+                    1118,
+                    1823
+                ],
+                "index": 12,
+                "latex": "C V _ { a - b } = \\frac { \\sqrt { \\left( C V _ { a } \\times E f f _ { a } \\right) ^ { 2 } + \\left( C V _ { b } \\times E f f _ { b } \\right) ^ { 2 } } } { E f f _ { a } - E f f _ { b } }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.953,
+                "bbox": [
+                    188,
+                    1843,
+                    1490,
+                    1879
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.9665,
+                "bbox": [
+                    234,
+                    1895,
+                    1461,
+                    1981
+                ],
+                "index": 14,
+                "latex": "C V _  \\substack { y _ { \\mathrm { d e i n s : } 2 0 \\textit { \\textbf { o r s c o n s t s } } A - 2 0 - 3 9 \\textit { \\textbf { o r s c o n s t s } } B } } = \\frac { \\sqrt { \\left( 0 , 0 1 5 \\times 6 0 0 0 \\right) ^ { 2 } + \\left( 0 , 0 1 5 \\times 7 0 0 0 \\right) ^ { 2 } } } { 7 0 0 0 - 6 0 0 0 } = \\frac { 1 3 8 } { 1 0 0 0 } = 1 . 3 8"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.5141,
+                "bbox": [
+                    190,
+                    2034,
+                    545,
+                    2101
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    245,
+                    201,
+                    1067,
+                    234
+                ],
+                "score": 0.994,
+                "text": "6. Application à la comparaison de deux communes"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    269,
+                    465,
+                    304
+                ],
+                "score": 0.998,
+                "text": "Première approche :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    320,
+                    1501,
+                    347
+                ],
+                "score": 0.992,
+                "text": "Pour comparer deux communes, ou plus généralement, deux zones composées de communes, au regard"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    352,
+                    1501,
+                    379
+                ],
+                "score": 0.988,
+                "text": "d'une variable, une première approche consiste à comparer les plages de valeurs possibles pour les"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    380,
+                    1129,
+                    414
+                ],
+                "score": 0.986,
+                "text": "effectifs correspondants, selon la méthode exposée plus haut (voir le § 5.2)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    432,
+                    1503,
+                    459
+                ],
+                "score": 0.985,
+                "text": "Exemple : pour comparer la population des 20-39 ans d’une grande commune A (6 000) à celle des moins"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    465,
+                    1503,
+                    492
+                ],
+                "score": 0.974,
+                "text": "de 20 ans d’une grande commune B (7 000), on calcule les intervalles de confiance associés à ces"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    193,
+                    495,
+                    650,
+                    527
+                ],
+                "score": 0.983,
+                "text": "populations à l’aide des CV calculés."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    767,
+                    576,
+                    933,
+                    607
+                ],
+                "score": 1.0,
+                "text": "Commune A"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    768,
+                    991,
+                    933,
+                    1022
+                ],
+                "score": 1.0,
+                "text": "Commune B"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1394,
+                    1502,
+                    1421
+                ],
+                "score": 0.981,
+                "text": "L'effectif maximal de la tranche 20-39 ans de la commune A (6 180) est inférieur à l’effectif minimal de la"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    1429,
+                    1503,
+                    1456
+                ],
+                "score": 0.998,
+                "text": "tranche moins de 20 ans de la commune B (6 790) ; on peut donc considérer que la population des 20-39"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1461,
+                    1275,
+                    1488
+                ],
+                "score": 0.991,
+                "text": "ans de la commune A est bien inférieure à celle des moins de 20 ans de la commune B."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1564,
+                    478,
+                    1596
+                ],
+                "score": 0.999,
+                "text": "Deuxième approche :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1613,
+                    1501,
+                    1639
+                ],
+                "score": 0.996,
+                "text": "Pour de telles comparaisons, la démarche la plus rigoureuse consiste à calculer le coefficient de variation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1644,
+                    1500,
+                    1671
+                ],
+                "score": 0.983,
+                "text": "de la quantité analysée, en l’occurrence, ici, de la différence entre les deux populations que l’on souhaite"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    1677,
+                    1147,
+                    1704
+                ],
+                "score": 0.999,
+                "text": "comparer (population a de la commune A et population b de la commune B) :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    196,
+                    1848,
+                    1486,
+                    1877
+                ],
+                "score": 0.983,
+                "text": "On calcule donc le CV associé à la différence entre les deux effectifs d’intérêt 7 000-6 000 = 1 000 ainsi :"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    2035,
+                    539,
+                    2065
+                ],
+                "score": 0.997,
+                "text": "Version de septembre 2023"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    2068,
+                    289,
+                    2100
+                ],
+                "score": 0.974,
+                "text": "©Insee"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1700,
+            "height": 2200
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9723,
+                "bbox": [
+                    187,
+                    196,
+                    1509,
+                    297
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9231,
+                "bbox": [
+                    188,
+                    310,
+                    1221,
+                    346
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9395,
+                "bbox": [
+                    192,
+                    2034,
+                    543,
+                    2100
+                ],
+                "index": 3
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    195,
+                    1504,
+                    229
+                ],
+                "score": 0.992,
+                "text": "La différence est donc comprise entre (1 000 - 276) et (1 000 + 276). Elle est toujours positive. On peut"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    228,
+                    1503,
+                    261
+                ],
+                "score": 0.986,
+                "text": "donc affirmer avec une forte certitude que, malgré les imprécisions liées au sondage, la population des"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    195,
+                    264,
+                    1328,
+                    290
+                ],
+                "score": 0.996,
+                "text": "20-39 ans de la commune A est bien inférieure à celle des moins de 20 ans de la commune."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    310,
+                    1214,
+                    344
+                ],
+                "score": 0.998,
+                "text": "La démarche pour la comparaison de deux zones supracommunales est analogue."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    197,
+                    2037,
+                    539,
+                    2065
+                ],
+                "score": 1.0,
+                "text": "Version de septembre 2023"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    2070,
+                    288,
+                    2099
+                ],
+                "score": 0.991,
+                "text": "©Insee"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1700,
+            "height": 2200
+        }
+    }
+]

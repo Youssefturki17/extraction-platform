@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plateforme d'extraction de documents</title>
+  <meta name="description" content="Plateforme d'extraction de texte et tableaux par page depuis des documents PDF, avec comparaison de modèles Docling et MinerU.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #020617;
+      --surface: #0f172a;
+      --card: #1e293b;
+      --border: #334155;
+      --border-subtle: #1e293b;
+      --text: #f1f5f9;
+      --text-muted: #94a3b8;
+      --text-dim: #64748b;
+      --primary: #3b82f6;
+      --primary-light: #60a5fa;
+      --primary-glow: rgba(59,130,246,0.15);
+      --success-bg: rgba(34,197,94,0.12);
+      --success: #4ade80;
+      --success-border: rgba(34,197,94,0.25);
+      --error-bg: rgba(239,68,68,0.12);
+      --error: #f87171;
+      --error-border: rgba(239,68,68,0.25);
+      --page-tag: #7c3aed;
+      --page-tag-bg: rgba(124,58,237,0.12);
+      --page-tag-border: rgba(124,58,237,0.25);
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      background-image:
+        radial-gradient(ellipse 80% 50% at 50% -20%, rgba(59,130,246,0.08), transparent),
+        radial-gradient(ellipse 60% 40% at 80% 80%, rgba(124,58,237,0.05), transparent);
+      background-attachment: fixed;
+      color: var(--text);
+      min-height: 100vh;
+    }
+    header { text-align: center; padding: 52px 20px 28px; }
+    header h1 {
+      font-size: 1.9rem; font-weight: 700; letter-spacing: -0.5px;
+      background: linear-gradient(135deg, #f1f5f9 40%, #60a5fa);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+    }
+    header p { margin-top: 8px; font-size: 14px; color: var(--text-muted); }
+
+    .tabs { display: flex; justify-content: center; gap: 4px; padding: 0 20px 24px; }
+    .tab {
+      padding: 9px 22px; border-radius: 8px; font-size: 14px; font-weight: 500;
+      cursor: pointer; color: var(--text-muted); border: 1px solid transparent;
+      transition: all 0.2s; user-select: none;
+    }
+    .tab:hover { color: var(--text); background: rgba(255,255,255,0.04); }
+    .tab.active { color: var(--primary-light); background: var(--primary-glow); border-color: rgba(59,130,246,0.3); }
+
+    .content { max-width: 860px; margin: 0 auto; padding: 0 20px 60px; }
+    .panel { display: none; }
+    .panel.active { display: block; animation: fadeIn 0.2s ease; }
+    @keyframes fadeIn { from { opacity:0; transform:translateY(4px) } to { opacity:1; transform:none } }
+
+    .card {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: 14px; padding: 28px; margin-bottom: 20px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+    }
+    label {
+      display: block; font-size: 12px; font-weight: 600; letter-spacing: 0.05em;
+      text-transform: uppercase; color: var(--text-muted);
+      margin-bottom: 8px; margin-top: 20px;
+    }
+    label:first-child { margin-top: 0; }
+    input[type=file], select {
+      width: 100%; padding: 10px 12px; border: 1px solid var(--border); border-radius: 8px;
+      font-size: 14px; background: var(--surface); color: var(--text);
+      outline: none; transition: border-color 0.2s, box-shadow 0.2s; font-family: inherit;
+    }
+    input[type=file]:focus, select:focus { border-color: var(--primary); box-shadow: 0 0 0 3px var(--primary-glow); }
+    input[type=file]::file-selector-button {
+      background: var(--border); color: var(--text); border: none;
+      padding: 6px 14px; border-radius: 5px; margin-right: 12px;
+      cursor: pointer; font-weight: 500; font-size: 13px; transition: background 0.2s;
+    }
+    input[type=file]::file-selector-button:hover { background: #475569; }
+
+    button {
+      width: 100%; background: linear-gradient(135deg, #2563eb, #3b82f6);
+      color: white; border: none; padding: 13px 24px; border-radius: 9px;
+      cursor: pointer; font-size: 14px; font-weight: 600; margin-top: 22px;
+      transition: opacity 0.2s, transform 0.12s, box-shadow 0.2s;
+      box-shadow: 0 4px 14px rgba(59,130,246,0.35); font-family: inherit;
+      display: flex; align-items: center; justify-content: center; gap: 8px;
+    }
+    button:hover { opacity: 0.9; box-shadow: 0 6px 20px rgba(59,130,246,0.4); }
+    button:active { transform: scale(0.98); }
+    button:disabled { background: var(--border); color: var(--text-dim); cursor: not-allowed; box-shadow: none; }
+
+    .check-group { display: flex; gap: 20px; margin-top: 4px; }
+    .check-group label {
+      display: flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 400;
+      text-transform: none; letter-spacing: 0; margin: 0; cursor: pointer; color: var(--text);
+    }
+    input[type=checkbox] { width: 16px; height: 16px; accent-color: var(--primary); cursor: pointer; }
+
+    .spinner {
+      display: inline-block; width: 15px; height: 15px;
+      border: 2px solid rgba(255,255,255,0.3); border-top-color: white;
+      border-radius: 50%; animation: spin 0.75s linear infinite; flex-shrink: 0;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .badge {
+      display: inline-flex; align-items: center; gap: 6px; padding: 5px 13px;
+      border-radius: 99px; font-size: 12px; font-weight: 600; letter-spacing: 0.02em;
+    }
+    .badge::before { content: ''; display: inline-block; width: 6px; height: 6px; border-radius: 50%; }
+    .success { background: var(--success-bg); color: var(--success); border: 1px solid var(--success-border); }
+    .success::before { background: var(--success); }
+    .error { background: var(--error-bg); color: var(--error); border: 1px solid var(--error-border); }
+    .error::before { background: var(--error); }
+
+    .stats-row {
+      display: flex; flex-wrap: wrap; gap: 20px; font-size: 13px; color: var(--text-muted);
+      margin: 14px 0 20px; padding-bottom: 18px; border-bottom: 1px solid var(--border-subtle);
+    }
+    .stats-row span strong { color: var(--text); font-weight: 600; }
+
+    .subtabs { display: flex; gap: 0; border-bottom: 1px solid var(--border); margin-bottom: 20px; }
+    .subtab {
+      padding: 9px 18px; cursor: pointer; font-size: 13px; font-weight: 500;
+      color: var(--text-dim); border-bottom: 2px solid transparent;
+      transition: color 0.2s, border-color 0.2s; user-select: none;
+    }
+    .subtab:hover { color: var(--text-muted); }
+    .subtab.active { color: var(--text); border-bottom-color: var(--primary); }
+
+    .page-block { margin-bottom: 20px; }
+    .page-label {
+      display: inline-flex; align-items: center; gap: 6px; font-size: 11px;
+      font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase;
+      color: var(--page-tag); background: var(--page-tag-bg);
+      border: 1px solid var(--page-tag-border); padding: 4px 12px;
+      border-radius: 99px; margin-bottom: 10px;
+    }
+
+    pre {
+      white-space: pre-wrap; font-size: 13px; background: var(--surface);
+      padding: 18px; border-radius: 9px; max-height: 360px; overflow-y: auto;
+      border: 1px solid var(--border-subtle); font-family: 'Consolas', monospace;
+      color: #cbd5e1; line-height: 1.6;
+    }
+    pre::-webkit-scrollbar { width: 6px; }
+    pre::-webkit-scrollbar-track { background: transparent; }
+    pre::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+    .empty-state { text-align: center; padding: 40px 20px; color: var(--text-dim); font-size: 14px; }
+    .empty-state .icon { font-size: 32px; margin-bottom: 12px; }
+
+    .bench-table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    th {
+      text-align: left; padding: 10px 14px; font-size: 11px; font-weight: 600;
+      letter-spacing: 0.05em; text-transform: uppercase; color: var(--text-dim);
+      border-bottom: 1px solid var(--border);
+    }
+    td { padding: 11px 14px; border-bottom: 1px solid var(--border-subtle); color: var(--text-muted); }
+    tr:last-child td { border-bottom: none; }
+    td.winner { color: var(--success); font-weight: 600; }
+
+    .progress-log {
+      background: var(--surface); border: 1px solid var(--border); border-radius: 9px;
+      padding: 14px 18px; font-family: 'Consolas', monospace; font-size: 13px;
+      color: var(--text-muted); max-height: 220px; overflow-y: auto;
+    }
+    .progress-line { padding: 3px 0; }
+    #benchSummary { font-size: 13px; color: var(--text-muted); margin-bottom: 16px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Plateforme d'extraction</h1>
+  <p>Extraire texte &amp; tableaux par page &middot; Comparer les modèles</p>
+</header>
+
+<div class="tabs">
+  <div class="tab active" id="tab-extraction" onclick="switchTab('extraction')">🔍 Extraction</div>
+  <div class="tab" id="tab-benchmark" onclick="switchTab('benchmark')">📊 Benchmark</div>
+</div>
+
+<div class="content">
+
+  <!-- ══ PANEL EXTRACTION ══ -->
+  <div id="panel-extraction" class="panel active">
+
+    <div class="card">
+      <label>Fichier PDF ou image</label>
+      <input type="file" id="fileInput" accept=".pdf,.png,.jpg,.jpeg">
+      <label>Modèle d'extraction</label>
+      <select id="modelSelect">
+        <option value="docling">Docling (IBM)</option>
+        <option value="mineru">MinerU (Structure Avancée)</option>
+      </select>
+      <button id="uploadBtn" onclick="uploadFile()">Lancer l'extraction</button>
+    </div>
+
+    <div class="card" id="extractionResult" style="display:none">
+      <div id="extractionBadge" style="margin-bottom:14px"></div>
+      <div class="stats-row" id="statsRow" style="display:none">
+        <span id="statModele"></span>
+        <span id="statTableaux"></span>
+        <span id="statPages"></span>
+        <span id="statDuree"></span>
+      </div>
+      <div class="subtabs">
+        <div class="subtab active" id="subtab-texte" onclick="switchSub('texte')">Texte par page</div>
+        <div class="subtab" id="subtab-tableaux" onclick="switchSub('tableaux')">Tableaux par page</div>
+      </div>
+      <div id="sub-texte">
+        <div id="texteParPage">
+          <div class="empty-state"><div class="icon">📄</div>Aucun texte extrait</div>
+        </div>
+      </div>
+      <div id="sub-tableaux" style="display:none">
+        <div id="tableauxParPage">
+          <div class="empty-state"><div class="icon">🗂️</div>Aucun tableau détecté</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ══ PANEL BENCHMARK ══ -->
+  <div id="panel-benchmark" class="panel">
+
+    <div class="card">
+      <label>Fichiers PDF à tester</label>
+      <input type="file" id="benchFiles" accept=".pdf" multiple>
+      <label>Modèles à comparer</label>
+      <div class="check-group">
+        <label><input type="checkbox" id="chkDocling" checked> Docling</label>
+        <label><input type="checkbox" id="chkMineru" checked> MinerU</label>
+      </div>
+      <button id="benchBtn" onclick="runBenchmark()">Lancer le benchmark</button>
+    </div>
+
+    <div class="card" id="benchProgress" style="display:none">
+      <div style="font-size:13px;font-weight:600;margin-bottom:12px;color:var(--text-muted)">Progression</div>
+      <div class="progress-log" id="progressLog"></div>
+    </div>
+
+    <div class="card" id="benchResults" style="display:none">
+      <div id="benchSummary"></div>
+      <div class="bench-table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Fichier</th><th>Modèle</th><th>Tableaux</th>
+              <th>Mots</th><th>Durée (s)</th><th>Score</th><th>Statut</th>
+            </tr>
+          </thead>
+          <tbody id="benchTable"></tbody>
+        </table>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+<script>
+function switchTab(name) {
+  ['extraction','benchmark'].forEach(n => {
+    document.getElementById('tab-' + n).classList.toggle('active', n === name);
+    document.getElementById('panel-' + n).classList.toggle('active', n === name);
+  });
+}
+
+function switchSub(name) {
+  ['texte','tableaux'].forEach(s => {
+    document.getElementById('sub-' + s).style.display = s === name ? 'block' : 'none';
+    document.getElementById('subtab-' + s).classList.toggle('active', s === name);
+  });
+}
+
+async function waitForJobResult(jobId) {
+  while (true) {
+    await new Promise(r => setTimeout(r, 2000));
+    try {
+      const r = await fetch('/result/' + jobId);
+      const rd = await r.json();
+      if (rd.status !== 'processing') return rd;
+    } catch(e) {
+      return { status: 'error', error: 'Erreur de connexion au serveur' };
+    }
+  }
+}
+
+function escHtml(str) {
+  return String(str)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+async function uploadFile() {
+  const file  = document.getElementById('fileInput').files[0];
+  const model = document.getElementById('modelSelect').value;
+  const btn   = document.getElementById('uploadBtn');
+  if (!file) { alert('Sélectionne un fichier'); return; }
+
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner"></span>Extraction en cours&hellip;';
+  document.getElementById('extractionResult').style.display = 'none';
+
+  const formData = new FormData();
+  formData.append('file', file);
+  formData.append('model', model);
+
+  try {
+    const res  = await fetch('/upload', { method: 'POST', body: formData });
+    const data = await res.json();
+    const rd   = await waitForJobResult(data.job_id);
+
+    document.getElementById('extractionResult').style.display = 'block';
+    const ok = rd.status === 'done';
+
+    document.getElementById('extractionBadge').innerHTML =
+      '<span class="badge ' + (ok ? 'success' : 'error') + '">' +
+      (ok ? 'Extraction réussie' : "Échec de l'extraction") + '</span>';
+
+    if (ok && rd.result) {
+      const r = rd.result;
+
+      const statsRow = document.getElementById('statsRow');
+      statsRow.style.display = 'flex';
+      document.getElementById('statModele').innerHTML   = 'Modèle : <strong>' + (r.model ?? model) + '</strong>';
+      document.getElementById('statTableaux').innerHTML = 'Tableaux : <strong>' + (r.nb_tableaux ?? 0) + '</strong>';
+      document.getElementById('statPages').innerHTML    = 'Pages : <strong>' + (r.nb_pages ?? '—') + '</strong>';
+      document.getElementById('statDuree').innerHTML    = 'Durée : <strong>' + (r.duration_seconds ?? '—') + 's</strong>';
+
+      // Texte par page
+      const texteDiv  = document.getElementById('texteParPage');
+      const textPages = r.texte_par_page ?? [];
+      texteDiv.innerHTML = '';
+      if (textPages.length === 0) {
+        texteDiv.innerHTML = '<div class="empty-state"><div class="icon">📄</div>Aucun texte extrait</div>';
+      } else {
+        textPages.forEach(function(p) {
+          texteDiv.innerHTML +=
+            '<div class="page-block">' +
+            '<div class="page-label">📄 Page ' + p.page + '</div>' +
+            '<pre>' + escHtml(p.contenu) + '</pre></div>';
+        });
+      }
+
+      // Tableaux par page
+      const tabDiv   = document.getElementById('tableauxParPage');
+      const tabPages = r.tableaux_par_page ?? [];
+      tabDiv.innerHTML = '';
+      var totalTables = 0;
+      tabPages.forEach(function(p) {
+        p.tableaux.forEach(function(t, i) {
+          totalTables++;
+          var content = typeof t === 'string' ? t : JSON.stringify(t, null, 2);
+          tabDiv.innerHTML +=
+            '<div class="page-block">' +
+            '<div class="page-label">🗂️ Page ' + p.page + ' &mdash; Tableau ' + (i+1) + '</div>' +
+            '<pre>' + escHtml(content) + '</pre></div>';
+        });
+      });
+      if (totalTables === 0) {
+        tabDiv.innerHTML = '<div class="empty-state"><div class="icon">🗂️</div>Aucun tableau détecté dans ce document</div>';
+      }
+
+      switchSub('texte');
+
+    } else {
+      document.getElementById('statsRow').style.display = 'none';
+      document.getElementById('texteParPage').innerHTML =
+        '<pre>' + escHtml(rd.message || rd.error || "Erreur lors de l'extraction") + '</pre>';
+    }
+
+  } catch(e) {
+    alert('Erreur : ' + e.message);
+  } finally {
+    btn.disabled = false;
+    btn.innerHTML = "Lancer l'extraction";
+  }
+}
+
+async function runBenchmark() {
+  const files  = document.getElementById('benchFiles').files;
+  const models = [];
+  if (document.getElementById('chkDocling').checked) models.push('docling');
+  if (document.getElementById('chkMineru').checked)  models.push('mineru');
+
+  if (!files.length) { alert('Sélectionne au moins un PDF'); return; }
+  if (!models.length) { alert('Sélectionne au moins un modèle'); return; }
+
+  const btn = document.getElementById('benchBtn');
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner"></span>En cours&hellip;';
+
+  document.getElementById('benchProgress').style.display = 'block';
+  document.getElementById('benchResults').style.display  = 'none';
+  document.getElementById('progressLog').innerHTML = '';
+
+  const allResults = [];
+
+  for (const file of files) {
+    for (const model of models) {
+      addLog(file.name + ' \u2192 ' + model + '\u2026');
+      const formData = new FormData();
+      formData.append('file', file);
+      formData.append('model', model);
+      try {
+        const t0  = Date.now();
+        const res = await fetch('/upload', { method: 'POST', body: formData });
+        const up  = await res.json();
+        const rd  = await waitForJobResult(up.job_id);
+        const dur = ((Date.now() - t0) / 1000).toFixed(1);
+        const r   = rd.result ?? {};
+        const mots = (r.texte_par_page ?? [])
+          .reduce(function(s, p) { return s + p.contenu.split(/\s+/).filter(Boolean).length; }, 0);
+        allResults.push({
+          fichier: file.name, modele: model,
+          tableaux: r.nb_tableaux ?? 0, mots: mots,
+          duree: r.duration_seconds ?? dur,
+          score: (r.qualite_texte && r.qualite_texte.score_100) ? r.qualite_texte.score_100 : '—',
+          statut: rd.status
+        });
+        addLog('\u2713 ' + file.name + ' / ' + model + ' \u2014 ' + (r.duration_seconds ?? dur) + 's');
+      } catch(e) {
+        addLog('\u2717 Erreur : ' + e.message);
+        allResults.push({ fichier: file.name, modele: model, tableaux: 0, mots: 0, duree: '—', score: '—', statut: 'error' });
+      }
+    }
+  }
+
+  showBenchResults(allResults);
+  document.getElementById('benchProgress').style.display = 'none';
+  btn.disabled = false;
+  btn.innerHTML = 'Lancer le benchmark';
+}
+
+function addLog(msg) {
+  const div = document.createElement('div');
+  div.className = 'progress-line';
+  div.textContent = msg;
+  const log = document.getElementById('progressLog');
+  log.appendChild(div);
+  div.scrollIntoView({ behavior: 'smooth' });
+}
+
+function showBenchResults(results) {
+  const tbody = document.getElementById('benchTable');
+  tbody.innerHTML = '';
+  const byFile = {};
+  results.forEach(function(r) {
+    if (!byFile[r.fichier]) byFile[r.fichier] = {};
+    byFile[r.fichier][r.modele] = r;
+  });
+  results.forEach(function(r) {
+    const peers    = Object.values(byFile[r.fichier]);
+    const maxT     = Math.max.apply(null, peers.map(function(p){ return p.tableaux; }));
+    const minD     = Math.min.apply(null, peers.map(function(p){ return parseFloat(p.duree) || 999; }));
+    const maxS     = Math.max.apply(null, peers.map(function(p){ return parseFloat(p.score) || 0; }));
+    const tr = document.createElement('tr');
+    tr.innerHTML =
+      '<td style="color:var(--text)">' + escHtml(r.fichier) + '</td>' +
+      '<td style="color:var(--primary-light)">' + r.modele + '</td>' +
+      '<td class="' + (r.tableaux === maxT ? 'winner' : '') + '">' + r.tableaux + '</td>' +
+      '<td>' + r.mots.toLocaleString('fr-FR') + '</td>' +
+      '<td class="' + (parseFloat(r.duree) === minD ? 'winner' : '') + '">' + r.duree + '</td>' +
+      '<td class="' + (parseFloat(r.score) === maxS ? 'winner' : '') + '">' + r.score + '</td>' +
+      '<td><span class="badge ' + (r.statut === 'done' ? 'success' : 'error') + '">' + r.statut + '</span></td>';
+    tbody.appendChild(tr);
+  });
+  const ok = results.filter(function(r){ return r.statut === 'done'; }).length;
+  document.getElementById('benchSummary').textContent =
+    results.length + ' extractions \u2014 ' + ok + ' r\u00e9ussies';
+  document.getElementById('benchResults').style.display = 'block';
+}
+</script>
+</body>
+</html>
