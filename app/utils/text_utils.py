@@ -1,5 +1,5 @@
 """
-utils.py — Utilitaires de post-traitement du texte extrait.
+text_utils.py — Utilitaires de post-traitement du texte extrait.
 
 Fonctions principales :
     html_tables_to_markdown(text) : Remplace les blocs <table>…</table>

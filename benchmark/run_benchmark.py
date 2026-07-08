@@ -10,7 +10,7 @@ from datetime import datetime
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from app.pipeline import ExtractionPipeline
+from app.services.extraction_service import ExtractionPipeline
 
 
 def count_words(text: str) -> int:

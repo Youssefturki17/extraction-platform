@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+
+# Generated at runtime
+uploads/
+outputs/
+benchmark/results/
+benchmark/pdfs/
+
+# Models cache
+.cache/
+models--*/
+
+# Docker
+.dockerignore
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+# PDF files everywhere in the project
+*.pdf
+# Virtual environment
+venv/
+.venv/
+env/
+# Docker
+.dockerignore
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+*.txt.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+~$*

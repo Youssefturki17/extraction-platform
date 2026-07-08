@@ -3,23 +3,22 @@ import json
 import math
 import pandas as pd
 
-# Dossier de sortie calculé relativement à ce fichier (fonctionne hors contexte Flask)
-_BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-_OUTPUT_FOLDER = os.path.join(_BASE_DIR, 'outputs')
-os.makedirs(_OUTPUT_FOLDER, exist_ok=True)
+from app.config import OUTPUT_FOLDER
 
-# Import des fonctions extract() de chaque modèle
-from app.models import mineru_model, docling_model
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
+# Import des fonctions extract() de chaque service
+from app.services import docling_service, mineru_service
 
 _MODELS = {
-    "mineru": mineru_model.extract,
-    "docling": docling_model.extract,
+    "mineru": mineru_service.extract,
+    "docling": docling_service.extract,
 }
 
 # PaddleOCR n'est pas disponible sur Windows/Python 3.13 - on l'exclut silencieusement
 try:
-    from app.models import paddle_model
-    _MODELS["paddle"] = paddle_model.extract
+    from app.services import paddle_service
+    _MODELS["paddle"] = paddle_service.extract
 except Exception:
     pass
 
@@ -49,14 +48,14 @@ class ExtractionPipeline:
         duration = round(_time.time() - t0, 2)
 
         # Nettoyage du texte et conversion des tableaux HTML en Markdown
-        from app.utils import clean_extracted_text
+        from app.utils.text_utils import clean_extracted_text
         if "text" in result:
             result["text"] = clean_extracted_text(result["text"])
 
         # Sauvegarde du resultat dans le dossier outputs
         filename = os.path.basename(file_path)
         output_filename = f"{os.path.splitext(filename)[0]}_{model_name}_output.json"
-        output_path = os.path.join(_OUTPUT_FOLDER, output_filename)
+        output_path = os.path.join(OUTPUT_FOLDER, output_filename)
 
         # Les DataFrames ne sont pas JSON-serialisables directement
         # On remplace NaN/Inf par None pour produire du JSON valide
@@ -96,7 +95,7 @@ class ExtractionPipeline:
             
         # Sauvegarde du texte extrait dans un fichier .txt bien structuré
         txt_output_filename = f"{os.path.splitext(filename)[0]}_{model_name}_output.txt"
-        txt_output_path = os.path.join(_OUTPUT_FOLDER, txt_output_filename)
+        txt_output_path = os.path.join(OUTPUT_FOLDER, txt_output_filename)
         with open(txt_output_path, 'w', encoding='utf-8') as f:
             f.write(serializable_result.get("text", ""))
             

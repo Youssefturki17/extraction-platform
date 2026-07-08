@@ -1,9 +1,19 @@
-flask
-flask-cors
-werkzeug
-gunicorn
-# Dependances pour l'extraction (a installer selon l'environnement)
-# docling
-# paddlepaddle
-# paddleocr
-# mineru
+
+flask==3.0.3
+python-dotenv==1.0.1
+pandas==2.2.2
+pillow==10.4.0
+python-magic==0.4.27
+uuid==1.30
+# modèles DL
+mineru==2.5.0
+docling==2.5.0
+paddlepaddle==2.6.2
+paddleocr==2.8.1
+# benchmarking
+jiwer==3.0.4
+openpyxl==3.1.5
+
+# db
+Flask-SQLAlchemy==3.1.1
+psycopg[binary]==3.3.4
