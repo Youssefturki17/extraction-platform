@@ -31,6 +31,12 @@ OVERLAP    = 200    # overlap between consecutive chunks
 SUPPORTED_MODELS = ["docling", "mineru", "paddle"]
 
 # ---------------------------------------------------------------------------
-# Database
+# Database — PostgreSQL uniquement (SQLite supprimé)
 # ---------------------------------------------------------------------------
-DATABASE_URL = os.getenv("DATABASE_URL", f"sqlite:///{os.path.join(BASE_DIR, 'fininfo.db')}")
+DATABASE_URL = os.getenv("DATABASE_URL")
+if not DATABASE_URL:
+    raise EnvironmentError(
+        "La variable d'environnement DATABASE_URL n'est pas définie.\n"
+        "Exemple : postgresql+psycopg://postgres:postgres@localhost:5433/fininfo_db\n"
+        "Définissez-la avant de lancer l'application."
+    )
